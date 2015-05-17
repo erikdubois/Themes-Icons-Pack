@@ -12,6 +12,9 @@ Beware icons will be copied to ~/.icons
 
 Beware cursors will be copied to ~/.themes
 
+BUT they will not be overwritten!!
+Remove manually if you have already an older/adapted version.
+
 
 It is up to you to activate them.
 
