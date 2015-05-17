@@ -112,6 +112,16 @@ https://github.com/NitruxSA/flattr-icons
 
 
 
+# 9. Superflat remix icons
+
+http://gnome-look.org/content/show.php/Super+flat+remix+icon+theme?content=169073
+
+http://the-ilife.com/post/127
+
+<a target="_blank" href="http://erikdubois.be/wp-content/uploads/2015/05/vertex-flat-remix.png">
+<img style="max-width:100%;" src="http://erikdubois.be/wp-content/uploads/2015/05/vertex-flat-remix.png">
+</a>
+
 
 
 
@@ -130,15 +140,15 @@ sudo apt-get install moka-icon-theme
 # Uniform icons
 
 http://0rax0.deviantart.com/art/Uniform-Icon-Theme-453054609
+
 http://www.deviantart.com/download/453054609/uniform_icon_theme_by_0rax0-d7hqj69.zip?token=9a22eb94b89fbc4ad45ff124e008b01a27a456a3&ts=1431882377
 
 # Flatwoken icons
 
 sudo apt-get install git
+
 git clone https://github.com/alecive/FlatWoken.git
 
-# Superflat remix icons
 
-http://gnome-look.org/content/show.php/Super+flat+remix+icon+theme?content=169073
 
 

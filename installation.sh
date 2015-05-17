@@ -77,5 +77,9 @@ cp -r /tmp/flattr-icons/Flattr\ Dark/* ~/.icons/Flattr\ Dark
 
 
 
+# S U P E R F L A T  R E M I X  I C O N S
+
+# it is on megashare download for the moment download manually
+#https://mega.co.nz/#!NRV0ibIa!pIQjTBd0LdASs9G_L9waKwh8xsYglsC4omNujtyAcDs 
 
 
