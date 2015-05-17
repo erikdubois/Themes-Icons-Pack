@@ -89,7 +89,7 @@ https://github.com/solus-project/evopop-icon-theme
 <img style="max-width:100%;" src="http://erikdubois.be/wp-content/uploads/2015/05/Evopopicons.png">
 </a>
 
-#7. Arch Frost
+#7. Arch Frost theme
 
 http://osendott.github.io/arch-frost/
 
