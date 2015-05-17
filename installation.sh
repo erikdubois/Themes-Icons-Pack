@@ -15,11 +15,10 @@
 ########        T H E M E S    #########
 ########################################
 
-git clone https://github.com/KotusWorks/Ardis-icon-theme.git ~/.themes/Ardis-icon-theme
 
-<a target="_blank" href="http://erikdubois.be/wp-content/uploads/2015/05/Screenshot-from-2015-05-17-114440.png">
-<img style="max-width:100%;" src="http://erikdubois.be/wp-content/uploads/2015/05/Screenshot-from-2015-05-17-114440.png">
-</a>
+git clone https://github.com/horst3180/vertex-theme /tmp/vertex-theme
+mkdir ~/.themes/vertex-theme
+cp -r /tmp/vertex-theme/common/* ~/.themes/vertex-theme
 
 
 
@@ -34,7 +33,7 @@ git clone https://github.com/KotusWorks/Ardis-icon-theme.git ~/.themes/Ardis-ico
 ########        I C O N S      #########
 ########################################
 
-
+git clone https://github.com/KotusWorks/Ardis-icon-theme.git ~/.icons/Ardis-icon-theme
 
 
 
