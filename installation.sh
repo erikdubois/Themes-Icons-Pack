@@ -15,7 +15,7 @@
 ########        T H E M E S    #########
 ########################################
 
-
+# V E R T E X
 git clone https://github.com/horst3180/vertex-theme /tmp/vertex-theme
 mkdir ~/.themes/vertex-theme
 cp -r /tmp/vertex-theme/common/* ~/.themes/vertex-theme
@@ -33,6 +33,7 @@ cp -r /tmp/vertex-theme/common/* ~/.themes/vertex-theme
 ########        I C O N S      #########
 ########################################
 
+# A R D I S
 git clone https://github.com/KotusWorks/Ardis-icon-theme.git ~/.icons/Ardis-icon-theme
 
 
