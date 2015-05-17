@@ -65,9 +65,11 @@ Beware this ones gives you many choices with minute color changes
 
 # 5. Ceti Theme
 
-sudo add-apt-repository ppa:noobslab/themes
-sudo apt-get update
-sudo apt-get install ceti-theme
+These can be installed via the terminal or via script.
+
+	sudo add-apt-repository ppa:noobslab/themes
+	sudo apt-get update
+	sudo apt-get install ceti-theme
 
 <a target="_blank" href="http://erikdubois.be/wp-content/uploads/2015/05/ceti-vibrancy.png">
 <img style="max-width:100%;" src="http://erikdubois.be/wp-content/uploads/2015/05/ceti-vibrancy.png">
