@@ -48,6 +48,10 @@ sudo apt-get install ceti-theme
 # A R D I S
 git clone https://github.com/KotusWorks/Ardis-icon-theme.git ~/.icons/Ardis-icon-theme
 
+# E V O P O P
+git clone https://github.com/solus-project/evopop-icon-theme.git /tmp/evopop-icon-theme
+mkdir ~/.icons/evopop-icon-theme
+cp -r /tmp/evopop-icon-theme/EvoPop/* ~/.icons/evopop-icon-theme
 
 
 

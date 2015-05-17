@@ -49,21 +49,25 @@ These can be installed via the terminal or via the script
 <img style="max-width:100%;" src="http://erikdubois.be/wp-content/uploads/2015/05/numix-circles.png">
 </a>
 
-# 4. Ambiance Theme
+# 4. Ambiance Theme and Radiance colors
+http://www.ravefinity.com/p/download-ambiance-radiance-colors.html
 
 These can be installed via the terminal or via script.
 
-Beware this ones gives you many choices with minute color changes
+Beware this ones gives you many choices with minute color changes.
 
 	sudo add-apt-repository ppa:ravefinity-project/ppa 
 	sudo apt-get update
-	sudo apt-get install ambiance-colors 
+	sudo apt-get install ambiance-colors radiance-colors
 
 <a target="_blank" href="http://erikdubois.be/wp-content/uploads/2015/05/ambiance-mint.png">
 <img style="max-width:100%;" src="http://erikdubois.be/wp-content/uploads/2015/05/ambiance-mint.png">
 </a>
 
 # 5. Ceti Theme
+
+http://horst3180.deviantart.com/art/Ceti-445892596
+https://github.com/horst3180/Ceti-theme
 
 These can be installed via the terminal or via script.
 
@@ -74,3 +78,14 @@ These can be installed via the terminal or via script.
 <a target="_blank" href="http://erikdubois.be/wp-content/uploads/2015/05/ceti-vibrancy.png">
 <img style="max-width:100%;" src="http://erikdubois.be/wp-content/uploads/2015/05/ceti-vibrancy.png">
 </a>
+
+#6. Evopop icons
+
+Install via script.
+
+https://github.com/solus-project/evopop-icon-theme
+
+<a target="_blank" href="http://erikdubois.be/wp-content/uploads/2015/05/Evopopicons.png">
+<img style="max-width:100%;" src="http://erikdubois.be/wp-content/uploads/2015/05/Evopopicons.png">
+</a>
+
