@@ -67,6 +67,13 @@ git clone https://github.com/solus-project/evopop-icon-theme.git /tmp/evopop-ico
 mkdir ~/.icons/evopop-icon-theme
 cp -r /tmp/evopop-icon-theme/EvoPop/* ~/.icons/evopop-icon-theme
 
+# F L A T T R
+
+git clone https://github.com/NitruxSA/flattr-icons.git /tmp/flattr-icons
+mkdir ~/.icons/Flattr
+mkdir ~/.icons/Flattr\ Dark
+cp -r /tmp/flattr-icons/Flattr/* ~/.icons/Flattr
+cp -r /tmp/flattr-icons/Flattr\ Dark/* ~/.icons/Flattr\ Dark
 
 
 

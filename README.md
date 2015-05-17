@@ -96,3 +96,26 @@ http://osendott.github.io/arch-frost/
 <a target="_blank" href="http://erikdubois.be/wp-content/uploads/2015/05/arch-frost-vertex-ardis.png">
 <img style="max-width:100%;" src="http://erikdubois.be/wp-content/uploads/2015/05/arch-frost-vertex-ardis.png">
 </a>
+
+
+# 8. Flattr icons
+
+https://github.com/NitruxSA/flattr-icons
+
+<a target="_blank" href="http://erikdubois.be/wp-content/uploads/2015/05/flattricons.png">
+<img style="max-width:100%;" src="http://erikdubois.be/wp-content/uploads/2015/05/flattricons.png">
+</a>
+
+<a target="_blank" href="http://erikdubois.be/wp-content/uploads/2015/05/vertex-flattr-dark-arch-frost.png">
+<img style="max-width:100%;" src="http://erikdubois.be/wp-content/uploads/2015/05/vertex-flattr-dark-arch-frost.png">
+</a>
+
+
+
+
+
+
+
+# YET TO BE INCORPORATED ON A LATER DATE 
+
+
