@@ -37,6 +37,8 @@ https://github.com/horst3180/Vertex-theme
 
 # 3. Numix circle icons
 
+https://github.com/numixproject/numix-icon-theme-circle
+
 These can be installed via the terminal or via the script
 
 	sudo add-apt-repository ppa:numix/ppa
