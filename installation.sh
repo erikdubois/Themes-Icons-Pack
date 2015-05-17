@@ -21,7 +21,10 @@ mkdir ~/.themes/vertex-theme
 cp -r /tmp/vertex-theme/common/* ~/.themes/vertex-theme
 
 
-
+# N U M I X 
+sudo add-apt-repository ppa:numix/ppa
+sudo apt-get update
+sudo apt-get install numix-icon-theme-circle
 
 
 

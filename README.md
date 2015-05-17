@@ -35,3 +35,14 @@ https://github.com/horst3180/Vertex-theme
 <img style="max-width:100%;" src="http://erikdubois.be/wp-content/uploads/2015/05/Screenshot-from-2015-05-17-114440.png">
 </a>
 
+# 3. Numix circle icons
+
+These can be installed via the terminal or via the script
+
+	sudo add-apt-repository ppa:numix/ppa
+	sudo apt-get update
+	sudo apt-get install numix-icon-theme-circle
+
+<a target="_blank" href="http://erikdubois.be/wp-content/uploads/2015/05/numix-circles.png">
+<img style="max-width:100%;" src="http://erikdubois.be/wp-content/uploads/2015/05/numix-circles.png">
+</a>
