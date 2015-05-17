@@ -89,3 +89,13 @@ https://github.com/solus-project/evopop-icon-theme
 <img style="max-width:100%;" src="http://erikdubois.be/wp-content/uploads/2015/05/Evopopicons.png">
 </a>
 
+#7. Arch Frost
+
+http://osendott.github.io/arch-frost/
+https://github.com/osendott/arch-frost
+https://github.com/osendott/arch-frost-gtk-dark
+https://github.com/osendott/arch-frost-gtk
+
+<a target="_blank" href="http://erikdubois.be/wp-content/uploads/2015/05/arch-frost-vertex-ardis.png">
+<img style="max-width:100%;" src="http://erikdubois.be/wp-content/uploads/2015/05/arch-frost-vertex-ardis.png">
+</a>

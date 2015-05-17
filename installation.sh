@@ -41,6 +41,20 @@ sudo apt-get update
 sudo apt-get install ceti-theme
 
 
+# A R C H  F R O S T   D A R K
+git clone https://github.com/osendott/arch-frost-gtk-dark /tmp/arch-frost-gtk-dark
+mkdir ~/.themes/arch-frost-gtk-dark
+cp -r /tmp/arch-frost-gtk-dark/arch-frost-dark/* ~/.themes/arch-frost-gtk-dark
+
+
+
+# A R C H  F R O S T   L I G H T
+git clone https://github.com/osendott/arch-frost-gtk /tmp/arch-frost-gtk
+mkdir ~/.themes/arch-frost-gtk
+cp -r /tmp/arch-frost-gtk/arch-frost-light/* ~/.themes/arch-frost-gtk
+
+
+
 ########################################
 ########        I C O N S      #########
 ########################################
