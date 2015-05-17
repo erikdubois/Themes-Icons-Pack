@@ -48,3 +48,16 @@ These can be installed via the terminal or via the script
 <a target="_blank" href="http://erikdubois.be/wp-content/uploads/2015/05/numix-circles.png">
 <img style="max-width:100%;" src="http://erikdubois.be/wp-content/uploads/2015/05/numix-circles.png">
 </a>
+
+# 4. Ambiance Theme
+
+These can be installed via the terminal or via script
+Beware this ones gives you many choices with minute color changes
+
+	sudo add-apt-repository ppa:ravefinity-project/ppa 
+	sudo apt-get update
+	sudo apt-get install ambiance-colors 
+
+<a target="_blank" href="http://erikdubois.be/wp-content/uploads/2015/05/ambiance-mint.png">
+<img style="max-width:100%;" src="http://erikdubois.be/wp-content/uploads/2015/05/ambiance-mint.png">
+</a>
