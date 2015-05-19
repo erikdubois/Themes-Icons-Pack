@@ -1,8 +1,19 @@
 # themes-icons-pack
 
-Check if you have git installed else
+Two scripts
+
+_deb is for ubuntu, linux mint and all derivatives using apt-get
+
+_archlinux is for Archlinux and all derivatives using pacman and packer (yaourt)
+
+Check if you have git installed else for deb based
 
 	sudo apt-get install git
+
+or on Archlinux
+
+	sudo pacman -S git
+
 
 Now you can use the command git clone in the terminal and run scripts.
 
