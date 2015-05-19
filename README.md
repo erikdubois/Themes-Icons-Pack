@@ -2,11 +2,11 @@
 
 Two scripts
 
-_deb is for ubuntu, linux mint and all derivatives using apt-get
+_deb is for ubuntu, linux mint, elementary and all derivatives using apt-get
 
 _archlinux is for Archlinux and all derivatives using pacman and packer (yaourt)
 
-Check if you have git installed else for deb based
+Check if you have git installed else for deb based distro's
 
 	sudo apt-get install git
 
