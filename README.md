@@ -133,8 +133,13 @@ http://the-ilife.com/post/127
 <img style="max-width:100%;" src="http://erikdubois.be/wp-content/uploads/2015/05/vertex-flat-remix.png">
 </a>
 
+# 10. Flatwoken icons
 
+git clone https://github.com/alecive/FlatWoken.git
 
+<a target="_blank" href="http://erikdubois.be/wp-content/uploads/2015/05/vertex-flat-remix.png">
+<img style="max-width:100%;" src="http://erikdubois.be/wp-content/uploads/2015/05/vertex-flat-remix.png">
+</a>
 
 
 # YET TO BE INCORPORATED ON A LATER DATE 

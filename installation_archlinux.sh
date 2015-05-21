@@ -88,3 +88,6 @@ cp -r /tmp/flattr-icons/Flattr\ Dark/* ~/.icons/Flattr\ Dark
 #https://mega.co.nz/#!NRV0ibIa!pIQjTBd0LdASs9G_L9waKwh8xsYglsC4omNujtyAcDs 
 
 
+# F L A T W O K E N
+
+packer -S flatwoken-icons-git
