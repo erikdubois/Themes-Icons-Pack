@@ -137,8 +137,8 @@ http://the-ilife.com/post/127
 
 git clone https://github.com/alecive/FlatWoken.git
 
-<a target="_blank" href="http://erikdubois.be/wp-content/uploads/2015/05/vertex-flat-remix.png">
-<img style="max-width:100%;" src="http://erikdubois.be/wp-content/uploads/2015/05/vertex-flat-remix.png">
+<a target="_blank" href="http://erikdubois.be/wp-content/uploads/2015/05/arch_i3_flatwoken.png">
+<img style="max-width:100%;" src="http://erikdubois.be/wp-content/uploads/2015/05/arch_i3_flatwoken.png">
 </a>
 
 
