@@ -90,3 +90,12 @@ mkdir ~/.icons/FlatWoken
 mkdir ~/.icons/FlatWokenMin
 cp -r /tmp/FlatWoken/FlatWoken/* ~/.icons/FlatWoken
 cp -r /tmp/FlatWoken/FlatWokenMin/* ~/.icons/FlatWokenMin
+
+
+
+
+
+
+echo "################################################################"
+echo "###################    T H E   E N D      ######################"
+echo "################################################################"
