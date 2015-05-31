@@ -21,7 +21,7 @@
 #git clone https://github.com/horst3180/vertex-theme /tmp/vertex-theme
 #mkdir ~/.themes/vertex-theme
 #cp -r /tmp/vertex-theme/common/* ~/.themes/vertex-theme
-packer vertex-themes
+packer vertex-themes --noedit
 
 
 # N U M I X 
