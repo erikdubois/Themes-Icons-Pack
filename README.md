@@ -159,6 +159,9 @@ http://0rax0.deviantart.com/art/Uniform-Icon-Theme-453054609
 
 http://www.deviantart.com/download/453054609/uniform_icon_theme_by_0rax0-d7hqj69.zip?token=9a22eb94b89fbc4ad45ff124e008b01a27a456a3&ts=1431882377
 
+# Pacifica icons
+
+http://bokehlicia.deviantart.com/art/Pacifica-Icons-402508559
 
 
 
