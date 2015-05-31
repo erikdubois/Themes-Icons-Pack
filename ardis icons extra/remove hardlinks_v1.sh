@@ -19,3 +19,8 @@ sudo ln -s /home/erik/.icons/Ardis-icon-theme/scalable/apps/hardinfo.svg /usr/sh
 # fixing icon for variety
 sudo rm /usr/share/variety/media/variety.svg
 sudo ln -s $HOME/.icons/Ardis-icon-theme/scalable/apps/variety.svg /usr/share/variety/media/variety.svg
+
+
+# fixing icon for gnome-books
+ln -s google-play-books.svg gnome-books.svg
+
