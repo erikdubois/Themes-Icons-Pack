@@ -12,13 +12,18 @@
 
 
 # fixing the icon for hardinfo or know as system profiler and benchmark
-sudo rm /usr/share/hardinfo/pixmaps/logo.png
+sudo mv /usr/share/hardinfo/pixmaps/logo.png  /usr/share/hardinfo/pixmaps/logo_backup.png
 sudo ln -s /home/erik/.icons/Ardis-icon-theme/scalable/apps/hardinfo.svg /usr/share/hardinfo/pixmaps/logo.png
 
 
 # fixing icon for variety
-sudo rm /usr/share/variety/media/variety.svg
+# Antergos
+sudo mv /usr/share/variety/media/variety.svg /usr/share/variety/media/variety_backup.svg
 sudo ln -s $HOME/.icons/Ardis-icon-theme/scalable/apps/variety.svg /usr/share/variety/media/variety.svg
+# Linux mint cinnamon 17.1
+sudo mv /opt/extras.ubuntu.com/variety/share/variety/media/variety.svg /opt/extras.ubuntu.com/variety/share/variety/media/variety_backup.svg
+sudo ln -s $HOME/.icons/Ardis-icon-theme/scalable/apps/variety.svg /opt/extras.ubuntu.com/variety/share/variety/media/variety.svg
+
 
 
 # fixing icon for gnome-books
