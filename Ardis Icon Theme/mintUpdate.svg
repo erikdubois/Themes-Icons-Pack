@@ -16,7 +16,7 @@
    width="100%"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="steam.svg">
+   sodipodi:docname="mintUpdate.svg">
   <defs
      id="defs45">
     <linearGradient
@@ -705,13 +705,13 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1680"
-     inkscape:window-height="998"
+     inkscape:window-height="1023"
      id="namedview43"
      showgrid="false"
      inkscape:zoom="0.921875"
-     inkscape:cx="124.7795"
+     inkscape:cx="-47.695076"
      inkscape:cy="40.774022"
-     inkscape:window-x="0"
+     inkscape:window-x="1680"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
@@ -723,7 +723,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -749,7 +749,7 @@
      x="276.85001"
      font-family="Arial" />
   <path
-     style="fill:#555555;fill-rule:evenodd"
+     style="fill:#555555;fill-rule:evenodd;opacity:0.70454545"
      inkscape:connector-curvature="0"
      d="m 471.95,253.05 c 0,120.9 -98.01,218.9 -218.9,218.9 -120.9,0 -218.9,-98.01 -218.9,-218.9 0,-120.9 98.01,-218.9 218.9,-218.9 120.9,0 218.9,98.01 218.9,218.9"
      id="path12" />
@@ -936,7 +936,7 @@
        x="277.98999" />
   </text>
   <path
-     style="fill-opacity:0.23500001;fill-rule:evenodd"
+     style="fill-opacity:0.23500001000000001;fill-rule:nonzero;opacity:0.25000000000000000"
      inkscape:connector-curvature="0"
      d="m 253.40846,411.62375 62.22658,50.41655 C 400.35159,442.96927 466.5393,382.737 471.941,253.068 c 0,-6.93 -0.339,-13.797 -0.969,-20.563 -0.246,-0.244 -0.505,-0.474 -0.75,-0.719 -0.058,-0.056 -0.098,-0.132 -0.156,-0.188 -0.273,-0.28 -0.567,-0.537 -0.844,-0.813 -0.058,-0.056 -0.098,-0.132 -0.156,-0.188 -0.324,-0.333 -0.67,-0.642 -1,-0.969 -0.218,-0.224 -0.436,-0.436 -0.656,-0.656 -0.111,-0.107 -0.201,-0.237 -0.313,-0.344 -65.48372,-61.95631 -10.83419,-9.60949 -66.81035,-61.48513"
      id="path14"
