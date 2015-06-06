@@ -58,6 +58,13 @@ https://github.com/KotusWorks/Ardis-icon-theme
 <img style="max-width:100%;" src="http://erikdubois.be/wp-content/uploads/2015/05/Screenshot-from-2015-05-17-114440.png">
 </a>
 
+<h2><b>extra cions for Ardis</b></h2>
+
+<a target="_blank" href="http://erikdubois.be/wp-content/uploads/2015/06/ardis_icons_revisited_latest.png">
+<img style="max-width:100%;" src="http://erikdubois.be/wp-content/uploads/2015/06/ardis_icons_revisited_latest.png">
+</a>
+
+
 #2. Vertex theme (dark and light)
 
 https://github.com/horst3180/Vertex-theme
