@@ -66,7 +66,12 @@ https://github.com/KotusWorks/Ardis-icon-theme
 
 Developed until now ordered alfabetically: 
 
+
 	- darktable (extra colorfull)
+	- dreamchess
+	- emesene
+	- freemind
+	- furious iso mount
 	- grub-customizer
 	- imagemagick
 	- kazam
