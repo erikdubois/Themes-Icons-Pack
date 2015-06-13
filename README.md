@@ -215,6 +215,8 @@ http://www.deviantart.com/download/453054609/uniform_icon_theme_by_0rax0-d7hqj69
 
 http://bokehlicia.deviantart.com/art/Pacifica-Icons-402508559
 
+# vivacious colors 
 
+http://www.ravefinity.com/p/vivacious-colors-gtk-icon-theme.html
 
 
