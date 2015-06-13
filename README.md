@@ -219,4 +219,7 @@ http://bokehlicia.deviantart.com/art/Pacifica-Icons-402508559
 
 http://www.ravefinity.com/p/vivacious-colors-gtk-icon-theme.html
 
+# Yosemite Icons
+
+http://zacpier.deviantart.com/art/Yosemite-Icons-for-Linux-494175906
 
