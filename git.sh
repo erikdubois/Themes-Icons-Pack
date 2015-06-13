@@ -1,10 +1,14 @@
 #!/bin/sh
-# Below command will backup everything inside the project folder
-git add --all .
-
-# Committing to the local repository with a message containing the time details
-curtime=$(date)
-git commit -m "Automatic Backup @ $curtime"
-
-# Push the local snapshot to a remote destination
+git add -A
+echo ""
+echo "---------------"
+echo "----CHANGES----"
+echo "---------------"
+git status | sed -n '/:   /p' | sed -e 's/^[ \t]*//' -e 's/[ \t]*$//'
+echo "---------------"
+echo ""
+echo "Commit log: "
+read cl
+echo ""
+git commit -m "$cl"
 git push origin master
