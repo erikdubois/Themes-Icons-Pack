@@ -30,26 +30,6 @@ Remove manually if you have already an older/adapted version.
 It is up to you to activate them.
 
 
-#What can you do if the script does not execute?
-
-Since I sometimes forget to make the script executable, I include here what you can do to solve that.
-
-A script can only run when it is marked as an executable.
-
-	ls -al 
-
-Above code will reveal if a script has an "x". X meaning executable.
-Google "chmod" and "execute" and you will find more info.
-
-For now if this happens, you should apply this code in the terminal and add the file name.
-
-	chmod +x typeyourfilename
-
-Then you can execute it by typing
-
-	./typeyourfilename
-
-
 #1. Ardis icon theme
 
 https://github.com/KotusWorks/Ardis-icon-theme
@@ -57,38 +37,6 @@ https://github.com/KotusWorks/Ardis-icon-theme
 <a target="_blank" href="http://erikdubois.be/wp-content/uploads/2015/05/Screenshot-from-2015-05-17-114440.png">
 <img style="max-width:100%;" src="http://erikdubois.be/wp-content/uploads/2015/05/Screenshot-from-2015-05-17-114440.png">
 </a>
-
-
-
-# Own creations
-
-<h2><b>extra icons for Ardis icon theme</b></h2>
-
-Developed until now ordered alfabetically: 
-
-
-	- darktable (extra colorfull)
-	- dreamchess
-	- emesene
-	- freemind
-	- furious iso mount
-	- grub-customizer
-	- imagemagick
-	- kazam
-	- mintupdate
-	- mintupload
-	- nitrogen
-	- screenruler
-	- spotlite
-	- subdownloader
-	- system-software-installer
-	- vuze
-
-
-<a target="_blank" href="http://erikdubois.be/wp-content/uploads/2015/06/ardis_icons_revisited_latest.png">
-<img style="max-width:100%;" src="http://erikdubois.be/wp-content/uploads/2015/06/ardis_icons_revisited_latest.png">
-</a>
-
 
 #2. Vertex theme (dark and light)
 
@@ -211,15 +159,9 @@ http://0rax0.deviantart.com/art/Uniform-Icon-Theme-453054609
 
 http://www.deviantart.com/download/453054609/uniform_icon_theme_by_0rax0-d7hqj69.zip?token=9a22eb94b89fbc4ad45ff124e008b01a27a456a3&ts=1431882377
 
-# Pacifica icons
 
-http://bokehlicia.deviantart.com/art/Pacifica-Icons-402508559
+# compass icons
 
-# vivacious colors 
+https://nitrux.in/store/compass-icon-theme/
 
-http://www.ravefinity.com/p/vivacious-colors-gtk-icon-theme.html
-
-# Yosemite Icons
-
-http://zacpier.deviantart.com/art/Yosemite-Icons-for-Linux-494175906
 
