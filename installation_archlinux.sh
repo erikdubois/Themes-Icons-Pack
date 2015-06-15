@@ -90,7 +90,7 @@ cp -r /tmp/flattr-icons/Flattr\ Dark/* ~/.icons/Flattr\ Dark
 
 # F L A T W O K E N
 
-packer -S flatwoken-icons-git
+packer -S flatwoken-icons-git --noedit
 
 
 
