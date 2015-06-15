@@ -165,3 +165,6 @@ http://www.deviantart.com/download/453054609/uniform_icon_theme_by_0rax0-d7hqj69
 https://nitrux.in/store/compass-icon-theme/
 
 
+# super flat remix
+
+https://github.com/daniruiz/Super-Flat-Remix
