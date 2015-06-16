@@ -19,26 +19,26 @@
 #git clone https://github.com/horst3180/vertex-theme /tmp/vertex-theme
 #mkdir ~/.themes/vertex-theme
 #cp -r /tmp/vertex-theme/common/* ~/.themes/vertex-theme
-sudo add-apt-repository ppa:noobslab/themes
+sudo add-apt-repository ppa:noobslab/themes -y
 sudo apt-get update
-sudo apt-get install vertex-theme
+sudo apt-get install vertex-theme -y
 
 
 # N U M I X 
-sudo add-apt-repository ppa:numix/ppa
+sudo add-apt-repository ppa:numix/ppa -y
 sudo apt-get update
-sudo apt-get install numix-icon-theme-circle
+sudo apt-get install numix-icon-theme-circle -y
 
 # A M B I A N C E
-sudo add-apt-repository ppa:ravefinity-project/ppa 
+sudo add-apt-repository ppa:ravefinity-project/ppa -y
 sudo apt-get update
-sudo apt-get install ambiance-colors 
+sudo apt-get install ambiance-colors -y
 
 
 # C E T I
-sudo add-apt-repository ppa:noobslab/themes
+sudo add-apt-repository ppa:noobslab/themes -y
 sudo apt-get update
-sudo apt-get install ceti-theme
+sudo apt-get install ceti-theme -y
 
 
 # A R C H  F R O S T   D A R K
