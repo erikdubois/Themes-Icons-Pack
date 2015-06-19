@@ -161,6 +161,19 @@ sudo apt-get install moka-gnome-shell-theme moka-desktop moka-gtk-theme
 </a>
 
 
+# 12. Dalisha
+
+Latest can be found on gnome-look.org
+http://gnome-look.org/content/show.php?content=166286&forumpage=0
+
+Downloads come from here.
+https://github.com/manson9/dalisha-icon-theme
+
+<a target="_blank" href="http://imgur.com/2iw8473">
+<img style="max-width:100%;" src="http://imgur.com/2iw8473">
+</a>
+
+
 
 # YET TO BE INCORPORATED ON A LATER DATE 
 

@@ -106,6 +106,11 @@ sudo add-apt-repository ppa:moka/stable -y
 sudo apt-get update
 sudo apt-get install moka-icon-theme -y
 
+# D A L I S H A
+
+git clone https://github.com/manson9/dalisha-icon-theme /tmp/Dalisha
+mkdir ~/.icons/Dalisha
+cp -r /tmp/Dalisha/Dalisha/* ~/.icons/Dalisha
 
 
 echo "################################################################"
