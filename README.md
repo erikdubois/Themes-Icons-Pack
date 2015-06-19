@@ -125,9 +125,7 @@ https://github.com/NitruxSA/flattr-icons
 
 # 9. Superflat remix icons
 
-http://gnome-look.org/content/show.php/Super+flat+remix+icon+theme?content=169073
-
-http://the-ilife.com/post/127
+https://github.com/daniruiz/Super-Flat-Remix
 
 <a target="_blank" href="http://erikdubois.be/wp-content/uploads/2015/05/vertex-flat-remix.png">
 <img style="max-width:100%;" src="http://erikdubois.be/wp-content/uploads/2015/05/vertex-flat-remix.png">
@@ -164,10 +162,6 @@ http://www.deviantart.com/download/453054609/uniform_icon_theme_by_0rax0-d7hqj69
 
 https://nitrux.in/store/compass-icon-theme/
 
-
-# super flat remix
-
-https://github.com/daniruiz/Super-Flat-Remix
 
 #  Dalisha
 
