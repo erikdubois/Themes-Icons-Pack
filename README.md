@@ -174,6 +174,20 @@ https://github.com/manson9/dalisha-icon-theme
 </a>
 
 
+# 13. Compass
+
+https://nitrux.in/store/compass-icon-theme/
+
+sudo add-apt-repository ppa:nitrux-team/nitrux-artwork
+sudo apt-get update
+sudo apt-get install compass-icon-theme
+
+<a target="_blank" href="http://i.imgur.com/qJimLVr.jpg">
+<img style="max-width:100%;" src="http://i.imgur.com/qJimLVr.jpg">
+</a>
+
+
+
 
 # YET TO BE INCORPORATED ON A LATER DATE 
 
@@ -184,11 +198,5 @@ http://0rax0.deviantart.com/art/Uniform-Icon-Theme-453054609
 http://www.deviantart.com/download/453054609/uniform_icon_theme_by_0rax0-d7hqj69.zip?token=9a22eb94b89fbc4ad45ff124e008b01a27a456a3&ts=1431882377
 
 
-# compass icons
-
-https://nitrux.in/store/compass-icon-theme/
 
 
-#  Dalisha
-
-http://gnome-look.org/content/show.php/Dalisha?content=166286

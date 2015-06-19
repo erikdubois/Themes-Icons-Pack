@@ -112,6 +112,12 @@ git clone https://github.com/manson9/dalisha-icon-theme /tmp/Dalisha
 mkdir ~/.icons/Dalisha
 cp -r /tmp/Dalisha/Dalisha/* ~/.icons/Dalisha
 
+# C O M P A S S 
+
+sudo add-apt-repository ppa:nitrux-team/nitrux-artwork
+sudo apt-get update
+sudo apt-get install compass-icon-theme
+
 
 echo "################################################################"
 echo "###################    T H E   E N D      ######################"
