@@ -9,9 +9,8 @@
 #======================================================================================
 
 
-# needed to download files
+# install - yaourt packer - first
 
-sudo apt-get install git -y
 
 
 ########################################
@@ -22,53 +21,60 @@ sudo apt-get install git -y
 #git clone https://github.com/horst3180/vertex-theme /tmp/vertex-theme
 #mkdir ~/.themes/vertex-theme
 #cp -r /tmp/vertex-theme/common/* ~/.themes/vertex-theme
-sudo add-apt-repository ppa:noobslab/themes -y
-sudo apt-get update
-sudo apt-get install vertex-theme -y
+packer vertex-themes --noedit
 
 
 # N U M I X 
-sudo add-apt-repository ppa:numix/ppa -y
-sudo apt-get update
-sudo apt-get install numix-icon-theme-circle -y
+sudo pacman -S numix-themes --noedit
+packer numix-circle-icon-theme-git --noedit
+packer numix-themes-archblue --noedit
+
 
 # A M B I A N C E
-sudo add-apt-repository ppa:ravefinity-project/ppa -y
-sudo apt-get update
-sudo apt-get install ambiance-colors -y
+packer ubuntu-themes --noedit
+
+
+
+# U L T R A F L A T
+
+packer ultra-flat-gtk --noedit
 
 
 # C E T I
-sudo add-apt-repository ppa:noobslab/themes -y
-sudo apt-get update
-sudo apt-get install ceti-theme -y
+
+packer ceti-2-themes --noedit
 
 
-# A R C H  F R O S T   D A R K
-git clone https://github.com/osendott/arch-frost-gtk-dark /tmp/arch-frost-gtk-dark
-mkdir ~/.themes/arch-frost-gtk-dark
-cp -r /tmp/arch-frost-gtk-dark/arch-frost-dark/* ~/.themes/arch-frost-gtk-dark
+# A R C H  F R O S T   D A R K  A N S  L I G H T
+
+packer arch-frost-gtk-git --noedit
+packer arch-frost-dark-gtk-git --noedit
 
 
-
-# A R C H  F R O S T   L I G H T
-git clone https://github.com/osendott/arch-frost-gtk /tmp/arch-frost-gtk
-mkdir ~/.themes/arch-frost-gtk
-cp -r /tmp/arch-frost-gtk/arch-frost-light/* ~/.themes/arch-frost-gtk
-
+# E V O P O P
+packer evopop-gtk-theme --noedit
 
 
 ########################################
 ########        I C O N S      #########
 ########################################
 
-# A R D I S
-git clone https://github.com/KotusWorks/Ardis-icon-theme.git ~/.icons/Ardis-icon-theme
+# S A R D I
+git clone https://github.com/erikdubois/Sardi.git /tmp/Sardi
+mkdir ~/.icons/Sardi
+mkdir ~/.icons/Sardi\ Vertexed
+cp -r /tmp/Sardi/Sardi/* ~/.icons/Sardi
+cp -r /tmp/Sardi/Sardi\ Vertexed/* ~/.icons/Sardi\ Vertexed
 
 # E V O P O P
-git clone https://github.com/solus-project/evopop-icon-theme.git /tmp/evopop-icon-theme
-mkdir ~/.icons/evopop-icon-theme
-cp -r /tmp/evopop-icon-theme/EvoPop/* ~/.icons/evopop-icon-theme
+#git clone https://github.com/solus-project/evopop-icon-theme.git /tmp/evopop-icon-theme
+#mkdir ~/.icons/evopop-icon-theme
+#cp -r /tmp/evopop-icon-theme/EvoPop/* ~/.icons/evopop-icon-theme
+
+packer evopop-icon-theme -noedit
+
+
+
 
 # F L A T T R
 
@@ -88,13 +94,7 @@ cp -r /tmp/flattr-icons/Flattr\ Dark/* ~/.icons/Flattr\ Dark
 
 # F L A T W O K E N
 
-git clone https://github.com/alecive/FlatWoken.git /tmp/FlatWoken
-mkdir ~/.icons/FlatWoken
-mkdir ~/.icons/FlatWokenMin
-cp -r /tmp/FlatWoken/FlatWoken/* ~/.icons/FlatWoken
-cp -r /tmp/FlatWoken/FlatWokenMin/* ~/.icons/FlatWokenMin
-
-
+packer -S flatwoken-icons-git --noedit
 
 
 
