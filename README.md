@@ -169,8 +169,8 @@ http://gnome-look.org/content/show.php?content=166286&forumpage=0
 Downloads come from here.
 https://github.com/manson9/dalisha-icon-theme
 
-<a target="_blank" href="http://imgur.com/2iw8473">
-<img style="max-width:100%;" src="http://imgur.com/2iw8473">
+<a target="_blank" href="http://i.imgur.com/2iw8473.png">
+<img style="max-width:100%;" src="http://i.imgur.com/2iw8473.png">
 </a>
 
 
