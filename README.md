@@ -199,6 +199,10 @@ Download comes from
 
 https://github.com/0rAX0/uniform-icon-theme
 
+<a target="_blank" href="https://raw.githubusercontent.com/0rAX0/uniform-icon-theme/master/source%20files/Previews/Preview.png">
+<img style="max-width:100%;" src="https://raw.githubusercontent.com/0rAX0/uniform-icon-theme/master/source%20files/Previews/Preview.png">
+</a>
+
 
 # YET TO BE INCORPORATED ON A LATER DATE 
 
