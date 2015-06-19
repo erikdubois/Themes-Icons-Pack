@@ -1,4 +1,4 @@
-#!/bin/bash -x
+#!/bin/bash 
 #======================================================================================
 #                               themes-icons-pack
 # 
@@ -88,16 +88,45 @@ cp -r /tmp/flattr-icons/Flattr\ Dark/* ~/.icons/Flattr\ Dark
 
 # S U P E R F L A T  R E M I X  I C O N S
 
-# it is on megashare download for the moment download manually
-#https://mega.co.nz/#!NRV0ibIa!pIQjTBd0LdASs9G_L9waKwh8xsYglsC4omNujtyAcDs 
+git clone https://github.com/daniruiz/Super-Flat-Remix.git /tmp/Super-Flat-Remix
+mkdir ~/.icons/Super-Flat-Remix
+cp -r /tmp/Super-Flat-Remix/Super\ Flat\ Mix/* ~/.icons/Super-Flat-Remix
 
 
 # F L A T W O K E N
 
-packer -S flatwoken-icons-git --noedit
+# packer -S flatwoken-icons-git --noedit
 
 
+# F L A T W O K E N
 
+git clone https://github.com/alecive/FlatWoken.git /tmp/FlatWoken
+mkdir ~/.icons/FlatWoken
+mkdir ~/.icons/FlatWokenMin
+cp -r /tmp/FlatWoken/FlatWoken/* ~/.icons/FlatWoken
+cp -r /tmp/FlatWoken/FlatWokenMin/* ~/.icons/FlatWokenMin
+
+
+# M O K A
+
+# TO DO
+
+# D A L I S H A
+
+git clone https://github.com/manson9/dalisha-icon-theme /tmp/Dalisha
+mkdir ~/.icons/Dalisha
+cp -r /tmp/Dalisha/Dalisha/* ~/.icons/Dalisha
+
+# C O M P A S S 
+
+# TO DO
+
+
+# U N I F O R M
+
+git clone https://github.com/0rAX0/uniform-icon-theme.git /tmp/Uniform
+mkdir ~/.icons/Uniform
+cp -r /tmp/Uniform/Uniform/* ~/.icons/Uniform
 
 echo "################################################################"
 echo "###################    T H E   E N D      ######################"
