@@ -119,6 +119,12 @@ sudo apt-get update
 sudo apt-get install compass-icon-theme
 
 
+# U N I F O R M
+
+git clone https://github.com/0rAX0/uniform-icon-theme.git /tmp/Uniform
+mkdir ~/.icons/Uniform
+cp -r /tmp/Uniform/Uniform/* ~/.icons/Uniform
+
 echo "################################################################"
 echo "###################    T H E   E N D      ######################"
 echo "################################################################"

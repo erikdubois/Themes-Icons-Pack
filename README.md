@@ -187,16 +187,20 @@ sudo apt-get install compass-icon-theme
 </a>
 
 
+# 14. Uniform
 
-
-# YET TO BE INCORPORATED ON A LATER DATE 
-
-# Uniform icons
+Nice starting theme. Many icons missing but looks promising
 
 http://0rax0.deviantart.com/art/Uniform-Icon-Theme-453054609
 
 http://www.deviantart.com/download/453054609/uniform_icon_theme_by_0rax0-d7hqj69.zip?token=9a22eb94b89fbc4ad45ff124e008b01a27a456a3&ts=1431882377
 
+Download comes from 
+
+https://github.com/0rAX0/uniform-icon-theme
+
+
+# YET TO BE INCORPORATED ON A LATER DATE 
 
 
 
