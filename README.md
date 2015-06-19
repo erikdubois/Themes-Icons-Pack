@@ -30,9 +30,9 @@ Remove manually if you have already an older/adapted version.
 It is up to you to activate them.
 
 
-#1. Ardis icon theme
+#1. Sardi and Sardi Vertexed icon theme
 
-https://github.com/KotusWorks/Ardis-icon-theme
+https://github.com/erikdubois/Sardi
 
 <a target="_blank" href="http://erikdubois.be/wp-content/uploads/2015/05/Screenshot-from-2015-05-17-114440.png">
 <img style="max-width:100%;" src="http://erikdubois.be/wp-content/uploads/2015/05/Screenshot-from-2015-05-17-114440.png">
@@ -168,3 +168,7 @@ https://nitrux.in/store/compass-icon-theme/
 # super flat remix
 
 https://github.com/daniruiz/Super-Flat-Remix
+
+#  Dalisha
+
+http://gnome-look.org/content/show.php/Dalisha?content=166286
