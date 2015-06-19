@@ -101,7 +101,10 @@ cp -r /tmp/FlatWoken/FlatWoken/* ~/.icons/FlatWoken
 cp -r /tmp/FlatWoken/FlatWokenMin/* ~/.icons/FlatWokenMin
 
 
-
+# M O K A
+sudo add-apt-repository ppa:moka/stable -y
+sudo apt-get update
+sudo apt-get install moka-icon-theme -y
 
 
 
