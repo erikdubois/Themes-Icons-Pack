@@ -140,9 +140,9 @@ git clone https://github.com/alecive/FlatWoken.git
 </a>
 
 
-# YET TO BE INCORPORATED ON A LATER DATE 
 
-# Moka 
+# 11. Moka 
+
 
 sudo add-apt-repository ppa:moka/stable
 
@@ -150,6 +150,19 @@ sudo apt-get update
 
 sudo apt-get install moka-icon-theme
 
+These can also be installed and will NOT be installed.
+
+sudo apt-get install moka-cinnamon-theme moka-desktop-extras moka-default-settings
+sudo apt-get install moka-gnome-shell-theme moka-desktop moka-gtk-theme
+
+
+<a target="_blank" href="http://i.imgur.com/AjTBLY8.png">
+<img style="max-width:100%;" src="http://i.imgur.com/AjTBLY8.png">
+</a>
+
+
+
+# YET TO BE INCORPORATED ON A LATER DATE 
 
 # Uniform icons
 
