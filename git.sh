@@ -11,6 +11,9 @@
 
 git add . -A
 
+# making files with .sh executable
+chmod +x *.sh
+
 # Committing to the local repository with a message containing the time details
 curtime=$(date)
 git commit -m "Automatic Backup @ $curtime"
