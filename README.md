@@ -83,6 +83,8 @@ This theme can be dark and light.
 
 
 
+
+
 # 3. Numix circle icons
 
 https://github.com/numixproject/numix-icon-theme-circle
@@ -94,6 +96,7 @@ These can be installed via the terminal or via the script
 	sudo apt-get install numix-icon-theme-circle
 
 ![Screenshots](http://i.imgur.com/2je4qz2.jpg)  
+
 
 
 
@@ -115,6 +118,7 @@ Beware this ones gives you many choices with minute color changes.
 
 
 
+
 # 5. Ceti Theme
 
 http://horst3180.deviantart.com/art/Ceti-445892596
@@ -127,6 +131,8 @@ These can be installed via the terminal or via script.
 	sudo apt-get install ceti-theme
 
 ![Screenshots](http://i.imgur.com/qD53UAV.png) 
+
+
 
 
 
@@ -148,17 +154,18 @@ http://osendott.github.io/arch-frost/
 ![Screenshots](http://i.imgur.com/Md8hgZi.png) 
 
 
+
+
+
 # 8. Flattr icons
 
 https://github.com/NitruxSA/flattr-icons
 
-<a target="_blank" href="http://erikdubois.be/wp-content/uploads/2015/05/flattricons.png">
-<img style="max-width:100%;" src="http://erikdubois.be/wp-content/uploads/2015/05/flattricons.png">
-</a>
+![Screenshots](http://i.imgur.com/U48ytG3.jpg) 
 
-<a target="_blank" href="http://erikdubois.be/wp-content/uploads/2015/05/vertex-flattr-dark-arch-frost.png">
-<img style="max-width:100%;" src="http://erikdubois.be/wp-content/uploads/2015/05/vertex-flattr-dark-arch-frost.png">
-</a>
+![Screenshots](http://i.imgur.com/uMmEWxo.png)
+
+
 
 
 
@@ -166,17 +173,19 @@ https://github.com/NitruxSA/flattr-icons
 
 https://github.com/daniruiz/Super-Flat-Remix
 
-<a target="_blank" href="http://erikdubois.be/wp-content/uploads/2015/05/vertex-flat-remix.png">
-<img style="max-width:100%;" src="http://erikdubois.be/wp-content/uploads/2015/05/vertex-flat-remix.png">
-</a>
+![Screenshots](http://i.imgur.com/2aMjF19.jpg)
+
+
+
+
 
 # 10. Flatwoken icons
 
 git clone https://github.com/alecive/FlatWoken.git
 
-<a target="_blank" href="http://erikdubois.be/wp-content/uploads/2015/05/arch_i3_flatwoken.png">
-<img style="max-width:100%;" src="http://erikdubois.be/wp-content/uploads/2015/05/arch_i3_flatwoken.png">
-</a>
+![Screenshots](http://i.imgur.com/oDJ3j3f.jpg)
+
+
 
 
 
@@ -200,6 +209,10 @@ sudo apt-get install moka-gnome-shell-theme moka-desktop moka-gtk-theme
 </a>
 
 
+
+
+
+
 # 12. Dalisha
 
 Latest can be found on gnome-look.org
@@ -213,6 +226,9 @@ https://github.com/manson9/dalisha-icon-theme
 </a>
 
 
+
+
+
 # 13. Compass
 
 https://nitrux.in/store/compass-icon-theme/
@@ -224,6 +240,10 @@ sudo apt-get install compass-icon-theme
 <a target="_blank" href="http://i.imgur.com/qJimLVr.jpg">
 <img style="max-width:100%;" src="http://i.imgur.com/qJimLVr.jpg">
 </a>
+
+
+
+
 
 
 # 14. Uniform
