@@ -1,6 +1,6 @@
 # themes-icons-pack
 
-Two scriptsss
+Two scripts
 
 
 _deb is for ubuntu, linux mint, elementary and all derivatives using apt-get
@@ -31,13 +31,47 @@ Remove manually if you have already an older/adapted version.
 It is up to you to activate them.
 
 
-#1. Sardi and Sardi Vertexed icon theme
+#1. Sardi icons
+
+Sardi has its origins in Ardis but has evolved in a new icon set.
 
 https://github.com/erikdubois/Sardi
 
-<a target="_blank" href="http://erikdubois.be/wp-content/uploads/2015/05/Screenshot-from-2015-05-17-114440.png">
-<img style="max-width:100%;" src="http://erikdubois.be/wp-content/uploads/2015/05/Screenshot-from-2015-05-17-114440.png">
-</a>
+
+![Screenshots](http://i.imgur.com/FOm8gfH.png)
+
+
+![Screenshots](http://i.imgur.com/RwszxLG.png)
+
+
+![Screenshots](http://i.imgur.com/k0RXBnB.png)
+
+
+![Screenshots](http://i.imgur.com/l0Ecx5O.png)  
+
+
+![Screenshots](http://i.imgur.com/pv7bBsW.png)  
+
+
+![Screenshots](http://i.imgur.com/pNDgmJ7.png)  
+
+
+![Screenshots](http://i.imgur.com/g6mccId.png)  
+
+
+![Screenshots](http://i.imgur.com/jtToMq7.png)  
+
+
+![Screenshots](http://i.imgur.com/s5GY5gG.png)  
+
+
+![Screenshots](http://i.imgur.com/KlTeQK7.png)  
+
+
+![Screenshots](http://i.imgur.com/lrQ27Xs.jpg)
+
+
+
 
 #2. Vertex theme (dark and light)
 
