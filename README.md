@@ -1,6 +1,7 @@
 # themes-icons-pack
 
-Two scripts
+Two scriptsss
+
 
 _deb is for ubuntu, linux mint, elementary and all derivatives using apt-get
 
