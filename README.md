@@ -77,9 +77,11 @@ https://github.com/erikdubois/Sardi
 
 https://github.com/horst3180/Vertex-theme
 
-<a target="_blank" href="http://erikdubois.be/wp-content/uploads/2015/05/Screenshot-from-2015-05-17-114440.png">
-<img style="max-width:100%;" src="http://erikdubois.be/wp-content/uploads/2015/05/Screenshot-from-2015-05-17-114440.png">
-</a>
+This theme can be dark and light.
+
+![Screenshots](http://i.imgur.com/KlTeQK7.png)  
+
+
 
 # 3. Numix circle icons
 
@@ -91,11 +93,13 @@ These can be installed via the terminal or via the script
 	sudo apt-get update
 	sudo apt-get install numix-icon-theme-circle
 
-<a target="_blank" href="http://erikdubois.be/wp-content/uploads/2015/05/numix-circles.png">
-<img style="max-width:100%;" src="http://erikdubois.be/wp-content/uploads/2015/05/numix-circles.png">
-</a>
+![Screenshots](http://i.imgur.com/2je4qz2.jpg)  
+
+
+
 
 # 4. Ambiance Theme and Radiance colors
+
 http://www.ravefinity.com/p/download-ambiance-radiance-colors.html
 
 These can be installed via the terminal or via script.
@@ -106,9 +110,10 @@ Beware this ones gives you many choices with minute color changes.
 	sudo apt-get update
 	sudo apt-get install ambiance-colors radiance-colors
 
-<a target="_blank" href="http://erikdubois.be/wp-content/uploads/2015/05/ambiance-mint.png">
-<img style="max-width:100%;" src="http://erikdubois.be/wp-content/uploads/2015/05/ambiance-mint.png">
-</a>
+![Screenshots](http://i.imgur.com/fGtUpoB.jpg) 
+
+
+
 
 # 5. Ceti Theme
 
@@ -121,9 +126,9 @@ These can be installed via the terminal or via script.
 	sudo apt-get update
 	sudo apt-get install ceti-theme
 
-<a target="_blank" href="http://erikdubois.be/wp-content/uploads/2015/05/ceti-vibrancy.png">
-<img style="max-width:100%;" src="http://erikdubois.be/wp-content/uploads/2015/05/ceti-vibrancy.png">
-</a>
+![Screenshots](http://i.imgur.com/qD53UAV.png) 
+
+
 
 #6. Evopop icons
 
@@ -131,17 +136,16 @@ Install via script.
 
 https://github.com/solus-project/evopop-icon-theme
 
-<a target="_blank" href="http://erikdubois.be/wp-content/uploads/2015/05/Evopopicons.png">
-<img style="max-width:100%;" src="http://erikdubois.be/wp-content/uploads/2015/05/Evopopicons.png">
-</a>
+![Screenshots](http://i.imgur.com/RQu385l.png) 
+
+
+
 
 #7. Arch Frost theme
 
 http://osendott.github.io/arch-frost/
 
-<a target="_blank" href="http://erikdubois.be/wp-content/uploads/2015/05/arch-frost-vertex-ardis.png">
-<img style="max-width:100%;" src="http://erikdubois.be/wp-content/uploads/2015/05/arch-frost-vertex-ardis.png">
-</a>
+![Screenshots](http://i.imgur.com/Md8hgZi.png) 
 
 
 # 8. Flattr icons
