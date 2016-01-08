@@ -204,10 +204,7 @@ sudo apt-get install moka-cinnamon-theme moka-desktop-extras moka-default-settin
 sudo apt-get install moka-gnome-shell-theme moka-desktop moka-gtk-theme
 
 
-<a target="_blank" href="http://i.imgur.com/AjTBLY8.png">
-<img style="max-width:100%;" src="http://i.imgur.com/AjTBLY8.png">
-</a>
-
+![Screenshots](http://i.imgur.com/AjTBLY8.png)
 
 
 
@@ -221,10 +218,8 @@ http://gnome-look.org/content/show.php?content=166286&forumpage=0
 Downloads come from here.
 https://github.com/manson9/dalisha-icon-theme
 
-<a target="_blank" href="http://i.imgur.com/2iw8473.png">
-<img style="max-width:100%;" src="http://i.imgur.com/2iw8473.png">
-</a>
 
+![Screenshots](http://i.imgur.com/2iw8473.png)
 
 
 
@@ -237,10 +232,8 @@ sudo add-apt-repository ppa:nitrux-team/nitrux-artwork
 sudo apt-get update
 sudo apt-get install compass-icon-theme
 
-<a target="_blank" href="http://i.imgur.com/qJimLVr.jpg">
-<img style="max-width:100%;" src="http://i.imgur.com/qJimLVr.jpg">
-</a>
 
+![Screenshots](http://i.imgur.com/qJimLVr.jpg)
 
 
 
@@ -261,7 +254,6 @@ https://github.com/0rAX0/uniform-icon-theme
 <a target="_blank" href="https://raw.githubusercontent.com/0rAX0/uniform-icon-theme/master/source%20files/Previews/Preview.png">
 <img style="max-width:100%;" src="https://raw.githubusercontent.com/0rAX0/uniform-icon-theme/master/source%20files/Previews/Preview.png">
 </a>
-
 
 # YET TO BE INCORPORATED ON A LATER DATE 
 
