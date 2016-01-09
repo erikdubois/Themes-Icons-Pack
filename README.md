@@ -281,6 +281,21 @@ https://github.com/anmoljagetia/Flatabulous
 
 ![Screenshots](http://i.imgur.com/Tmm3V1a.jpg)
 
+Some of the icons can be fixed straight away by changing either the codes in 
+
+/usr/share/applications
+
+or
+
+by making a link to an existing icon
+
+Only kazam had to be imported from Sardi. But I could have used one of the icons.
+
+Result : 
+
+![Screenshots](http://i.imgur.com/l7uCAZ8.jpg)
+
+
 
 
 
