@@ -257,7 +257,7 @@ https://github.com/0rAX0/uniform-icon-theme
 
 
 
-# 15. Ultra flat orange
+# 15. Ultra flat orange icons
 
 https://www.dropbox.com/s/8p2t7n78a4g0jjj/Ultra%20Flat%20Orange%201.3.2.tar.gz?dl=0
 
@@ -265,13 +265,22 @@ or
 
 	sudo add-apt-repository ppa:noobslab/icons
 	sudo apt-get update
-	sudo apt-get install ultra-flat-icons
+	sudo apt-get install ultra-flat-icons ultra-flat-icons-orange ultra-flat-icons-green
 
 ![Screenshots](http://i.imgur.com/xrEc2gA.jpg)
 
 
 
-# YET TO BE INCORPORATED ON A LATER DATE 
+
+# 16. Flatabulous theme
+
+This theme goes well with the ultra flat orange icons.
+
+https://github.com/anmoljagetia/Flatabulous
+
+
+![Screenshots](http://i.imgur.com/Tmm3V1a.jpg)
+
 
 
 
