@@ -261,6 +261,12 @@ https://github.com/0rAX0/uniform-icon-theme
 
 https://www.dropbox.com/s/8p2t7n78a4g0jjj/Ultra%20Flat%20Orange%201.3.2.tar.gz?dl=0
 
+or
+
+	sudo add-apt-repository ppa:noobslab/icons
+	sudo apt-get update
+	sudo apt-get install ultra-flat-icons
+
 ![Screenshots](http://i.imgur.com/xrEc2gA.jpg)
 
 
