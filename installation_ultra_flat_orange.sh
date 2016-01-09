@@ -16,7 +16,7 @@
 
 sudo add-apt-repository ppa:noobslab/icons
 sudo apt-get update
-sudo apt-get install ultra-flat-icons
+sudo apt-get install ultra-flat-icons ultra-flat-icons-green ultra-flat-icons-orange
 
 echo "################################################################"
 echo "###################    T H E   E N D      ######################"
