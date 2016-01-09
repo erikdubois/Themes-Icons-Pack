@@ -278,15 +278,24 @@ This is the playlist link on youtube.
 Contents of movie
 
 A playlist of 5 tutorials to tell you how to fix icons in Linux Mint 17.3 that do not follow the icon theme.  Ultra Flat Icons Orange as example.
+
 1. change file in /usr/share/applications
+
 2. make a link
+
 3. get a icon from another iconset
 
+
 Icons that get fixed are:
+
 1. mintbackup
+
 2. driver manager
+
 3. software manager
+
 4. usb and kazam
+
 
 https://www.youtube.com/playlist?list=PLlloYVGq5pS7embS68zCwQZ-lvbz2GZOJ
 
