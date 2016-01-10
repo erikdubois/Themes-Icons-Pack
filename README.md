@@ -258,7 +258,7 @@ or
 
 ![Screenshots](http://i.imgur.com/xrEc2gA.jpg)
 
-I like this icon so much I wanted the missing icons to be fixed. 
+I like this icon set so much I wanted the missing icons to be fixed. 
 
 In the meantime I made 5 tutorial movies so you know how to change any icon theme if there are icons missing you like to have.
 
