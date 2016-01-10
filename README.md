@@ -275,7 +275,7 @@ https://nitrux.in/store/compass-icon-theme/
 
 # 14. Ultra flat orange icons
 
-https://www.dropbox.com/s/8p2t7n78a4g0jjj/Ultra%20Flat%20Orange%201.3.2.tar.gz?dl=0
+https://www.dropbox.com/s/35k1ckffe17ba8r/ultra-flat-icons-1.3.4.tar.gz
 
 or
 
