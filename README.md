@@ -333,6 +333,8 @@ Paste this in the terminal in the folder. It is for the grey Input Method icon (
 
 ![Screenshots](http://i.imgur.com/COOx3Hd.jpg)
 
+![Screenshots](http://i.imgur.com/jOKdca9.jpg)
+
 
 # 15. Flatabulous theme
 
