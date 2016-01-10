@@ -162,12 +162,14 @@ Arch Frost GTK
 
 ![Screenshots](http://i.imgur.com/dpKjhQ2.jpg)
 
+![Screenshots](http://i.imgur.com/Md8hgZi.png) 
+
 Arch Frost GTK Dark
 
 ![Screenshots](http://i.imgur.com/RAi8F5z.jpg)
 
 
-![Screenshots](http://i.imgur.com/Md8hgZi.png) 
+
 
 
 # 8. Flattr icons
