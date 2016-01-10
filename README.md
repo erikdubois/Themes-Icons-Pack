@@ -223,11 +223,9 @@ git clone https://github.com/alecive/FlatWoken.git
 # 11. Moka 
 
 
-sudo add-apt-repository ppa:moka/stable
-
-sudo apt-get update
-
-sudo apt-get install moka-icon-theme
+	sudo add-apt-repository ppa:moka/stable
+	sudo apt-get update
+	sudo apt-get install moka-icon-theme
 
 
 These can also be installed and will NOT be installed.
