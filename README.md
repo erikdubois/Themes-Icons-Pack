@@ -213,9 +213,12 @@ sudo apt-get update
 
 sudo apt-get install moka-icon-theme
 
+
 These can also be installed and will NOT be installed.
 
+
 sudo apt-get install moka-cinnamon-theme moka-desktop-extras moka-default-settings
+
 sudo apt-get install moka-gnome-shell-theme moka-desktop moka-gtk-theme
 
 
