@@ -84,6 +84,10 @@ https://github.com/horst3180/Vertex-theme
 
 This theme can be dark and light.
 
+	sudo add-apt-repository ppa:noobslab/themes -y
+	sudo apt-get update
+	sudo apt-get install vertex-theme -y
+
 ![Screenshots](http://i.imgur.com/KlTeQK7.png)
 
 ![Screenshots](http://i.imgur.com/efDJTp1.jpg)
