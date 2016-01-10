@@ -262,11 +262,9 @@ https://github.com/manson9/dalisha-icon-theme
 
 https://nitrux.in/store/compass-icon-theme/
 
-sudo add-apt-repository ppa:nitrux-team/nitrux-artwork
-
-sudo apt-get update
-
-sudo apt-get install compass-icon-theme
+	sudo add-apt-repository ppa:nitrux-team/nitrux-artwork
+	sudo apt-get update
+	sudo apt-get install compass-icon-theme
 
 
 
