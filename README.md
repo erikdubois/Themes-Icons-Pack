@@ -156,10 +156,18 @@ https://github.com/solus-project/evopop-icon-theme
 
 http://osendott.github.io/arch-frost/
 
+
+
+Arch Frost GTK
+
+![Screenshots](http://i.imgur.com/dpKjhQ2.jpg)
+
+Arch Frost GTK Dark
+
+![Screenshots](http://i.imgur.com/RAi8F5z.jpg)
+
+
 ![Screenshots](http://i.imgur.com/Md8hgZi.png) 
-
-
-
 
 
 # 8. Flattr icons
