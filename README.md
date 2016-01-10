@@ -275,9 +275,11 @@ https://nitrux.in/store/compass-icon-theme/
 
 # 14. Ultra flat orange icons
 
+Version 1.3.4
+
 https://www.dropbox.com/s/35k1ckffe17ba8r/ultra-flat-icons-1.3.4.tar.gz
 
-I think this is the latest version - from november 2015
+I think this is the latest version - from november 2015 found on http://gnome-look.org/content/show.php/Ultra-Flat?content=167473
 
 https://www.dropbox.com/s/bx42h8a1o48w7e0/Ultra-Flat-Theme.tar.gz
 
