@@ -245,9 +245,11 @@ These can also be installed and will NOT be installed.
 # 12. Dalisha
 
 Latest can be found on gnome-look.org
+
 http://gnome-look.org/content/show.php?content=166286&forumpage=0
 
 Downloads came from here. Not working for the moment.
+
 https://github.com/manson9/dalisha-icon-theme
 
 
