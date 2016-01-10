@@ -158,6 +158,8 @@ https://github.com/solus-project/evopop-icon-theme
 
 #7. Arch Frost theme
 
+Install via script
+
 http://osendott.github.io/arch-frost/
 
 
@@ -178,6 +180,8 @@ Arch Frost GTK Dark
 
 # 8. Flattr icons
 
+Install via script
+
 https://github.com/NitruxSA/flattr-icons
 
 ![Screenshots](http://i.imgur.com/U48ytG3.jpg) 
@@ -190,6 +194,8 @@ https://github.com/NitruxSA/flattr-icons
 
 # 9. Superflat remix icons
 
+Install via script
+
 https://github.com/daniruiz/Super-Flat-Remix
 
 ![Screenshots](http://i.imgur.com/2aMjF19.jpg)
@@ -199,6 +205,8 @@ https://github.com/daniruiz/Super-Flat-Remix
 
 
 # 10. Flatwoken icons
+
+Install via script
 
 git clone https://github.com/alecive/FlatWoken.git
 
@@ -237,7 +245,7 @@ sudo apt-get install moka-gnome-shell-theme moka-desktop moka-gtk-theme
 Latest can be found on gnome-look.org
 http://gnome-look.org/content/show.php?content=166286&forumpage=0
 
-Downloads come from here.
+Downloads came from here. Not working for the moment.
 https://github.com/manson9/dalisha-icon-theme
 
 
@@ -311,6 +319,8 @@ https://www.youtube.com/playlist?list=PLlloYVGq5pS7embS68zCwQZ-lvbz2GZOJ
 
 # 15. Flatabulous theme
 
+Install via script
+
 This theme goes well with the ultra flat orange icons.
 
 https://github.com/anmoljagetia/Flatabulous
@@ -326,7 +336,7 @@ https://github.com/anmoljagetia/Flatabulous
 
 # Uniform
 
-Not usable.
+Not usable. No script to install.
 
 Nice starting theme. Many icons missing but looks promising. Mentioned because of the promising look.
 
