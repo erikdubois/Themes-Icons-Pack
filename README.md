@@ -317,7 +317,7 @@ Icons that get fixed are:
 https://www.youtube.com/playlist?list=PLlloYVGq5pS7embS68zCwQZ-lvbz2GZOJ
 
 In the movie one icon was not yet replaced.
-Paste this in the terminal in the folder
+Paste this in the terminal in the folder. It is for the grey Input Method icon (almost in the middle).
 
 	/usr/share/icons/Ultra-Flat-Orange/apps/scalable
 
