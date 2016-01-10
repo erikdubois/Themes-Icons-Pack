@@ -296,7 +296,7 @@ Icons that get fixed are:
 
 4. usb and kazam
 
-[![Little red ridning hood](http://imgur.com/cR0abgg?)](https://vimeo.com/3514904 "Little red riding hood - Click to Watch!")
+[![Little red ridning hood](http://i.imgur.com/cR0abgg?)](https://vimeo.com/3514904 "Little red riding hood - Click to Watch!")
 
 https://www.youtube.com/playlist?list=PLlloYVGq5pS7embS68zCwQZ-lvbz2GZOJ
 
