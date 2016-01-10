@@ -241,26 +241,7 @@ sudo apt-get install compass-icon-theme
 
 
 
-
-# 14. Uniform
-
-Nice starting theme. Many icons missing but looks promising
-
-http://0rax0.deviantart.com/art/Uniform-Icon-Theme-453054609
-
-http://www.deviantart.com/download/453054609/uniform_icon_theme_by_0rax0-d7hqj69.zip?token=9a22eb94b89fbc4ad45ff124e008b01a27a456a3&ts=1431882377
-
-Download comes from 
-
-https://github.com/0rAX0/uniform-icon-theme
-
-
-
-![Screenshots](http://i.imgur.com/QTKQ0x9.png)
-
-
-
-# 15. Ultra flat orange icons
+# 14. Ultra flat orange icons
 
 https://www.dropbox.com/s/8p2t7n78a4g0jjj/Ultra%20Flat%20Orange%201.3.2.tar.gz?dl=0
 
@@ -306,7 +287,7 @@ https://www.youtube.com/playlist?list=PLlloYVGq5pS7embS68zCwQZ-lvbz2GZOJ
 
 
 
-# 16. Flatabulous theme
+# 15. Flatabulous theme
 
 This theme goes well with the ultra flat orange icons.
 
@@ -332,4 +313,21 @@ Result :
 
 
 
+# Uniform
 
+Not usable.
+
+Nice starting theme. Many icons missing but looks promising. Mentioned because of the promising look.
+
+
+http://0rax0.deviantart.com/art/Uniform-Icon-Theme-453054609
+
+http://www.deviantart.com/download/453054609/uniform_icon_theme_by_0rax0-d7hqj69.zip?token=9a22eb94b89fbc4ad45ff124e008b01a27a456a3&ts=1431882377
+
+Download comes from 
+
+https://github.com/0rAX0/uniform-icon-theme
+
+
+
+![Screenshots](http://i.imgur.com/QTKQ0x9.png)
