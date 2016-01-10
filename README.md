@@ -316,7 +316,16 @@ Icons that get fixed are:
 
 https://www.youtube.com/playlist?list=PLlloYVGq5pS7embS68zCwQZ-lvbz2GZOJ
 
+In the movie one icon was not yet replaced.
+Paste this in the terminal in the folder
 
+	/usr/share/icons/Ultra-Flat-Orange/apps/scalable
+
+	sudo ln -s input-keyboard.svg cs-input-method.png
+
+
+
+![Screenshots](http://i.imgur.com/COOx3Hd.jpg)
 
 
 # 15. Flatabulous theme
