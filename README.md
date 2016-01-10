@@ -84,7 +84,9 @@ https://github.com/horst3180/Vertex-theme
 
 This theme can be dark and light.
 
-![Screenshots](http://i.imgur.com/KlTeQK7.png)  
+![Screenshots](http://i.imgur.com/KlTeQK7.png)
+
+![Screenshots](http://i.imgur.com/efDJTp1.jpg)
 
 I have made an article to explain the complete installation also browsers for vertex here : 
 
