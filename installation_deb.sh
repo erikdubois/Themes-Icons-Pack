@@ -57,6 +57,12 @@ mkdir ~/.themes/arch-frost-gtk
 cp -r /tmp/arch-frost-gtk/arch-frost-light/* ~/.themes/arch-frost-gtk
 
 
+# F L A T A B U L O U S
+
+git clone https://github.com/anmoljagetia/Flatabulous /tmp/Flatabulous
+mkdir ~/.themes/Flatabulous
+cp -r /tmp/Flatabulous/* ~/.themes/Flatabulous
+
 
 ########################################
 ########        I C O N S      #########

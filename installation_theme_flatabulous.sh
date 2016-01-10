@@ -8,12 +8,11 @@
 # AS ALLWAYS, KNOW WHAT YOU ARE DOING.
 #======================================================================================
 
-# U L T R A  F L A T   I C O N S
+# F L A T A B U L O U S
 
-sudo add-apt-repository ppa:noobslab/icons -y
-sudo apt-get update
-sudo apt-get install ultra-flat-icons ultra-flat-icons-orange ultra-flat-icons-green -y
-
+git clone https://github.com/anmoljagetia/Flatabulous /tmp/Flatabulous
+mkdir ~/.themes/Flatabulous
+cp -r /tmp/Flatabulous/* ~/.themes/Flatabulous
 
 
 echo "################################################################"
