@@ -261,7 +261,7 @@ This is the playlist link on youtube.
 
 Contents of movie
 
-A playlist of 5 tutorials to tell you how to fix icons in Linux Mint 17.3 that do not follow the icon theme.  Ultra Flat Icons Orange as example.
+<b>A playlist of 5 tutorials to tell you how to fix icons in Linux Mint 17.3 that do not follow the icon theme.  Ultra Flat Icons Orange as example.</b>
 
 1. change file in /usr/share/applications
 

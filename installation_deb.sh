@@ -70,10 +70,7 @@ cp -r /tmp/Sardi/Sardi/* ~/.icons/Sardi
 cp -r /tmp/Sardi/Sardi\ Vertexed/* ~/.icons/Sardi\ Vertexed
 
 
-# E V O P O P
-git clone https://github.com/solus-project/evopop-icon-theme.git /tmp/evopop-icon-theme
-mkdir ~/.icons/evopop-icon-theme
-cp -r /tmp/evopop-icon-theme/EvoPop/* ~/.icons/evopop-icon-theme
+
 
 # F L A T T R
 
@@ -124,6 +121,13 @@ sudo apt-get install compass-icon-theme
 git clone https://github.com/0rAX0/uniform-icon-theme.git /tmp/Uniform
 mkdir ~/.icons/Uniform
 cp -r /tmp/Uniform/Uniform/* ~/.icons/Uniform
+
+
+# U L T R A  F L A T   I C O N S
+
+sudo add-apt-repository ppa:noobslab/icons -y
+sudo apt-get update
+sudo apt-get install ultra-flat-icons ultra-flat-icons-orange ultra-flat-icons-green -y
 
 echo "################################################################"
 echo "###################    T H E   E N D      ######################"
