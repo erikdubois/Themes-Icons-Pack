@@ -118,7 +118,6 @@ These can be installed via the terminal or via the script
 
 http://www.ravefinity.com/p/download-ambiance-radiance-colors.html
 
-These can be installed via the terminal or via script.
 
 Beware this ones gives you many choices with minute color changes.
 
@@ -135,9 +134,10 @@ Beware this ones gives you many choices with minute color changes.
 # 5. Ceti Theme
 
 http://horst3180.deviantart.com/art/Ceti-445892596
+
 https://github.com/horst3180/Ceti-theme
 
-These can be installed via the terminal or via script.
+
 
 	sudo add-apt-repository ppa:noobslab/themes
 	sudo apt-get update
