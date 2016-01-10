@@ -37,9 +37,10 @@ Sardi has its origins in Ardis but has evolved in a new icon set.
 
 http://sourceforge.net/projects/sardi/
 
-Download, unzip and put in .icons folder
 
-or run script.
+<b>Download, unzip and put in .icons folder</b>
+
+
 
 
 ![Screenshots](http://i.imgur.com/FOm8gfH.png)
