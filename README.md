@@ -35,7 +35,11 @@ It is up to you to activate them.
 
 Sardi has its origins in Ardis but has evolved in a new icon set.
 
-https://github.com/erikdubois/Sardi
+http://sourceforge.net/projects/sardi/
+
+Download, unzip and put in .icons folder
+
+or run script.
 
 
 ![Screenshots](http://i.imgur.com/FOm8gfH.png)
