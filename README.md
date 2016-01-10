@@ -86,7 +86,9 @@ This theme can be dark and light.
 
 ![Screenshots](http://i.imgur.com/KlTeQK7.png)  
 
+I have made an article to explain the complete installation also browsers for vertex here : 
 
+http://erikdubois.be/how-to-completely-install-all-aspects-of-the-vertex-dark-theme-on-linux-mint-17-3/
 
 
 
