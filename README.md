@@ -360,7 +360,7 @@ Install via script
 
 This theme has been adapted to be softer on the eyes. Backgroun of file-manager is grey.
 
-![Screenshots](http://imgur.com/rdHP72Y)
+![Screenshots](http://i.imgur.com/9pyyWta.jpg)
 
 
 # Uniform
