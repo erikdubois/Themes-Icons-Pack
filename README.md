@@ -358,7 +358,7 @@ https://github.com/anmoljagetia/Flatabulous
 
 Install via script
 
-This theme has been adapted to be softer on the eyes. Backgroun of file-manager is grey.
+This theme has been adapted to be softer on the eyes. Background of file-manager is grey.
 
 ![Screenshots](http://i.imgur.com/9pyyWta.jpg)
 
