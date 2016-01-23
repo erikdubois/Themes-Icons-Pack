@@ -68,12 +68,13 @@ cp -r /tmp/Flatabulous/* ~/.themes/Flatabulous
 ########        I C O N S      #########
 ########################################
 
+# Yltra Flat
+git clone https://github.com/erikdubois/Yltra-Flat /tmp/Yltra-Flat
+cp -r /tmp/Yltra-Flat/* ~/.icons/
+
+
 # S A R D I
-git clone https://github.com/erikdubois/Sardi.git /tmp/Sardi
-mkdir ~/.icons/Sardi
-mkdir ~/.icons/Sardi\ Vertexed
-cp -r /tmp/Sardi/Sardi/* ~/.icons/Sardi
-cp -r /tmp/Sardi/Sardi\ Vertexed/* ~/.icons/Sardi\ Vertexed
+# from sourceforge 
 
 
 
