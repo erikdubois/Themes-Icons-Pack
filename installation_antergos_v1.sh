@@ -1,4 +1,26 @@
-#!/bin/bash 
+#!/bin/bash
+#              `.-/::/-``
+#            .-/osssssssso/.               
+#           :osyysssssssyyys+-              
+#        `.+yyyysssssssssyyyyy+.           
+#       `/syyyyyssssssssssyyyyys-`         
+#      `/yhyyyyysss++ssosyyyyhhy/`         
+#     .ohhhyyyyso++/+oso+syy+shhhho.       
+#    .shhhhysoo++//+sss+++yyy+shhhhs.      
+#   -yhhhhs+++++++ossso+++yyys+ohhddy:     
+#  -yddhhyo+++++osyyss++++yyyyooyhdddy-    
+# .yddddhso++osyyyyys+++++yyhhsoshddddy`   
+#`odddddhyosyhyyyyyy++++++yhhhyosddddddo   
+#.dmdddddhhhhhhhyyyo+++++shhhhhohddddmmh.  
+#ddmmdddddhhhhhhhso++++++yhhhhhhdddddmmdy  
+#dmmmdddddddhhhyso++++++shhhhhddddddmmmmh  
+#-dmmmdddddddhhyso++++oshhhhdddddddmmmmd- 
+# .smmmmddddddddhhhhhhhhhdddddddddmmmms. 
+#   `+ydmmmdddddddddddddddddddmmmmdy/.     
+#      `.:+ooyyddddddddddddyyso+:.`
+#======================================================================================
+
+
 #======================================================================================
 #                               themes-icons-pack
 # 
@@ -9,7 +31,7 @@
 #======================================================================================
 
 
-# install - yaourt packer - first
+# install - yaourt and then packer first
 
 
 
@@ -21,38 +43,37 @@
 #git clone https://github.com/horst3180/vertex-theme /tmp/vertex-theme
 #mkdir ~/.themes/vertex-theme
 #cp -r /tmp/vertex-theme/common/* ~/.themes/vertex-theme
-packer vertex-themes --noedit
+packer vertex-themes-git --noedit --noconfirm
 
 
 # N U M I X 
-sudo pacman -S numix-themes --noedit
-packer numix-circle-icon-theme-git --noedit
-packer numix-themes-archblue --noedit
+sudo pacman -S numix-themes --noconfirm
+packer numix-circle-icon-theme-git --noedit --noconfirm
+packer numix-themes-archblue --noedit --noconfirm
 
 
 # A M B I A N C E
-packer ubuntu-themes --noedit
+packer ubuntu-themes --noedit --noconfirm
 
 
 
 # U L T R A F L A T
 
-packer ultra-flat-gtk --noedit
+packer ultra-flat-icons --noedit --noconfirm
 
 
 # C E T I
 
-packer ceti-2-themes --noedit
+packer ceti-2-themes-git --noedit --noconfirm
 
 
-# A R C H  F R O S T   D A R K  A N S  L I G H T
+# A R C H  N U M I X  F R O S T  T H E M E S
 
-packer arch-frost-gtk-git --noedit
-packer arch-frost-dark-gtk-git --noedit
+packer numix-frost-themes --noedit --noconfirm
 
 
 # E V O P O P
-packer evopop-gtk-theme --noedit
+packer evopop-gtk-theme-git --noedit --noconfirm
 
 
 ########################################
@@ -67,7 +88,7 @@ packer evopop-gtk-theme --noedit
 #mkdir ~/.icons/evopop-icon-theme
 #cp -r /tmp/evopop-icon-theme/EvoPop/* ~/.icons/evopop-icon-theme
 
-packer evopop-icon-theme -noedit
+packer evopop-icon-theme --noconfirm
 
 
 
