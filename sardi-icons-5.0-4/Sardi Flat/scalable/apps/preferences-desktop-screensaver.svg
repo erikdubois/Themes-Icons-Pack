@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" height="512" viewBox="0 0 512 512" width="512" version="1.1" id="svg2" inkscape:version="0.91 r" sodipodi:docname="kstars.svg">
+<sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="640" inkscape:window-height="480" id="namedview23" showgrid="false" inkscape:zoom="0.4609375" inkscape:cx="256" inkscape:cy="256" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="0" inkscape:current-layer="svg2" />
+<metadata id="metadata87">
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<defs id="defs4">
+<path id="0" stroke="#fff" fill-rule="evenodd" fill="#fff" d="m261.63 150.37-21.929 5.586-7.83 21.23-12.09-19.13-22.612-0.886 14.457-17.409-6.145-21.779 21.02 8.37 18.814-12.574-1.464 22.582z" />
+</defs>
+<path id="path11" d="m 471.95,253.05 c 0,120.9 -98.01,218.9 -218.9,218.9 -120.9,0 -218.9,-98.01 -218.9,-218.9 0,-120.9 98.01,-218.9 218.9,-218.9 120.9,0 218.9,98.01 218.9,218.9" inkscape:connector-curvature="0" style="fill:#55405f;fill-rule:evenodd" />
+<g style="fill:#ffffff;stroke:#ffffff" transform="matrix(0.88635,0,0,0.88635,-782.19,-449.81)" id="g71">
+<path style="fill-rule:evenodd" inkscape:connector-curvature="0" d="m 1106.2,720.77 c -54.02,9.261 -95.12,56.31 -95.12,112.97 0,63.31 51.31,114.63 114.63,114.63 56.663,0 103.71,-41.1 112.97,-95.12 -15.08,37.35 -51.654,63.719 -94.41,63.719 -56.21,0 -101.78,-45.568 -101.78,-101.78 0,-42.752 26.367,-79.33 63.719,-94.41 z" id="path73" />
+<use y="0" x="0" width="1" height="1" transform="translate(871.76,530.26)" xlink:href="#0" id="use75" />
+<use y="0" x="0" width="1" height="1" transform="translate(1044.5,565.62)" xlink:href="#0" id="use77" />
+<use y="0" x="0" width="1" height="1" transform="translate(971.77,501.98)" xlink:href="#0" id="use79" />
+<use y="0" x="0" width="1" height="1" transform="translate(1075.8,660.57)" xlink:href="#0" id="use81" />
+<use y="0" x="0" width="1" height="1" transform="translate(944.49,604)" xlink:href="#0" id="use83" />
+</g>
+</svg>

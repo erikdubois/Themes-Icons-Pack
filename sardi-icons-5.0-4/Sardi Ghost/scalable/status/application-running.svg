@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48">
+<defs>
+  <path
+     d="m 21,31 6,-6 -6,-6 0,12 z"
+     id="path-main"
+     sodipodi:nodetypes="cccc" />
+</defs>
+<acyl-settings>
+<use id="1" style="fill:#FFF" xlink:href="#path-main" />
+
+
+</acyl-settings>
+</svg>

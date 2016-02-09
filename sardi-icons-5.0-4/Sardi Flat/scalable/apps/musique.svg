@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" height="512" viewBox="0 0 512 512" width="512" version="1.1" id="svg2" inkscape:version="0.91 r" sodipodi:docname="musique.svg">
+<defs id="defs18" />
+<sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="640" inkscape:window-height="480" id="namedview16" showgrid="false" inkscape:zoom="0.4609375" inkscape:cx="256" inkscape:cy="256" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="0" inkscape:current-layer="svg2" />
+<metadata id="metadata75">
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<path id="path4" d="m471.95 253.05c0 120.9-98.01 218.9-218.9 218.9-120.9 0-218.9-98.01-218.9-218.9 0-120.9 98.01-218.9 218.9-218.9 120.9 0 218.9 98.01 218.9 218.9" fill-rule="evenodd" fill="#1284b7" />
+<path style="fill:#ffffff" inkscape:connector-curvature="0" d="m 337.4381,123.76668 c -48.32097,7.09266 -96.94289,12.26051 -145.19306,19.73082 -7.41307,3.82425 -7.21126,13.41646 -6.39873,20.56046 -0.29681,49.89647 -0.0525,99.79294 -0.12923,149.6953 -23.87017,-2.02512 -49.94367,10.32744 -59.33762,33.13844 -5.94792,14.89931 2.78514,33.65769 18.20018,38.33637 19.13897,7.35819 41.61186,0.70631 56.18663,-12.98158 10.27433,-10.09023 14.91819,-24.81252 13.86669,-39.03915 0.15519,-36.94439 -0.0419,-73.89469 0.0921,-110.83908 l 0,-21.18712 106.32503,-15.87647 c -0.082,33.55207 0.14811,67.10886 -0.12923,100.66035 -23.98051,-1.96553 -50.221,10.55697 -59.39662,33.61579 -5.5927,14.84031 3.18049,33.33316 18.47515,37.91212 19.51957,7.37117 42.29044,0.44668 56.81211,-13.75635 9.81407,-9.97988 14.04076,-24.31686 13.12909,-38.11273 0.29858,-33.33906 -0.22717,-66.67811 0.14752,-100.01717 0.0484,-25.11758 0.38768,-50.30952 -0.9034,-75.38167 -1.9791,-4.4279 -7.05667,-6.77402 -11.74597,-6.4542" id="0" />
+<use y="0" x="0" style="fill:#ffffff" width="1" height="1" xlink:href="#0" id="use69" />
+</svg>

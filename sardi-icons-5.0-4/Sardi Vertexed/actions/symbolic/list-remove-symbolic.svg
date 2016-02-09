@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="16" height="16" version="1.0">
+ <defs id="defs4">
+  <linearGradient id="SpecificGradient" y1="6" x2="0" y2="16" gradientUnits="userSpaceOnUse">
+   <stop id="stop3292" stop-color="#ad0707"/>
+   <stop offset="1" id="stop3294" stop-color="#f75535"/>
+  </linearGradient>
+  <linearGradient inkscape:collect="always" xlink:href="#SpecificGradient" id="linearGradient3634" gradientUnits="userSpaceOnUse" y1="6" x2="0" y2="16" gradientTransform="translate(-20,0)"/>
+  <clipPath id="clipPath3645">
+   <path d="m -17,2.9995677 0,16.0000003 16,0 0,-16.0000003 -16,0 z m 5.3125,3 2.6875,2.6875 2.6875,-2.6875 2.3125,2.3125 -2.6875,2.6875003 2.6875,2.6875 -2.3125,2.3125 -2.6875,-2.6875 -2.6875,2.6875 -2.3125,-2.3125 2.6875,-2.6875 L -14,8.3120677 l 2.3125,-2.3125 z" id="path3647"/>
+  </clipPath>
+  <linearGradient inkscape:collect="always" xlink:href="#SpecificGradient" id="linearGradient3782" gradientUnits="userSpaceOnUse" y1="6" x2="0" y2="16"/>
+  <linearGradient inkscape:collect="always" xlink:href="#SpecificGradient" id="linearGradient3786" gradientUnits="userSpaceOnUse" y1="6" x2="0" y2="16" gradientTransform="translate(-3,-2.9995677)"/>
+ </defs>
+ <metadata id="metadata7"/>
+ <g inkscape:groupmode="layer" id="layer3" inkscape:label="Cross" transform="translate(-3,-2.9995677)">
+  <path d="m 6,10.011314 0,1.973107 10,-10e-7 0,-1.973106 z" id="Symbol" sodipodi:nodetypes="ccccc" inkscape:label="#rect2498" inkscape:connector-curvature="0" fill="#bebebe"/>
+ </g>
+</svg>

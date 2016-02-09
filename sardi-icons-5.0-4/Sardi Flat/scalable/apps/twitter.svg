@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" height="512" viewBox="0 0 512 512" width="512" version="1.1" id="svg2" inkscape:version="0.91 r" sodipodi:docname="twitgoo_uploader.svg">
+<defs id="defs16" />
+<sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="640" inkscape:window-height="480" id="namedview14" showgrid="false" inkscape:zoom="0.4609375" inkscape:cx="256" inkscape:cy="256" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="0" inkscape:current-layer="svg2" />
+<metadata id="metadata72">
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<path id="path4" d="m471.95 253.05c0 120.9-98.01 218.9-218.9 218.9-120.9 0-218.9-98.01-218.9-218.9 0-120.9 98.01-218.9 218.9-218.9 120.9 0 218.9 98.01 218.9 218.9" fill-rule="evenodd" fill="#00abec" />
+<path id="path66" fill="#fff" d="m287.75 152.27c-22.678 8.448-37.01 30.2-35.39 54.01l0.55 9.204-9.08-1.134c-33.01-4.319-61.86-18.948-86.34-43.51l-11.98-12.2-3.086 9.02c-6.539 20.05-2.354 41.27 11.247 55.52 7.245 7.854 5.624 8.988-6.905 4.292-4.342-1.484-8.161-2.618-8.527-2.051-1.256 1.323 3.086 18.381 6.539 25.13 4.708 9.393 14.334 18.57 24.848 24.02l8.893 4.292-10.515 0.188c-10.175 0-10.515 0.188-9.442 4.13 3.636 12.2 17.969 25.13 33.925 30.77l11.247 3.941-9.782 5.992c-14.517 8.637-31.571 13.496-48.625 13.873-8.161 0.187-14.883 0.945-14.883 1.512 0 1.862 22.13 12.362 35.02 16.492 38.633 12.2 84.54 6.937 119.01-13.873 24.482-14.818 48.991-44.27 60.42-72.77 6.173-15.196 12.346-42.943 12.346-56.28 0-8.61 0.523-9.744 10.698-20.05 5.99-5.992 11.613-12.578 12.686-14.44 1.831-3.563 1.648-3.563-7.611-0.378-15.432 5.614-17.603 4.885-9.966-3.563 5.624-5.992 12.32-16.869 12.32-20.05 0-0.567-2.72 0.351-5.807 2.051-3.27 1.862-10.515 4.697-15.955 6.37l-9.809 3.185-8.893-6.181c-4.891-3.374-11.77-7.126-15.406-8.26-9.259-2.618-23.41-2.24-31.754 0.756" />
+</svg>

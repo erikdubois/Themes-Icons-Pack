@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" height="512" viewBox="0 0 512 512" width="512" version="1.1" id="svg2" inkscape:version="0.91 r" sodipodi:docname="videoporama.svg">
+<defs id="defs19" />
+<sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="640" inkscape:window-height="480" id="namedview17" showgrid="false" inkscape:zoom="0.4609375" inkscape:cx="256" inkscape:cy="256" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="0" inkscape:current-layer="svg2" />
+<metadata id="metadata78">
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<path id="path4" d="m471.95 253.05c0 120.9-98.01 218.9-218.9 218.9-120.9 0-218.9-98.01-218.9-218.9 0-120.9 98.01-218.9 218.9-218.9 120.9 0 218.9 98.01 218.9 218.9" fill-rule="evenodd" fill="#0078ad" />
+<path style="fill:#ffffff;stroke:#ffffff;stroke-width:1.98500001" inkscape:connector-curvature="0" d="m 170.22,274.34 163.84,0 c -16.916,-34.414 -22.802,-75.988 -61.32,-65.24 -11.972,4.905 -36.29,42.16 -46.11,33.36 -30.472,-40.822 -50.848,-0.581 -56.41,31.886 z" id="path68" />
+<path style="fill:#ffffff;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.2249999" inkscape:connector-curvature="0" d="m 245.54,184.64 c 0,11.811 -9.575,21.386 -21.386,21.386 -11.811,0 -21.386,-9.575 -21.386,-21.386 0,-11.811 9.575,-21.386 21.386,-21.386 11.811,0 21.386,9.575 21.386,21.386 z" id="path70" />
+<path id="path72" fill="#fff" d="m134.22 122.78c-6.348 0-11.438 5.09-11.438 11.438v243.56c0 6.348 5.09 11.438 11.438 11.438h243.56c6.348 0 11.438-5.09 11.438-11.438v-243.56c0-6.348-5.09-11.438-11.438-11.438h-243.56m28.06 22.22h187.44c4.886 0 8.844 2.86 8.844 6.375v134.88c0 3.515-3.958 6.344-8.844 6.344h-187.44c-4.886 0-8.844-2.828-8.844-6.344v-134.87c0-3.515 3.958-6.375 8.844-6.375" />
+</svg>

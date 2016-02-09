@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 512 512" id="svg2" version="1.1" inkscape:version="0.91 r" sodipodi:docname="sabnzbd.svg">
+<metadata id="metadata28">
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<defs id="defs26" />
+<sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="640" inkscape:window-height="480" id="namedview24" showgrid="false" inkscape:zoom="0.4609375" inkscape:cx="256" inkscape:cy="256" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="0" inkscape:current-layer="svg2" />
+<path style="fill:#f2bb2c;fill-rule:evenodd" inkscape:connector-curvature="0" id="path6" d="m 471.95,253.05 c 0,120.9 -98.01,218.91 -218.91,218.91 -120.9,0 -218.91,-98.01 -218.91,-218.91 0,-120.9 98.01,-218.91 218.91,-218.91 120.9,0 218.91,98.01 218.91,218.91" />
+<path style="fill:#ffffff;fill-rule:evenodd" inkscape:connector-curvature="0" id="path22" d="m 329,182.86 0,146.28 105.84,0 0,-104.49 -62.47,0 0,-41.797 -43.37,0 m -126.3,41.797 0,20.898 62.922,0 0,22.957 -62.922,0 0,60.63 105.84,0 0,-104.48 -105.84,0 m -125.54,0.952 0,63.808 62.928,0 0,18.827 -62.928,0 0,20.898 105.84,0 0,-60.632 -62.922,0 0,-22.01 62.922,0 0,-20.898 -105.84,0 m 295.21,19.947 18.652,0 0,62.689 -18.652,0 0,-62.689 m -126.3,43.862 20,0 0,18.827 -20,0 0,-18.827" />
+</svg>

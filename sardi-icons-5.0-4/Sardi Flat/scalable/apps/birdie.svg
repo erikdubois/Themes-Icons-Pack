@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" height="512" viewBox="0 0 512 512" width="512" version="1.1" id="svg2" inkscape:version="0.91 r" sodipodi:docname="birdie.svg">
+<defs id="defs18" />
+<sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="640" inkscape:window-height="480" id="namedview16" showgrid="false" inkscape:zoom="0.4609375" inkscape:cx="256" inkscape:cy="256" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="0" inkscape:current-layer="svg2" />
+<metadata id="metadata30">
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<path style="fill:#0078ad;fill-rule:evenodd" inkscape:connector-curvature="0" d="m 471.94,253.04342 c 0,120.8954 -98.00438,218.90438 -218.90438,218.90438 -120.8954,0 -218.904376,-98.00438 -218.904376,-218.90438 0,-120.89541 98.004376,-218.904381 218.904376,-218.904381 120.89541,0 218.90438,98.004371 218.90438,218.904381" id="path6" />
+<path style="fill:#ffffff" inkscape:connector-curvature="0" d="m 375.36,199.07 31.21,-21.265 -44.515,-13.01 c -37.18,-65.22 -113.05,-31.21 -138.41,30.819 -30.593,74.76 -118.22,102.03 -118.22,102.03 62.36,74.04 118.61,87.41 156.13,84.46 37.535,-2.969 138.84,-32.426 117.75,-163.88 -1.097,-6.835 -2.428,-13.198 -3.952,-19.16" id="path22" />
+<path style="fill:#469ad8" inkscape:connector-curvature="0" d="m 332.47,163.19 c 0.693,6.202 -2.506,11.666 -7.166,12.207 -4.677,0.521 -9.04,-4.09 -9.731,-10.282 -0.711,-6.202 2.49,-11.666 7.167,-12.207 4.678,-0.501 9.02,4.081 9.729,10.282" id="path24" />
+</svg>

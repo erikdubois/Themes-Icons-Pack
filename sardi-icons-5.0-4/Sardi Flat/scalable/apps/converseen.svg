@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" height="512" viewBox="0 0 512 512" width="512" version="1.1" id="svg2" inkscape:version="0.91 r" sodipodi:docname="converseen.svg">
+<defs id="defs17" />
+<sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="640" inkscape:window-height="480" id="namedview15" showgrid="false" inkscape:zoom="0.4609375" inkscape:cx="256" inkscape:cy="256" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="0" inkscape:current-layer="svg2" />
+<metadata id="metadata74">
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<path style="fill:#2d83be;fill-rule:evenodd" inkscape:connector-curvature="0" d="m 471.95,253.05 c 0,120.9 -98.01,218.91 -218.91,218.91 -120.9,0 -218.91,-98.01 -218.91,-218.91 0,-120.9 98.01,-218.91 218.91,-218.91 120.9,0 218.91,98.01 218.91,218.91" id="path6" />
+<path style="color:#000000;fill:#ffffff" inkscape:connector-curvature="0" d="m 293.39,121.17 129.04,42.4 -39.501,22.648 c 3.952,11.12 6.06,22.814 6.06,35.29 0,58.664 -47.46,106.39 -106.13,106.39 -11.477,0 -22.564,-2.163 -32.918,-5.53 42.572,-13.846 73.47,-53.672 73.47,-100.86 0,-0.306 0.002,-0.482 0,-0.788 l -57.67,33.18 27.65,-132.73 m -64.26,62.939 c 11.477,0 22.564,2.163 32.918,5.531 -42.572,13.847 -73.47,53.672 -73.47,100.86 0,0.306 -0.002,0.482 0,0.788 l 57.672,-33.18 -27.651,132.72 -129.04,-42.4 39.501,-22.647 c -3.952,-11.12 -6.06,-22.814 -6.06,-35.29 0,-58.663 47.46,-106.39 106.13,-106.39" id="path68" />
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" height="512" viewBox="0 0 512 512" width="512" version="1.1" id="svg2" inkscape:version="0.91 r" sodipodi:docname="feedly.svg">
+<defs id="defs19" />
+<sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="640" inkscape:window-height="480" id="namedview17" showgrid="false" inkscape:zoom="0.4609375" inkscape:cx="256" inkscape:cy="256" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="0" inkscape:current-layer="svg2" />
+<metadata id="metadata78">
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<path id="path4" d="m471.95 253.05c0 120.9-98.01 218.9-218.9 218.9-120.9 0-218.9-98.01-218.9-218.9 0-120.9 98.01-218.9 218.9-218.9 120.9 0 218.9 98.01 218.9 218.9" fill-rule="evenodd" fill="#89a80d" />
+<g id="g66" transform="matrix(10.912 0 0 10.772 -53.53 24.897)" fill="#fff">
+<path id="path68" d="m17.333 21.13c-0.578 0.586-0.578 1.529 0 2.115l1.066 1.079h3.436l12.549-12.711c0.578-0.586 0.578-1.529 0-2.115l-1.74-1.762c-0.578-0.586-1.509-0.586-2.088 0l-13.223 13.394" />
+<path id="path70" d="m22.9 26.773c-0.578 0.586-0.578 1.529 0 2.115l1.066 1.079h3.436l7.677-7.777c0.578-0.586 0.578-1.529 0-2.115l-1.74-1.762c-0.578-0.586-1.509-0.586-2.088 0l-8.351 8.459" />
+<path id="path72" d="m28.468 32.413c-0.578 0.586-0.578 1.529 0 2.115l1.066 1.079h3.436l1.066-1.079c0.578-0.586 0.578-1.529 0-2.115l-1.74-1.762c-0.578-0.586-1.509-0.586-2.088 0l-1.74 1.762" />
+</g>
+</svg>

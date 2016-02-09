@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="16"
+   version="1.1"
+   width="16"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="mark-location-symbolic.svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1680"
+     inkscape:window-height="997"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="-2.5762712"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="35"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer12" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer12"
+     inkscape:label="actions"
+     transform="translate(-161.00015,-807)">
+    <path
+       inkscape:connector-curvature="0"
+       d="m 169.0002,807 c -2.76142,0 -5,2.23858 -5,5 0,0.34518 0.0272,0.67451 0.0937,1 0.37506,2.83961 3.93256,4.92586 4.9375,8.96875 0.98541,-3.98539 4.99777,-6.918 5,-9.96875 l -0.0312,0 c 0,-2.76142 -2.23858,-5 -5,-5 z m 0,2 c 1.65686,0 3,1.34314 3,3 0,1.65686 -1.34314,3 -3,3 -1.65686,0 -3,-1.34314 -3,-3 0,-1.65686 1.34314,-3 3,-3 z"
+       id="path45579"
+       sodipodi:nodetypes="ssccccssssss"
+       fill="#bebebe"
+       color="#000000"
+       style="fill:#ffffff" />
+  </g>
+</svg>

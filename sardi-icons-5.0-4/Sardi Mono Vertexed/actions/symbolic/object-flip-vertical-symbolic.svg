@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" version="1.1" height="16" xmlns="http://www.w3.org/2000/svg" width="16">
+ <metadata id="metadata90"/>
+ <g inkscape:label="actions" transform="translate(-261.00015,-667)" inkscape:groupmode="layer" id="layer12">
+  <path inkscape:connector-curvature="0" d="m 268,670 0,10 2,0 0,-10 -2,0 z" id="path15417" color="#000000" stroke-width="2" fill="#bebebe"/>
+  <path inkscape:connector-curvature="0" d="m 265.0002,677 0,1 c 0,0.26528 0.093,0.53057 0.28125,0.71875 l 3.71875,3.71875 c 0,0 2.47917,-2.47917 3.71875,-3.71875 0.18814,-0.18817 0.28122,-0.45344 0.28125,-0.71875 l 0,-1 -1,0 c -0.2653,0 -0.53058,0.0931 -0.71875,0.28125 l -2.28125,2.28125 -2.28125,-2.28125 C 266.53077,677.09314 266.26551,676.99996 266.0002,677 z" id="path3613-6-6-5-4" sodipodi:nodetypes="cscccccsccccc" color="#000000" stroke-width="2" fill="#bebebe"/>
+  <path inkscape:connector-curvature="0" d="m 265.00041,672.99999 0,-1 c 0,-0.26528 0.093,-0.53057 0.28125,-0.71875 l 3.71875,-3.71875 c 0,0 2.47917,2.47917 3.71875,3.71875 0.18814,0.18817 0.28122,0.45344 0.28125,0.71875 l 0,1 -1,0 c -0.2653,0 -0.53058,-0.0931 -0.71875,-0.28125 l -2.28125,-2.28125 -2.28125,2.28125 c -0.18818,0.18811 -0.45344,0.28129 -0.71875,0.28125 z" id="path3613-6-6-5-4-5" sodipodi:nodetypes="cscccccsccccc" color="#000000" stroke-width="2" fill="#bebebe"/>
+ </g>
+</svg>

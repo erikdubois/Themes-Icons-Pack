@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" height="512" viewBox="0 0 512 512" width="512" version="1.1" id="svg2" inkscape:version="0.91 r" sodipodi:docname="konversation.svg">
+<defs id="defs21" />
+<sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="640" inkscape:window-height="480" id="namedview19" showgrid="false" inkscape:zoom="0.4609375" inkscape:cx="256" inkscape:cy="256" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="0" inkscape:current-layer="svg2" />
+<metadata id="metadata82">
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<path id="path4" d="m471.95 253.05c0 120.9-98.01 218.9-218.9 218.9-120.9 0-218.9-98.01-218.9-218.9 0-120.9 98.01-218.9 218.9-218.9 120.9 0 218.9 98.01 218.9 218.9" fill-rule="evenodd" fill="#555753" />
+<g id="g66" transform="matrix(1.8303 -.49044 .49044 1.8303 -602.81 -1075.6)" fill="#fff">
+<rect id="rect68" rx="9.442" height="52.16" width="63.61" y="761.37" x="187.39" />
+<rect id="rect70" rx="7.308" height="40.37" width="63.61" y="767.26" x="179.89" />
+<path id="path72" d="m245.81 759.23 59-26.769c6.642-3.01 13.165 6.49 13.165 14.551v83.35c0 8.06-6.61 17.749-13.165 14.551l-59-28.789c-6.555-3.198-13.165-6.49-13.165-14.551v-27.79c0-8.06 6.523-11.538 13.165-14.551" />
+<ellipse id="ellipse74" cy="789.1" cx="316.72" rx="11.64" ry="12.248" />
+<rect id="rect76" rx="12.12" ry="14.242" height="57.645" width="24.24" y="790.27" x="208.72" />
+</g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="24" height="24" version="1.0">
+ <defs id="defs4">
+  <linearGradient id="StandardGradient" gradientTransform="scale(0.9219544,1.0846523)" y1="0.922" x2="0" y2="19.387" gradientUnits="userSpaceOnUse">
+   <stop id="stop3283" stop-opacity="0.235"/>
+   <stop id="stop3850" offset="0.7" stop-opacity="0.392"/>
+   <stop offset="1" id="stop2651" stop-opacity="0.55"/>
+  </linearGradient>
+  <radialGradient inkscape:collect="always" xlink:href="#StandardGradient" id="radialGradient3806" gradientUnits="userSpaceOnUse" gradientTransform="matrix(2.9090908,0,0,1.4211702,-18.45344,-5.2494256)" cx="9.666" cy="12.915" r="3.191"/>
+  <radialGradient inkscape:collect="always" xlink:href="#StandardGradient" id="radialGradient3812" gradientUnits="userSpaceOnUse" gradientTransform="matrix(5.0147297,0,0,2.5073655,-36.472819,-19.381757)" cx="9.666" cy="12.915" r="3.191"/>
+  <radialGradient inkscape:collect="always" xlink:href="#StandardGradient" id="radialGradient2999" gradientUnits="userSpaceOnUse" gradientTransform="matrix(5.0147297,0,0,2.8207854,-35.472622,-25.554402)" cx="9.666" cy="13.313" r="3.191"/>
+  <radialGradient inkscape:collect="always" xlink:href="#StandardGradient" id="radialGradient3796" gradientUnits="userSpaceOnUse" gradientTransform="matrix(5.0147297,0,0,2.8207854,-36.472819,-23.554466)" cx="9.666" cy="13.313" r="3.191"/>
+  <radialGradient inkscape:collect="always" xlink:href="#StandardGradient" id="radialGradient3800" gradientUnits="userSpaceOnUse" gradientTransform="matrix(5.0147297,0,0,2.8207854,-36.472819,-24.554466)" cx="9.666" cy="13.313" r="3.191"/>
+ </defs>
+ <metadata id="metadata7"/>
+ <g inkscape:label="Calque 1" id="layer1" inkscape:groupmode="layer" transform="translate(0,2)">
+  <path d="m 19.000197,9.5000642 -12.0000002,7.4999988 0,-14.9999988 z" id="Symbol" inkscape:connector-curvature="0" sodipodi:nodetypes="cccc" fill="url(#radialGradient2999)"/>
+  <path d="m 7.0001968,2.0000642 0,14.9999998 12.0000002,-7.4999998 -12.0000002,-7.5 z m 0.4375,0.78125 10.7500002,6.71875 -10.7500002,6.7187498 0,-13.4374998 z" id="path3010" inkscape:connector-curvature="0" opacity="0.3"/>
+  <path d="m 7.0001968,2.0000642 0,1 11.1875002,6.9999998 0.8125,-0.4999998 -12.0000002,-7.5 z" id="path3001" inkscape:connector-curvature="0" opacity="0.3"/>
+  <path d="m 18.187697,10.000064 -11.1875002,7 0,1 12.0000002,-7.5 -0.8125,-0.5 z" id="path3794" inkscape:connector-curvature="0" opacity="0.2" fill="#ffffff"/>
+  <path d="m 6.8439468,0.9688142 a 1.0152112,1.0152112 0 0 0 -0.09375,0.03125 1.0152112,1.0152112 0 0 0 -0.75,1 l 0,14.9999998 a 1.0152112,1.0152112 0 0 0 1.53125,0.875 l 12.0000002,-7.5 a 1.0152112,1.0152112 0 0 0 0,-1.7499998 l -12.0000002,-7.5 a 1.0152112,1.0152112 0 0 0 -0.6875,-0.15625 z m 0.15625,1.03125 12.0000002,7.5 -12.0000002,7.4999998 0,-14.9999998 z" id="path3809" inkscape:connector-curvature="0" opacity="0.05" fill="#ffffff"/>
+ </g>
+</svg>

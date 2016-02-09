@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" height="512" viewBox="0 0 512 512" width="512" version="1.1" id="svg2" inkscape:version="0.91 r" sodipodi:docname="fluxgui.svg">
+<defs id="defs18" />
+<sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="640" inkscape:window-height="480" id="namedview16" showgrid="false" inkscape:zoom="0.4609375" inkscape:cx="256" inkscape:cy="256" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="0" inkscape:current-layer="svg2" />
+<metadata id="metadata76">
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<path style="fill:#ffce7b" inkscape:connector-curvature="0" d="m 255.99251,18.00094 c -131.44126,0 -237.997504,106.55624 -237.997504,237.9975 0,15.80113 1.5546,31.23194 4.492441,46.17152 37.548389,-45.86688 91.581433,-86.84053 165.408263,-86.84053 72.64636,0 164.35155,39.7789 277.92396,153.06095 17.96976,-33.47197 28.17319,-71.74197 28.17319,-112.39194 0,-131.44126 -106.55624,-237.9975 -237.9975,-237.9975" id="path6" />
+<path style="fill:#869fcb" inkscape:connector-curvature="0" d="m 187.89666,215.32943 c -73.80778,0 -127.861776,40.95461 -165.408261,86.81197 21.48927,109.35509 117.856361,191.85454 233.504111,191.85454 90.79128,0 169.69221,-50.84579 209.82811,-125.60556 C 352.24821,255.10357 260.54302,215.32943 187.89666,215.32943" id="path8" />
+<path id="path70" fill="#fff" d="m320.11 234c0 48.661-39.448 88.11-88.11 88.11-48.661 0-88.11-39.448-88.11-88.11 0-48.661 39.448-88.11 88.11-88.11 48.661 0 88.11 39.448 88.11 88.11" />
+</svg>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="16" height="16" version="1.0">
+ <defs id="defs4">
+  <linearGradient inkscape:collect="always" xlink:href="#StandardGradient" id="linearGradient2428" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.9247229,0,0,1.0872097,10.939944,-2.0023588)" y1="3.681" x2="0" y2="16.53"/>
+  <linearGradient id="StandardGradient" gradientTransform="scale(0.9219544,1.0846523)" y1="0.922" x2="0" y2="19.387" gradientUnits="userSpaceOnUse">
+   <stop id="stop3283" stop-opacity="0.863"/>
+   <stop offset="1" id="stop2651" stop-opacity="0.471"/>
+  </linearGradient>
+  <linearGradient inkscape:collect="always" xlink:href="#StandardGradient" id="linearGradient2549" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.9247229,0,0,1.0872097,-2.0600562,0.9976422)" y1="0.922" x2="0" y2="17.478"/>
+  <linearGradient inkscape:collect="always" xlink:href="#StandardGradient" id="linearGradient2418" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.9247229,0,0,1.0872097,-4.0600562,-3.0023583)" y1="0.922" x2="0" y2="17.478"/>
+  <linearGradient inkscape:collect="always" xlink:href="#StandardGradient" id="linearGradient2422" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.9247229,0,0,1.0872097,-5.0600562,-1.0023583)" y1="0.922" x2="0" y2="17.478"/>
+  <linearGradient inkscape:collect="always" xlink:href="#StandardGradient" id="linearGradient2409" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.9247229,0,0,1.0872097,-6.0600562,-2.0023583)" y1="3.68" x2="0" y2="15.639"/>
+  <linearGradient inkscape:collect="always" xlink:href="#StandardGradient" id="linearGradient2416" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.9247229,0,0,1.0872097,-6.0600562,-2.0023583)" y1="2.762" x2="0" y2="15.639"/>
+  <linearGradient inkscape:collect="always" xlink:href="#StandardGradient" id="linearGradient2529" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.9247229,0,0,1.0872097,-4.0418814,0.9976412)" y1="3.681" x2="0" y2="16.53"/>
+  <linearGradient inkscape:collect="always" xlink:href="#StandardGradient" id="linearGradient2942" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.9247229,0,0,1.0872097,-26.060056,-2.0023583)" y1="2.762" x2="0" y2="15.639"/>
+  <clipPath id="clipPath2949">
+   <path d="m -20,0 0,16 16,0 0,-16 -16,0 z m 3,1 3,0 c 0.554,0 1,0.446 1,1 l 6,0 c 0.554,0 1,0.446 1,1 l -12,0 0,-1 c 0,-0.554 0.446,-1 1,-1 z m -0.5,3 4,0 6,0 1,0 C -5.669,4 -5,4.669 -5,5.5 l 0,4.5 0,1.5 c 0,0.647488 -0.396277,1.195291 -0.96875,1.40625 l 0,0.15625 -0.03125,0 0,0.4375 c 0,0.831 -0.669,1.5 -1.5,1.5 l -6,0 c -0.831,0 -1.5,-0.669 -1.5,-1.5 l 0,-0.5 -2.5,0 c -0.831,0 -1.5,-0.669 -1.5,-1.5 l 0,-1.5 0,-4.5 C -19,4.669 -18.331,4 -17.5,4 z m 5,2 C -12.777,6 -13,6.223 -13,6.5 l 0,6 c 0,0.277 0.223,0.5 0.5,0.5 l 4,0 c 0.277,0 0.5,-0.223 0.5,-0.5 l 0,-6 C -8,6.223 -8.223,6 -8.5,6 l -4,0 z" id="path2951"/>
+  </clipPath>
+  <linearGradient inkscape:collect="always" xlink:href="#StandardGradient" id="linearGradient3062" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.9247229,0,0,1.0872097,22.060056,-2.0023583)" y1="2.762" x2="0" y2="15.639"/>
+  <linearGradient inkscape:collect="always" xlink:href="#StandardGradient" id="linearGradient3067" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.9247229,0,0,1.0872097,-6.0600562,-1.0023583)" y1="2.762" x2="0" y2="15.639"/>
+ </defs>
+ <metadata id="metadata7"/>
+ <g inkscape:label="Calque 1" id="layer1" inkscape:groupmode="layer">
+  <path d="M 2,0 C 1.446,0 1,0.446 1,1 L 1,2 15,2 C 15,1.446 14.554,1 14,1 L 7,1 C 7,0.446 6.554,0 6,0 z" id="path3028" inkscape:connector-curvature="0" sodipodi:nodetypes="ssccscss" fill="#bebebe"/>
+  <path d="M 1.5,3 C 0.669,3 0,3.669 0,4.5 l 0,9 C 0,14.331 0.669,15 1.5,15 l 13,0 c 0.831,0 1.5,-0.669 1.5,-1.5 l 0,-9 C 16,3.669 15.331,3 14.5,3 z" id="path3040" inkscape:connector-curvature="0" sodipodi:nodetypes="sssssssss" fill="#bebebe"/>
+ </g>
+</svg>

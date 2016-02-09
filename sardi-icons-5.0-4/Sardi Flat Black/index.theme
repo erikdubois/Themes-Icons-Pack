@@ -1,0 +1,19 @@
+[Icon Theme]
+Name=Sardi Flat Black
+Comment=Simple and flat icon theme with long shadow - git
+Inherits=Sardi Flat,Numix-Circle,Numix,gnome,hicolor
+Example=folder
+
+# Directory list
+Directories=scalable/places
+
+
+
+[scalable/places]
+Size=512
+Context=Places
+Type=Scalable
+MinSize=16
+MaxSize=512
+
+

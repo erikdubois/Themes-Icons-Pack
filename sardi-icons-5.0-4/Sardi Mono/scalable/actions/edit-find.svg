@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="edit-find.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <g
+     id="g4"
+     style="fill-rule:evenodd">
+    <path
+       id="path6"
+       d="M 22 5.375 C 13.160156 5.375 6 12.527344 6 21.375 C 6 30.214844 13.160156 37.375 22 37.375 C 24.441406 37.375 26.734375 36.835938 28.8125 35.875 L 34.8125 41.875 C 37.632812 44.714844 37.660156 44.714844 40.5 41.875 C 43.320312 39.054688 43.320312 39.027344 40.5 36.1875 L 35 30.6875 C 36.878906 28.046875 38 24.855469 38 21.375 C 38 12.527344 30.839844 5.375 22 5.375 Z M 21.75 13.375 C 23.914062 13.308594 26.015625 14.121094 27.570312 15.628906 C 29.125 17.136719 30 19.210938 30 21.375 C 30 25.792969 26.417969 29.371094 22 29.371094 C 17.582031 29.371094 14 25.792969 14 21.375 C 13.996094 17.054688 17.429688 13.511719 21.75 13.375 Z "
+       style="fill:#7c7c7c" />
+    <path
+       id="path8"
+       d="M 14 21.371094 C 14 25.789062 17.582031 29.371094 22 29.371094 C 26.417969 29.371094 30 25.789062 30 21.371094 C 30 16.953125 26.417969 13.375 22 13.375 C 17.582031 13.375 14 16.953125 14 21.371094 Z "
+       style="fill:#ffffff" />
+    <path
+       id="path10"
+       d="M 14 21.371094 C 14 25.789062 17.582031 29.371094 22 29.371094 C 26.417969 29.371094 30 25.789062 30 21.371094 C 30 16.953125 26.417969 13.375 22 13.375 C 17.582031 13.375 14 16.953125 14 21.371094 Z "
+       style="fill:#7c7c7c;fill-opacity:.102" />
+  </g>
+</svg>

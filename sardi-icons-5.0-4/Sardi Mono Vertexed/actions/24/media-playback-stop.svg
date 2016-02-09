@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="24" height="24" version="1.0">
+ <defs id="defs4">
+  <linearGradient id="StandardGradient" gradientTransform="scale(0.9219544,1.0846523)" y1="0.922" x2="0" y2="19.387" gradientUnits="userSpaceOnUse">
+   <stop id="stop3283" stop-opacity="0.235"/>
+   <stop id="stop3850" offset="0.7" stop-opacity="0.392"/>
+   <stop offset="1" id="stop2651" stop-opacity="0.55"/>
+  </linearGradient>
+  <radialGradient inkscape:collect="always" xlink:href="#StandardGradient" id="radialGradient3876" cx="12" cy="12.667" r="5" gradientTransform="matrix(3.2,-1.9382326e-8,0,1.4,-26.4,-4.7333335)" gradientUnits="userSpaceOnUse"/>
+  <linearGradient id="StandardGradient-9" gradientTransform="matrix(1.6041892,0,0,1.8958598,-4.6625321,-10.120214)" y1="7.448" x2="0" y2="14.312" gradientUnits="userSpaceOnUse">
+   <stop id="stop3389" stop-opacity="0.863"/>
+   <stop offset="1" id="stop3391" stop-opacity="0.471"/>
+  </linearGradient>
+  <radialGradient inkscape:collect="always" xlink:href="#StandardGradient" id="radialGradient3912" cx="12" cy="13" r="6" gradientUnits="userSpaceOnUse" gradientTransform="matrix(2.6666667,1.7789346e-8,0,1.3333334,-18.999603,-5.3335842)"/>
+  <radialGradient inkscape:collect="always" xlink:href="#StandardGradient" id="radialGradient3918" gradientUnits="userSpaceOnUse" gradientTransform="matrix(2.6666667,-9.6111112e-8,4.2048612e-8,1.1666667,-20.000001,-2.1666654)" cx="12" cy="13" r="6"/>
+ </defs>
+ <metadata id="metadata7"/>
+ <g inkscape:label="Calque 1" id="layer1" inkscape:groupmode="layer" transform="translate(0,2)">
+  <path inkscape:connector-curvature="0" d="m 5.8128971,2.9685002 a 1.0309468,1.0309468 0 0 0 -0.84375,1.03125 l 0,11.9999998 a 1.0309468,1.0309468 0 0 0 1.03125,1.03125 l 3.59375,0 1.2187499,0 2.375,0 1.21875,0 3.59375,0 a 1.0309468,1.0309468 0 0 0 1.03125,-1.03125 l 0,-11.9999998 a 1.0309468,1.0309468 0 0 0 -1.03125,-1.03125 l -3.59375,0 -1.21875,0 -2.375,0 -1.2187499,0 -3.59375,0 a 1.0309468,1.0309468 0 0 0 -0.09375,0 1.0309468,1.0309468 0 0 0 -0.09375,0 z m 0.1875,1.03125 3.59375,0 1.2187499,0 2.375,0 1.21875,0 3.59375,0 0,11.9999998 -3.59375,0 -1.21875,0 -2.375,0 -1.2187499,0 -3.59375,0 0,-11.9999998 z" id="path3984" opacity="0.05" fill="#ffffff"/>
+  <path inkscape:connector-curvature="0" d="m 6.0003971,3.9997502 0,11.9999998 3.6,0 1.1999999,0 2.4,0 1.2,0 3.6,0 0,-11.9999998 -3.6,0 -1.2,0 -2.4,0 -1.1999999,0 -3.6,0 z" id="Symbol" fill="url(#radialGradient3912)"/>
+  <path inkscape:connector-curvature="0" d="m 6.0003971,3.9997502 0,1 1.2,0 3.5999999,0 2.4,0 3.6,0 1.2,0 0,-1 -1.2,0 -3.6,0 -2.4,0 -3.5999999,0 -1.2,0 z" id="BevelShadow" opacity="0.3"/>
+  <path inkscape:connector-curvature="0" d="m 6.0003971,15.99975 0,1 1.2,0 3.5999999,0 2.4,0 3.6,0 1.2,0 0,-1 -1.2,0 -3.6,0 -2.4,0 -3.5999999,0 -1.2,0 z" id="BevelHighlight" opacity="0.2" fill="#ffffff"/>
+  <path d="m 6.0003971,3.99975 0,12 3.59375,0 1.2187499,0 2.375,0 1.21875,0 3.59375,0 0,-12 -3.59375,0 -1.21875,0 -2.375,0 -1.2187499,0 -3.59375,0 z m 0.46875,0.46875 3.125,0 1.2187499,0 2.375,0 1.21875,0 3.125,0 0,11.0625 -3.125,0 -1.21875,0 -2.375,0 -1.2187499,0 -3.125,0 0,-11.0625 z" id="path3914" inkscape:connector-curvature="0" opacity="0.3"/>
+ </g>
+</svg>

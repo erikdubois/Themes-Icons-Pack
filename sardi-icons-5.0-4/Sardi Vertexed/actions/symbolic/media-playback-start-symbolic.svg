@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="16" height="16" version="1.0">
+ <defs id="defs4">
+  <linearGradient id="StandardGradient" gradientTransform="scale(0.9306049,1.0745699)" y1="7.448" x2="0" y2="14.326" gradientUnits="userSpaceOnUse">
+   <stop id="stop3389" stop-opacity="0.863"/>
+   <stop offset="1" id="stop3391" stop-opacity="0.471"/>
+  </linearGradient>
+  <linearGradient inkscape:collect="always" xlink:href="#StandardGradient" id="linearGradient3627" gradientUnits="userSpaceOnUse" gradientTransform="scale(0.9306049,1.0745699)" y1="7.448" x2="0" y2="14.326"/>
+  <clipPath id="clipPath3641">
+   <path d="m 3.3493431,6.6636072 0,10.7176378 11.3443579,0 0,-10.7176378 -11.3443579,0 z m 2.8360895,1.3397048 6.3812014,3.684188 -6.3812014,3.684188 0,-7.368376 z" id="path3643"/>
+  </clipPath>
+  <linearGradient inkscape:collect="always" xlink:href="#StandardGradient" id="linearGradient4023" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.3125184,0,0,1.6041891,-4.7238894,-9.9478739)" y1="7.448" x2="0" y2="14.326"/>
+ </defs>
+ <metadata id="metadata7"/>
+ <g inkscape:label="Calque 1" inkscape:groupmode="layer" id="layer1">
+  <path sodipodi:type="star" id="Symbol" sodipodi:sides="3" sodipodi:cx="8.3125" sodipodi:cy="11.6875" sodipodi:r1="4.2541342" sodipodi:r2="2.1270671" sodipodi:arg1="0" sodipodi:arg2="1.0471976" inkscape:flatsided="true" inkscape:rounded="0" inkscape:randomized="0" d="M 12.566634,11.6875 L 6.1854329,15.371688 L 6.1854329,8.0033117 L 12.566634,11.6875 z" transform="matrix(1.4103927,0,0,1.4928662,-4.7238894,-9.9478739)" inkscape:label="#path3175" fill="#bebebe" stroke-linejoin="round" stroke-linecap="square"/>
+ </g>
+</svg>

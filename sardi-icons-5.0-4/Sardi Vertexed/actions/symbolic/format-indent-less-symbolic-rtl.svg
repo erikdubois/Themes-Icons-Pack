@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" version="1.1" height="16" xmlns="http://www.w3.org/2000/svg" width="16">
+ <metadata id="metadata90"/>
+ <g transform="translate(-161.0002,-277)" inkscape:groupmode="layer" id="layer9" inkscape:label="status">
+  <rect x="169" y="280" id="rect3825-9-8-7-9-1-7" height="2" inkscape:label="a" width="5" fill="#bebebe" color="#bebebe"/>
+  <rect x="169" y="284" id="rect3825-9-8-7-8-4-7-66" height="2" inkscape:label="a" width="6" fill="#bebebe" color="#bebebe"/>
+  <rect x="163" y="288" id="rect3825-9-8-7-8-9-9-8-8" height="2" inkscape:label="a" width="7" fill="#bebebe" color="#bebebe"/>
+  <path d="m 163,280 0,1 c 0,0.25689 0.12983,0.52846 0.3125,0.71875 L 164.59375,283 163.3125,284.28125 C 163.12983,284.47154 163,284.74311 163,285 l 0,1 1,0 c 0.30945,0 0.55232,-0.0903 0.75,-0.28125 L 167.40625,283 164.75,280.28125 C 164.55232,280.0903 164.30945,280 164,280 l -1,0 z" id="rect3217-6-2-2-4" sodipodi:nodetypes="ccccccccccccc" color="#bebebe" stroke-width="2" fill="#bebebe"/>
+ </g>
+</svg>

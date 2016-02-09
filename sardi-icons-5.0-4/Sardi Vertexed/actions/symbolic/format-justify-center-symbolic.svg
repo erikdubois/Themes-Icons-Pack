@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="16" height="16" version="1.0">
+ <metadata id="metadata7"/>
+ <g inkscape:label="Calque 1" id="layer1" inkscape:groupmode="layer">
+  <path d="M 3,1 3,3 13,3 13,1 3,1 z M 1,4 1,6 15,6 15,4 1,4 z m 3,3 0,2 8,0 0,-2 -8,0 z m 0,3 0,2 -3,0 0,1 3,0 0,2 L 8,12.5 4,10 z m 4,2.5 4,2.5 0,-2 3,0 0,-1 -3,0 0,-2 -4,2.5 z" id="path2901" sodipodi:nodetypes="ccccccccccccccccccccccccccccccc" fill="#bebebe"/>
+ </g>
+</svg>
