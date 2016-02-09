@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="16" height="16" version="1.0">
+ <defs id="defs4">
+  <linearGradient id="StandardGradient" gradientTransform="scale(1.1952286,0.83666)" y1="4.781" x2="0" y2="13.169" gradientUnits="userSpaceOnUse">
+   <stop id="stop3389" stop-opacity="0.863"/>
+   <stop offset="1" id="stop3391" stop-opacity="0.471"/>
+  </linearGradient>
+  <linearGradient inkscape:collect="always" xlink:href="#StandardGradient" id="linearGradient3627" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.1952286,0,0,0.83666,1,0)" y1="4.781" x2="0" y2="13.169"/>
+  <clipPath id="clipPath3634">
+   <path d="m -20,0 0,16 16,0 0,-16 -16,0 z m 2,4 2,0 0,3.34375 L -11,4 -11,7.34375 -6,4 -6,12 -11,8.65625 -11,12 -16,8.65625 -16,12 l -2,0 0,-8 z" id="path3636"/>
+  </clipPath>
+  <linearGradient inkscape:collect="always" xlink:href="#StandardGradient" id="linearGradient5544" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.1952286,0,0,0.83666,21,0)" y1="4.781" x2="0" y2="13.169"/>
+ </defs>
+ <metadata id="metadata7"/>
+ <g inkscape:label="Calque 1" inkscape:groupmode="layer" id="layer1">
+  <path d="M 2,4 L 2,12 L 4,12 L 4,8.65625 L 9,12 L 9,8.65625 L 14,12 L 14,4 L 9,7.34375 L 9,4 L 4,7.34375 L 4,4 L 2,4 z" id="Symbol" sodipodi:nodetypes="ccccccccccccc" fill="#bebebe" stroke-linejoin="round" stroke-linecap="square"/>
+ </g>
+</svg>

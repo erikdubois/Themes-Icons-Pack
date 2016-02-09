@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="16" height="16" version="1.0">
+ <defs id="defs4">
+  <linearGradient id="SpecificGradient" y1="2" x2="0" y2="14" gradientUnits="userSpaceOnUse">
+   <stop id="stop3292" stop-color="#ad0707"/>
+   <stop offset="1" id="stop3294" stop-color="#f75535"/>
+  </linearGradient>
+  <linearGradient inkscape:collect="always" xlink:href="#SpecificGradient" id="linearGradient3628" gradientUnits="userSpaceOnUse" y1="2" x2="0" y2="14" gradientTransform="translate(-20,0)"/>
+  <clipPath id="clipPath3635">
+   <path d="m -20,0 0,16 16,0 0,-16 -16,0 z m 8,2 c 3.312,0 6,2.6880001 6,6 0,3.312 -2.688,6 -6,6 -3.312,0 -6,-2.688 -6,-6 0,-3.3119999 2.688,-6 6,-6 z m 0,2.15625 c -0.57648,0 -1.133672,0.1167299 -1.625,0.34375 L -8.5,9.625 C -8.273784,9.1343862 -8.15625,8.5753957 -8.15625,8 -8.15625,5.8708574 -9.870857,4.1562499 -12,4.15625 z m -3.46875,2.125 c -0.255374,0.5152866 -0.375,1.1050247 -0.375,1.71875 0,2.129143 1.714607,3.84375 3.84375,3.84375 0.61479,0 1.202796,-0.118796 1.71875,-0.375 l -5.1875,-5.1875 z" id="path3637"/>
+  </clipPath>
+  <linearGradient inkscape:collect="always" xlink:href="#SpecificGradient" id="linearGradient3783" gradientUnits="userSpaceOnUse" y1="2" x2="0" y2="14"/>
+ </defs>
+ <metadata id="metadata7"/>
+ <g inkscape:label="Calque 1" inkscape:groupmode="layer" id="layer1">
+  <path d="M 7.9999997,2 C 4.6879999,2 2,4.6879998 2,7.9999997 2,11.312 4.6879999,14 7.9999997,14 11.312,14 14,11.312 14,7.9999997 14,4.6879998 11.312,2 7.9999997,2 z m 0,2.142857 c 2.1291433,-1e-7 3.8571423,1.7280001 3.8571423,3.8571427 0,0.5753957 -0.128694,1.1198775 -0.35491,1.6104913 L 6.3861606,4.4977678 C 6.8774888,4.2707477 7.4235197,4.142857 7.9999997,4.142857 z M 4.5446429,6.2924106 9.7109372,11.455357 c -0.5159543,0.256204 -1.0961473,0.401785 -1.7109375,0.401785 -2.1291424,0 -3.8571426,-1.727999 -3.8571426,-3.8571423 0,-0.6137253 0.1464118,-1.1923025 0.4017858,-1.7075891 z" id="Symbol" inkscape:label="#path2424" inkscape:connector-curvature="0" fill="#d40000"/>
+ </g>
+</svg>

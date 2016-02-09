@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="24" height="24" version="1.0">
+ <defs id="defs4">
+  <linearGradient id="StandardGradient" gradientTransform="scale(0.9219544,1.0846523)" y1="0.922" x2="0" y2="19.387" gradientUnits="userSpaceOnUse">
+   <stop id="stop3283" stop-opacity="0.235"/>
+   <stop id="stop3850" offset="0.7" stop-opacity="0.392"/>
+   <stop offset="1" id="stop2651" stop-opacity="0.55"/>
+  </linearGradient>
+  <linearGradient id="SpecificGradient" y1="2" x2="0" y2="18" gradientUnits="userSpaceOnUse">
+   <stop id="stop3292" stop-color="#e64b36"/>
+   <stop offset="1" id="stop3294" stop-color="#a31414"/>
+  </linearGradient>
+  <radialGradient inkscape:collect="always" xlink:href="#StandardGradient" id="radialGradient3863" cx="12" cy="13" r="8" gradientUnits="userSpaceOnUse" gradientTransform="matrix(2,0,0,1.125,8,-1.625)"/>
+  <radialGradient inkscape:collect="always" xlink:href="#SpecificGradient" id="radialGradient3882" cx="-8" cy="13" r="8" gradientUnits="userSpaceOnUse" gradientTransform="matrix(2,0,0,1.125,28,-1.625)"/>
+  <linearGradient id="SpecificGradient-0" y1="19" x2="0" y2="2.999" gradientUnits="userSpaceOnUse">
+   <stop id="stop3280" stop-color="#f75535"/>
+   <stop offset="1" id="stop3282" stop-color="#ad0707"/>
+  </linearGradient>
+  <linearGradient y2="2.999" x2="0" y1="19" gradientUnits="userSpaceOnUse" id="linearGradient3022" xlink:href="#SpecificGradient-0" inkscape:collect="always"/>
+  <radialGradient inkscape:collect="always" xlink:href="#SpecificGradient" id="radialGradient3878" cx="12" cy="13" r="8" gradientUnits="userSpaceOnUse" gradientTransform="matrix(2,0,0,1.25,-11,-4.25)"/>
+  <radialGradient inkscape:collect="always" xlink:href="#SpecificGradient" id="radialGradient3884" gradientUnits="userSpaceOnUse" gradientTransform="matrix(2,0,0,1.25,-12,-3.25)" cx="12" cy="13" r="8"/>
+  <radialGradient inkscape:collect="always" xlink:href="#SpecificGradient" id="radialGradient3897" gradientUnits="userSpaceOnUse" gradientTransform="matrix(2,0,0,1.25,-12,-2.25)" cx="12" cy="13" r="8"/>
+ </defs>
+ <metadata id="metadata7"/>
+ <g inkscape:label="Calque 1" id="layer1" inkscape:groupmode="layer" transform="translate(0,2)">
+  <path d="M 6,1 C 4.3471878,1 3,2.3471878 3,4 l 0,12 c 0,1.652812 1.3471878,3 3,3 l 12,0 c 1.652812,0 3,-1.347188 3,-3 L 21,4 C 21,2.3471878 19.652812,1 18,1 L 6,1 Z m 0,1 12,0 c 1.108,0 2,0.892 2,2 l 0,12 c 0,1.108 -0.892,2 -2,2 L 6,18 C 4.892,18 4,17.108 4,16 L 4,4 C 4,2.892 4.892,2 6,2 Z M 9.3125,5 7,7.3125 9.6875,10 7,12.6875 9.3125,15 12,12.3125 14.6875,15 17,12.6875 14.3125,10 17,7.3125 14.6875,5 12,7.6875 9.3125,5 Z m 0,1.4375 1.96875,1.96875 a 1.0152112,1.0152112 0 0 0 1.4375,0 l 1.96875,-1.96875 0.875,0.875 -1.96875,1.96875 a 1.0152112,1.0152112 0 0 0 0,1.4375 l 1.96875,1.96875 -0.875,0.875 -1.96875,-1.96875 a 1.0152112,1.0152112 0 0 0 -1.4375,0 l -1.96875,1.96875 -0.875,-0.875 1.96875,-1.96875 a 1.0152112,1.0152112 0 0 0 0,-1.4375 L 8.4375,7.3125 9.3125,6.4375 Z" id="path3917" inkscape:connector-curvature="0" opacity="0.05" fill="#ffffff" color="#000000" stroke-width="0.8"/>
+  <path d="M 6,2 C 4.892,2 4,2.892 4,4 l 0,12 c 0,1.108 0.892,2 2,2 l 12,0 c 1.108,0 2,-0.892 2,-2 L 20,4 C 20,2.892 19.108,2 18,2 L 6,2 Z M 9.3125,5 12,7.6875 14.6875,5 17,7.3125 14.3125,10 17,12.6875 14.6875,15 12,12.3125 9.3125,15 7,12.6875 9.6875,10 7,7.3125 9.3125,5 Z" id="rect3094" inkscape:connector-curvature="0" stroke-dashoffset="8.6" color="#000000" stroke-width="0.8" stroke-linecap="round" fill="url(#radialGradient3878)" stroke-linejoin="round"/>
+  <path d="M 6,2 C 4.892,2 4,2.892 4,4 l 0,12 c 0,1.108 0.892,2 2,2 l 12,0 c 1.108,0 2,-0.892 2,-2 L 20,4 C 20,2.892 19.108,2 18,2 L 6,2 Z m 0,0.5 12,0 c 0.839988,0 1.5,0.6600121 1.5,1.5 l 0,12 c 0,0.839988 -0.660012,1.5 -1.5,1.5 l -12,0 C 5.1600121,17.5 4.5,16.839988 4.5,16 L 4.5,4 C 4.5,3.1600121 5.1600121,2.5 6,2.5 Z m 3.15625,2 a 0.49941786,0.49941786 0 0 0 -0.1875,0.15625 l -2.3125,2.3125 a 0.49941786,0.49941786 0 0 0 0,0.6875 L 9,10 6.65625,12.34375 a 0.49941786,0.49941786 0 0 0 0,0.6875 l 2.3125,2.3125 a 0.49941786,0.49941786 0 0 0 0.6875,0 L 12,13 l 2.34375,2.34375 a 0.49941786,0.49941786 0 0 0 0.6875,0 l 2.3125,-2.3125 a 0.49941786,0.49941786 0 0 0 0,-0.6875 L 15,10 17.34375,7.65625 a 0.49941786,0.49941786 0 0 0 0,-0.6875 l -2.3125,-2.3125 a 0.49941786,0.49941786 0 0 0 -0.6875,0 L 12,7 9.65625,4.65625 A 0.49941786,0.49941786 0 0 0 9.21875,4.5 0.49941786,0.49941786 0 0 0 9.15625,4.5 Z M 9.3125,5 12,7.6875 14.6875,5 17,7.3125 14.3125,10 17,12.6875 14.6875,15 12,12.3125 9.3125,15 7,12.6875 9.6875,10 7,7.3125 9.3125,5 Z" id="path3880" inkscape:connector-curvature="0" stroke-dashoffset="8.6" opacity="0.25" color="#000000" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 6,2 C 4.892,2 4,2.892 4,4 L 4,5 C 4,3.892 4.892,3 6,3 l 12,0 c 1.108,0 2,0.892 2,2 L 20,4 C 20,2.892 19.108,2 18,2 L 6,2 Z M 7.5,7.8125 7,8.3125 9.1875,10.5 9.6875,10 7.5,7.8125 Z m 9,0 -2.1875,2.1875 0.5,0.5 L 17,8.3125 16.5,7.8125 Z M 12,12.3125 9.3125,15 7.5,13.1875 7,13.6875 9.3125,16 12,13.3125 14.6875,16 17,13.6875 16.5,13.1875 14.6875,15 12,12.3125 Z" id="path3893" inkscape:connector-curvature="0" stroke-dashoffset="8.6" opacity="0.25" color="#000000" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 9.3125,5 7,7.3125 7.5,7.8125 9.3125,6 12,8.6875 14.6875,6 16.5,7.8125 17,7.3125 14.6875,5 12,7.6875 9.3125,5 Z M 9.1875,10.5 7,12.6875 7.5,13.1875 9.6875,11 l -0.5,-0.5 z m 5.625,0 -0.5,0.5 2.1875,2.1875 0.5,-0.5 L 14.8125,10.5 Z M 4,16 4,17 c 0,1.108 0.892,2 2,2 l 12,0 c 1.108,0 2,-0.892 2,-2 l 0,-1 c 0,1.108 -0.892,2 -2,2 L 6,18 C 4.892,18 4,17.108 4,16 Z" id="path3902" inkscape:connector-curvature="0" opacity="0.2" fill="#ffffff" color="#000000" stroke-width="0.8"/>
+ </g>
+</svg>

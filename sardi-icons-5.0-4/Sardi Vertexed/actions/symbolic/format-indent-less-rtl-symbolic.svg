@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" version="1.1">
+ <metadata id="metadata90"/>
+ <g id="layer12" transform="translate(-260 -706)">
+  <rect id="rect42954" transform="scale(-1,1)" height="2" width="5" y="709" x="-274" fill="#bebebe" color="#bebebe"/>
+  <rect id="rect42956" transform="scale(-1,1)" height="2" width="6" y="713" x="-274" fill="#bebebe" color="#bebebe"/>
+  <rect id="rect42958" transform="scale(-1,1)" height="2" width="7" y="717" x="-271" fill="#bebebe" color="#bebebe"/>
+  <path id="path42960" d="m261.59 709v1c0 0.25689 0.12983 0.52846 0.3125 0.71875l1.29 1.28-1.2812 1.2812c-0.18267 0.19029-0.3125 0.46186-0.3125 0.71875v1h1c0.30945 0 0.55232-0.0903 0.75-0.28125l2.65-2.72-2.66-2.72c-0.19-0.19-0.44-0.28-0.75-0.28h-1z" fill="#bebebe" color="#bebebe"/>
+ </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" height="512" viewBox="0 0 512 512" width="512" version="1.1" id="svg2" inkscape:version="0.91 r" sodipodi:docname="pitivi.svg">
+<defs id="defs20" />
+<sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="640" inkscape:window-height="480" id="namedview18" showgrid="false" inkscape:zoom="0.4609375" inkscape:cx="256" inkscape:cy="256" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="0" inkscape:current-layer="svg2" />
+<metadata id="metadata108">
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<path style="fill:#ef6a47;fill-rule:evenodd" inkscape:connector-curvature="0" d="m 471.95,253.05 c 0,120.9 -98.01,218.9 -218.9,218.9 -120.9,0 -218.9,-98.01 -218.9,-218.9 0,-120.9 98.01,-218.9 218.9,-218.9 120.9,0 218.9,98.01 218.9,218.9" id="path36" />
+<path style="fill:#ffffff;fill-rule:evenodd" inkscape:connector-curvature="0" d="m 170.39155,223.99911 -30.43349,27.9812 4.61486,121.94154 232.30601,-6.52309 -5.64027,-149.0308 -200.84825,5.63913 m 14.95326,56.11752 143.74982,-4.03658 0.32051,8.46781 -143.74982,4.03658 -0.32051,-8.46781 m 1.1406,30.22362 143.74982,-4.03658 0.32051,8.46781 -143.74982,4.03658 -0.32051,-8.46781" id="path98" />
+<path style="fill:#ffffff;fill-rule:evenodd" inkscape:connector-curvature="0" d="m 135.77434,190.55671 1.38468,28.65188 1.30941,27.08468 30.13808,-28.29828 0.86913,-0.81667 -33.7013,-26.61932" id="path100" />
+<path style="fill:#ffffff;fill-rule:evenodd" inkscape:connector-curvature="0" d="m 135.10138,180.23428 1.53867,5.61176 38.9629,21.41362 -0.67296,0.92959 195.38478,-36.47867 -9.22973,-33.66937 -225.98708,42.19193 m 47.91661,-5.19201 25.01107,-4.66961 16.08246,25.95435 -25.01221,4.66962 -16.08246,-25.95436 m 60.90804,-11.37178 25.01107,-4.66962 16.08246,25.95436 -25.01107,4.66961 -16.08246,-25.95435 m 58.5584,-10.93265 25.01108,-4.66962 16.08246,25.95436 -25.01222,4.66961 -16.08246,-25.95435" id="path102" />
+</svg>

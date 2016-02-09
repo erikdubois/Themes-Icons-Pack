@@ -1,0 +1,17 @@
+[Icon Theme]
+Name=Sardi Grey
+Comment=Simple and flat icon theme with long shadow - git
+Inherits=Sardi,Numix-Circle,Numix,gnome,hicolor
+
+
+# Directory list
+Directories=scalable/places
+
+
+[scalable/places]
+Size=512
+Context=Places
+Type=Scalable
+MinSize=32
+MaxSize=512
+

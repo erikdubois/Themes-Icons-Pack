@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="16" height="16">
+ <defs id="defs11">
+  <linearGradient id="linearGradient3817-8">
+   <stop id="stop3819-3" stop-color="#bebebe" stop-opacity="0.698"/>
+   <stop id="stop3821-4" offset="1" stop-color="#bebebe"/>
+  </linearGradient>
+  <radialGradient cx="8" cy="12" r="4" id="radialGradient3842" xlink:href="#linearGradient3817-8" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.5,0,0,1.5,-4,-7)"/>
+ </defs>
+ <metadata id="metadata90"/>
+ <rect width="1" height="10" y="3" id="rect3039" fill="#bebebe" color="#000000"/>
+ <rect width="1" height="8" x="2" y="4" id="rect3041" fill="#bebebe" color="#000000"/>
+ <path d="m 4,4 0,8 8,0 0,-8 -8,0 z m 1,1 6,0 0,6 -6,0 0,-6 z" inkscape:connector-curvature="0" id="rect3043" fill="#bebebe" color="#000000"/>
+ <rect width="1" height="8" x="13" y="4" id="rect3045" fill="#bebebe" color="#000000"/>
+ <rect width="1" height="10" x="15" y="3" id="rect3047" fill="#bebebe" color="#000000"/>
+ <rect width="6" height="6" x="5" y="5" id="rect3043-2" fill="url(#radialGradient3842)" color="#000000"/>
+</svg>

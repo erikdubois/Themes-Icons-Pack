@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" height="512" viewBox="0 0 512 512" width="512" version="1.1" id="svg2" inkscape:version="0.91 r" sodipodi:docname="accessibility.svg">
+<defs id="defs16" />
+<sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="640" inkscape:window-height="480" id="namedview14" showgrid="false" inkscape:zoom="0.4609375" inkscape:cx="256" inkscape:cy="256" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="0" inkscape:current-layer="svg2" />
+<metadata id="metadata26">
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<path id="path4" d="m471.95 253.05c0 120.9-98.01 218.9-218.9 218.9-120.9 0-218.9-98.01-218.9-218.9 0-120.9 98.01-218.9 218.9-218.9 120.9 0 218.9 98.01 218.9 218.9" fill-rule="evenodd" fill="#6ea6c1" />
+<path id="path20" fill="#fff" d="m292.85 134.85c0 19.865-15.762 35.987-35.18 35.987-19.421 0-35.18-16.12-35.18-35.987 0-19.865 15.762-35.987 35.18-35.987 19.421 0 35.18 16.12 35.18 35.987m87.81 38.27c-1.627 0.269-3.01 0.717-4.637 0.989l-120.02 20.09-119.53-20.961c-3.79-0.665-7.434-1.451-10.887 0.251s-5.716 5.736-5.764 9.574c-0.045 3.839 2.354 7.149 5.764 8.936l93.66 30.392-0.641 69.77-33.05 104.49c-3.183 4.758-2.213 10.869 2.562 14.04 4.775 3.173 11.546 2.206 14.729-2.553l53.34-112.79 52.33 112.6c2.83 4.935 9.137 6.65 14.09 3.83 4.952-2.82 6.672-9.106 3.842-14.04l-32.437-104.94-0.045-68.77 93.74-32.398c3.838-2.682 5.505-7.76 3.843-12.13-1.662-4.367-6.23-6.912-10.887-6.383z" />
+</svg>

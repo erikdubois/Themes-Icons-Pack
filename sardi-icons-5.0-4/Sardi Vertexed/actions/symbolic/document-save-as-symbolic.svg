@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="16" height="16" version="1.0">
+ <defs id="defs4">
+  <radialGradient inkscape:collect="always" xlink:href="#StandardGradient" id="radialGradient3897" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.1,0,0,0.79164213,-6.4223406,-4.2704531)" cx="14.02" cy="18.03" r="10"/>
+  <linearGradient id="StandardGradient" gradientTransform="scale(0.9219544,1.0846523)" y1="0.922" x2="0" y2="19.387" gradientUnits="userSpaceOnUse">
+   <stop id="stop3283" stop-opacity="0.235"/>
+   <stop offset="1" id="stop2651" stop-opacity="0.549"/>
+  </linearGradient>
+ </defs>
+ <metadata id="metadata7"/>
+ <g inkscape:label="Calque 1" id="layer1" inkscape:groupmode="layer">
+  <path inkscape:connector-curvature="0" d="m 6,1.03125 0,1 4,0 0,-1 -4,0 z m 0,2 0,1 4,0 0,-1 -4,0 z m 0,2 L 6,7 3,7 l 5,6 5,-6 -3,0 0,-1.96875 -4,0 z M 8,13 c -0.5522847,0 -1,0.447715 -1,1 0,0.552285 0.4477153,1 1,1 0.5522847,0 1,-0.447715 1,-1 0,-0.552285 -0.4477153,-1 -1,-1 z m -3,0 c -0.5522847,0 -1,0.447715 -1,1 0,0.552285 0.4477153,1 1,1 0.5522847,0 1,-0.447715 1,-1 0,-0.552285 -0.4477153,-1 -1,-1 z m 6,0 c -0.552285,0 -1,0.447715 -1,1 0,0.552285 0.447715,1 1,1 0.552285,0 1,-0.447715 1,-1 0,-0.552285 -0.447715,-1 -1,-1 z" id="path3048" fill="#bebebe"/>
+ </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" height="512" viewBox="0 0 512 512" width="512" version="1.1" id="svg2" inkscape:version="0.91 r" sodipodi:docname="awn-applet.svg">
+<defs id="defs17" />
+<sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="640" inkscape:window-height="480" id="namedview15" showgrid="false" inkscape:zoom="0.4609375" inkscape:cx="256" inkscape:cy="256" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="0" inkscape:current-layer="svg2" />
+<metadata id="metadata70">
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<path style="fill:#68af4c;fill-rule:evenodd" inkscape:connector-curvature="0" d="M 472,253.05 C 472,373.95 373.994,471.96 253.09,471.96 132.186,471.96 34.18,373.954 34.18,253.05 34.18,132.146 132.186,34.14 253.09,34.14 373.994,34.14 472,132.146 472,253.05" id="path6" />
+<path style="color:#000000;fill:#ffffff" inkscape:connector-curvature="0" d="m 252.5,116.66 c -18.62,0 -33.714,10.45 -33.714,23.341 0.542,4.809 3.582,10.882 5.187,12.967 7.78,10.374 7.78,16.857 5.835,20.747 l -62.89,0 c -11.494,0 -20.747,9.253 -20.747,20.747 l 0,52.52 c 3.89,1.945 10.374,1.945 20.747,-5.835 2.085,-1.605 8.158,-4.645 12.967,-5.187 12.891,0 23.341,15.09 23.341,33.714 0,18.62 -10.45,33.714 -23.341,33.714 -3.956,-0.067 -9.971,-3.605 -12.967,-5.187 -10.374,-7.78 -16.857,-7.78 -20.747,-5.835 l 0,68.08 c 0,11.494 9.253,20.747 20.747,20.747 l 83.64,0 c 1.945,-3.89 1.945,-10.374 -5.835,-20.747 -1.605,-2.085 -4.645,-8.158 -5.187,-12.967 0,-12.891 15.09,-23.341 33.714,-23.341 18.62,0 33.714,10.45 33.714,23.341 -0.067,3.956 -3.605,9.971 -5.187,12.967 -7.78,10.374 -7.78,16.857 -5.835,20.747 l 36.956,0 c 11.494,0 20.747,-9.253 20.747,-20.747 l 0,-57.703 c 3.89,-1.945 10.374,-1.945 20.747,5.835 2.996,1.581 9.01,5.12 12.967,5.187 12.891,0 23.341,-15.09 23.341,-33.714 0,-18.62 -10.45,-33.714 -23.341,-33.714 -4.809,0.542 -10.882,3.582 -12.967,5.187 -10.374,7.78 -16.857,7.78 -20.747,5.835 l 0,-62.89 c 0,-11.494 -9.253,-20.747 -20.747,-20.747 l -57.703,0 c -1.945,-3.89 -1.945,-10.374 5.835,-20.747 1.581,-2.996 5.12,-9.01 5.187,-12.967 0,-12.891 -15.09,-23.341 -33.714,-23.341" id="path22" />
+</svg>

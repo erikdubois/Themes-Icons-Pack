@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg height="16" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" version="1.1" width="16" xmlns="http://www.w3.org/2000/svg">
+ <metadata id="metadata90"/>
+ <g inkscape:groupmode="layer" id="layer12" inkscape:label="actions" transform="translate(-161,-866.99988)">
+  <path inkscape:connector-curvature="0" d="m 162,867 0,1 0,11 0,1 1,0 10,0 1,0 0,-1 0,-11 0,-1 -1,0 -10,0 -1,0 z m 2,2 8,0 0,9 -8,0 0,-9 z" id="rect7352-7-94" color="#bebebe" stroke-width="2" fill="#bebebe"/>
+  <path inkscape:connector-curvature="0" d="m 175.0002,869.99988 0,11 -10,0 0,2 12,0 0,-13 z" id="rect7352-7-9-6" sodipodi:nodetypes="ccccccc" color="#bebebe" stroke-width="2" fill="#bebebe"/>
+  <rect height="2" id="rect42942-5-3-1-4-0-0" inkscape:label="a" rx="0.375" transform="scale(-1,1)" width="4" x="-170" y="871" opacity="0.35" fill="#bebebe" color="#bebebe"/>
+  <rect height="2" id="rect42944-7-5-3-5-1-5-0-8-7" inkscape:label="a" rx="0.375" transform="scale(-1,1)" width="4" x="-170" y="874" opacity="0.35" fill="#bebebe" color="#bebebe"/>
+ </g>
+</svg>

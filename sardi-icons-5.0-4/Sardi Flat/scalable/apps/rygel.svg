@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 512 512" id="svg2374" version="1.1" inkscape:version="0.91 r" sodipodi:docname="rygel.svg">
+<metadata id="metadata2398">
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<defs id="defs2396" />
+<sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="640" inkscape:window-height="480" id="namedview2394" showgrid="false" inkscape:zoom="0.4609375" inkscape:cx="256" inkscape:cy="256" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="0" inkscape:current-layer="svg2374" />
+<path style="fill:#d23638;fill-rule:evenodd" inkscape:connector-curvature="0" id="path2378" d="m 471.95,253.05 c 0,120.9 -98.01,218.91 -218.91,218.91 -120.9,0 -218.91,-98.01 -218.91,-218.91 0,-120.9 98.01,-218.91 218.91,-218.91 120.9,0 218.91,98.01 218.91,218.91" />
+<path d="m195.07 92.4l-12.542 5.636c7.217 9.897 10.988 29.381 15.842 64.64-5.515 18.408-6.369 21.477-4.214 32.954 4.322 23.02 23.494 37.35 44.48 34.681 3.279-0.417 6.367-1.245 9.241-2.488 15.523-6.713 24.922-24.679 20.869-44.02-4.284-20.451-21.886-32.735-45.75-36.864-13.329-11-24.24-26.534-26.556-38.692-1.31-6.8-2.173-11.833-1.371-15.842m217.73 85.41c-9.897 7.217-29.381 10.988-64.64 15.842-18.408-5.515-21.477-6.369-32.954-4.214-23.02 4.322-37.35 23.494-34.681 44.48 0.418 3.279 1.245 6.367 2.488 9.241 6.713 15.523 24.679 24.922 44.02 20.869 20.451-4.284 32.734-21.886 36.864-45.75 11-13.329 26.483-24.24 38.641-26.556 6.8-1.31 11.833-2.173 15.842-1.371l-5.585-12.542m-220.68 68.4c-2.356 0.1-4.741 0.407-7.16 0.914-20.451 4.284-32.684 21.886-36.813 45.75-11 13.329-26.534 24.287-38.692 26.607-6.8 1.31-11.833 2.122-15.842 1.32l5.585 12.542c9.897-7.217 29.381-10.988 64.64-15.842 18.408 5.515 21.528 6.369 33 4.214 23.02-4.322 37.3-23.494 34.63-44.48-0.418-3.279-1.245-6.367-2.488-9.241-5.874-13.582-20.373-22.485-36.864-21.783m94.8 35.24c-1.294 0.036-2.598 0.138-3.91 0.305-3.279 0.417-6.367 1.245-9.241 2.488-15.523 6.713-24.922 24.679-20.869 44.02 4.284 20.451 21.886 32.735 45.75 36.864 13.329 11 24.287 26.483 26.607 38.641 1.31 6.8 2.122 11.833 1.32 15.842l12.542-5.585c-7.217-9.897-10.988-29.381-15.842-64.64 5.515-18.408 6.369-21.477 4.215-32.954-4.052-21.584-21.16-35.53-40.571-34.985" fill="#fff" id="path2392" />
+</svg>

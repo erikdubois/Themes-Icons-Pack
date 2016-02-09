@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="16" height="16" version="1.0">
+ <defs id="defs4">
+  <linearGradient gradientUnits="userSpaceOnUse" y2="18.974" x2="0" y1="1.996" gradientTransform="matrix(0.9984539,0,0,0.9984539,-0.0459776,0.05767558)" id="linearGradient4234">
+   <stop id="stop4236" stop-opacity="0.235"/>
+   <stop id="stop4238" offset="1" stop-opacity="0.549"/>
+  </linearGradient>
+  <linearGradient id="StandardGradient" gradientTransform="matrix(0.8222562,0,0,0.8222562,-1.5084521,-0.5995615)" y1="1.996" x2="0" y2="18.974" gradientUnits="userSpaceOnUse">
+   <stop id="stop3277" stop-opacity="0.863"/>
+   <stop offset="1" id="stop3279" stop-opacity="0.471"/>
+  </linearGradient>
+  <linearGradient inkscape:collect="always" xlink:href="#StandardGradient" id="linearGradient3620" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.8222562,0,0,0.8222562,-21.508452,-0.5995615)" y1="1.996" x2="0" y2="18.974"/>
+  <clipPath id="clipPath3627">
+   <path d="m -20,0 0,16 16,0 0,-16 -16,0 z m 5.9375,1 c 1.26517,-1e-8 2.535394,0.4764293 3.5,1.4375 1.681841,1.6756779 1.906787,4.247112 0.65625,6.15625 0.016338,0.324513 0.069521,0.876549 0.28125,1.0625 0.288287,0.25319 0.966874,-0.1105761 1.40625,0.375 l 3.03125,3.0625 c 0,0 0.594502,0.564957 -0.28125,1.4375 -0.875752,0.872544 -1.4375,0.28125 -1.4375,0.28125 L -9.9375,11.71875 c -0.487362,-0.437765 -0.120877,-1.087768 -0.375,-1.375 -0.186635,-0.210952 -0.736795,-0.26497 -1.0625,-0.28125 -1.916159,1.245955 -4.50566,1.019429 -6.1875,-0.65625 -1.92921,-1.922141 -1.929211,-5.0466084 0,-6.96875 C -16.597895,1.4764293 -15.32767,1 -14.0625,1 z m 0.03125,1.65625 c -0.909438,10e-8 -1.747342,0.343278 -2.34375,0.9375 -0.596407,0.5942221 -0.96875,1.4376439 -0.96875,2.34375 0,1.8122134 1.493625,3.281251 3.3125,3.28125 1.818878,0 3.28125,-1.4690366 3.28125,-3.28125 0,-1.8122125 -1.462373,-3.28125 -3.28125,-3.28125 z" id="path3629"/>
+  </clipPath>
+  <linearGradient inkscape:collect="always" xlink:href="#StandardGradient" id="linearGradient3623" y1="4" x2="0" y2="14.05" gradientUnits="userSpaceOnUse"/>
+  <linearGradient inkscape:collect="always" xlink:href="#StandardGradient" id="linearGradient3639" gradientUnits="userSpaceOnUse" y1="4" x2="0" y2="14.05" gradientTransform="translate(0,1)"/>
+  <clipPath id="clipPath3662">
+   <path d="m -20,0 0,16 16,0 0,-16 -16,0 z m 7.96875,4 c 1.71768,9.7e-6 2.927854,0.3509872 3.6875,1.03125 0.765296,0.6746112 1.15624,1.7563136 1.15625,3.28125 l 0,5.6875 -3.0625,0 0,-1.65625 c -0.40817,0.578232 -0.864802,0.98356 -1.375,1.25 C -12.13521,13.854521 -12.768712,14 -13.5,14 c -0.986398,0 -1.788338,-0.271188 -2.40625,-0.84375 -0.612246,-0.57823 -0.906251,-1.331631 -0.90625,-2.25 -1e-6,-1.1167763 0.390943,-1.9472032 1.15625,-2.46875 0.770973,-0.5215361 1.981005,-0.7812439 3.625,-0.78125 l 1.78125,0 0,-0.25 c -7e-6,-0.4818526 -0.182688,-0.8101544 -0.5625,-1.03125 -0.379825,-0.2267497 -0.976267,-0.3437423 -1.78125,-0.34375 -0.651932,7.7e-6 -1.251279,0.057122 -1.8125,0.1875 -0.561227,0.1303929 -1.080642,0.3329862 -1.5625,0.59375 l 0,-2.3125 c 0.651925,-0.1587208 1.279901,-0.2956254 1.9375,-0.375 0.657592,-0.085024 1.342399,-0.1249903 2,-0.125 z m 0.1875,5.46875 c -0.634926,4.3e-6 -1.114375,0.097085 -1.4375,0.3125 -0.317464,0.2154234 -0.468754,0.549252 -0.46875,0.96875 -4e-6,0.38549 0.119894,0.685163 0.375,0.90625 0.260767,0.215421 0.634561,0.312502 1.09375,0.3125 0.572556,2e-6 1.046337,-0.185585 1.4375,-0.59375 0.39115,-0.41383 0.593743,-0.944583 0.59375,-1.5625 l 0,-0.34375 -1.59375,0 z" id="path3664"/>
+  </clipPath>
+  <linearGradient inkscape:collect="always" xlink:href="#StandardGradient-7" id="linearGradient3648" y1="4" x2="0" y2="18.04" gradientUnits="userSpaceOnUse"/>
+  <linearGradient id="StandardGradient-7" gradientTransform="matrix(0.9984539,0,0,0.9984539,-0.0459776,0.05767558)" y1="1.996" x2="0" y2="18.974" gradientUnits="userSpaceOnUse">
+   <stop id="stop3277-8" stop-opacity="0.863"/>
+   <stop offset="1" id="stop3279-6" stop-opacity="0.471"/>
+  </linearGradient>
+  <linearGradient gradientTransform="matrix(-1,0,0,1,20,-3)" y2="18.04" x2="0" y1="4" gradientUnits="userSpaceOnUse" id="linearGradient2903" xlink:href="#StandardGradient-7" inkscape:collect="always"/>
+  <linearGradient inkscape:collect="always" xlink:href="#StandardGradient-7" id="linearGradient2877" gradientUnits="userSpaceOnUse" gradientTransform="translate(-4,-2)" y1="4" x2="0" y2="18.04"/>
+  <linearGradient inkscape:collect="always" xlink:href="#StandardGradient-7" id="linearGradient2879" gradientUnits="userSpaceOnUse" gradientTransform="translate(-4,-3)" y1="4" x2="0" y2="18.04"/>
+  <clipPath id="clipPath3672">
+   <path d="m -20,0 0,16 16,0 0,-16 -16,0 z m 6,1 9,0 0,2 -9,0 0,-2 z m -5,4 9,0 0,2 -9,0 0,-2 z m 14,0 0,6 -4,-3 4,-3 z m -14,4 7,0 0,2 -7,0 0,-2 z m 5,4 9,0 0,2 -9,0 0,-2 z" id="path3674"/>
+  </clipPath>
+  <linearGradient inkscape:collect="always" xlink:href="#StandardGradient-7" id="linearGradient2869" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1,0,0,1,20,-2)" y1="4" x2="0" y2="18.04"/>
+  <linearGradient inkscape:collect="always" xlink:href="#StandardGradient-7" id="linearGradient3651" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1,0,0,1,0,-3)" y1="4" x2="0" y2="18.04"/>
+  <clipPath id="clipPath3658">
+   <path d="m -20,0 0,16 16,0 0,-16 -16,0 z m 1,1 9,0 0,2 -9,0 0,-2 z m 0,4 4,3 -4,3 0,-6 z m 5,0 9,0 0,2 -9,0 0,-2 z m 0,4 7,0 0,2 -7,0 0,-2 z m -5,4 9,0 0,2 -9,0 0,-2 z" id="path3660"/>
+  </clipPath>
+  <linearGradient inkscape:collect="always" xlink:href="#StandardGradient-7" id="linearGradient2882" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.2222222,0,0,1,24.222222,-3)" y1="4" x2="0" y2="18.04"/>
+  <linearGradient inkscape:collect="always" xlink:href="#StandardGradient-7" id="linearGradient2884" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1,0,0,0.83333333,-14,3.3333333)" y1="4" x2="0" y2="18.04"/>
+  <linearGradient inkscape:collect="always" xlink:href="#StandardGradient-7" id="linearGradient2886" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.5555556,0,0,1,22.777778,-4)" y1="4" x2="0" y2="18.04"/>
+  <linearGradient inkscape:collect="always" xlink:href="#StandardGradient-7" id="linearGradient2888" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.2857143,0,0,1,19,-5)" y1="4" x2="0" y2="18.04"/>
+  <linearGradient inkscape:collect="always" xlink:href="#StandardGradient-7" id="linearGradient2890" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.55555556,0,0,0.5,13.555556,4)" y1="4" x2="0" y2="18.04"/>
+  <linearGradient inkscape:collect="always" xlink:href="#StandardGradient-7" id="linearGradient3669" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.2222222,0,0,1,24.222222,-2)" y1="4" x2="0" y2="18.04"/>
+  <linearGradient inkscape:collect="always" xlink:href="#StandardGradient-7" id="linearGradient3686" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.2222222,0,0,1,4.222222,-3)" y1="4" x2="0" y2="18.04"/>
+  <clipPath id="clipPath3695">
+   <path d="m -20,0 0,16 16,0 0,-16 -16,0 z m 1,1 11,0 0,2 -11,0 0,-2 z m 0,3 14,0 0,2 -14,0 0,-2 z m 0,3 9,0 0,2 -9,0 0,-2 z m 4,3 0,2 3,0 0,1 -3,0 0,2 -4,-2.5 4,-2.5 z" id="path3697"/>
+  </clipPath>
+  <linearGradient inkscape:collect="always" xlink:href="#StandardGradient-7" id="linearGradient2894" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.2222222,0,0,1,-8.222222,-3)" y1="4" x2="0" y2="18.04"/>
+  <linearGradient inkscape:collect="always" xlink:href="#StandardGradient-7" id="linearGradient2907" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.2222222,0,0,1,-8.222222,-2)" y1="4" x2="0" y2="18.04"/>
+  <linearGradient inkscape:collect="always" xlink:href="#StandardGradient-7" id="linearGradient3696" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.2222222,0,0,1,-28.222222,-3)" y1="4" x2="0" y2="18.04"/>
+  <clipPath id="clipPath3703">
+   <path d="m -20,0 0,16 16,0 0,-16 -16,0 z m 4,1 11,0 0,2 -11,0 0,-2 z m -3,3 14,0 0,2 -14,0 0,-2 z m 5,3 9,0 0,2 -9,0 0,-2 z m 5,3 4,2.5 -4,2.5 0,-2 -3,0 0,-1 3,0 0,-2 z" id="path3705"/>
+  </clipPath>
+  <linearGradient inkscape:collect="always" xlink:href="#StandardGradient-7" id="linearGradient2906" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.9012345,0,0,1,-21.123456,-3)" y1="4" x2="0" y2="18.04"/>
+  <linearGradient inkscape:collect="always" xlink:href="#StandardGradient-7" id="linearGradient2910" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.2222222,0,0,1,-15.222222,-3)" y1="4" x2="0" y2="18.04"/>
+  <linearGradient inkscape:collect="always" xlink:href="#StandardGradient-7" id="linearGradient2912" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.2222222,0,0,1,31.222222,-3)" y1="4" x2="0" y2="18.04"/>
+  <linearGradient inkscape:collect="always" xlink:href="#StandardGradient-7" id="linearGradient2919" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.5555555,0,0,1,-14.555555,-2)" y1="4" x2="0" y2="18.04"/>
+  <linearGradient inkscape:collect="always" xlink:href="#StandardGradient-7" id="linearGradient2921" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.5555555,0,0,1,-14.555555,-3)" y1="4" x2="0" y2="18.04"/>
+  <linearGradient inkscape:collect="always" xlink:href="#StandardGradient-7" id="linearGradient3698" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.5555555,0,0,1,-34.555555,-3)" y1="4" x2="0" y2="18.04"/>
+  <clipPath id="clipPath3705">
+   <path d="m -20,0 0,16 16,0 0,-16 -16,0 z m 1,1 14,0 0,2 -14,0 0,-2 z m 0,3 14,0 0,2 -14,0 0,-2 z m 0,3 14,0 0,2 -14,0 0,-2 z m 3,3 4,2.5 4,-2.5 0,2 3,0 0,1 -3,0 0,2 -4,-2.5 -4,2.5 0,-2 -3,0 0,-1 3,0 0,-2 z" id="path3707"/>
+  </clipPath>
+  <clipPath id="clipPath3707">
+   <path d="m -20,0 0,16 16,0 0,-16 -16,0 z m 3,1 10,0 0,2 -10,0 0,-2 z m -2,3 14,0 0,2 -14,0 0,-2 z m 3,3 8,0 0,2 -8,0 0,-2 z m 0,3 4,2.5 4,-2.5 0,2 3,0 0,1 -3,0 0,2 -4,-2.5 -4,2.5 0,-2 -3,0 0,-1 3,0 0,-2 z" id="path3709"/>
+  </clipPath>
+  <radialGradient inkscape:collect="always" xlink:href="#linearGradient4234" id="radialGradient4224" cx="9" cy="9" r="7" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.7142857,2.1428571e-8,-1.4285714e-8,1.1428571,-6.4285713,-1.2857145)"/>
+ </defs>
+ <metadata id="metadata7"/>
+ <g inkscape:label="Calque 1" id="layer1" inkscape:groupmode="layer">
+  <path d="M 2.8125 0 A 0.9935966 0.9935966 0 0 0 2 1 L 2 3 L 1 3 A 0.9935966 0.9935966 0 0 0 0 4 L 0 6 A 0.9935966 0.9935966 0 0 0 1 7 L 3 7 L 3 9 A 0.9935966 0.9935966 0 0 0 3.15625 9.5 A 0.9935966 0.9935966 0 0 0 3 10 L 3 11 L 1 11 A 0.9935966 0.9935966 0 0 0 0 12 L 0 13 A 0.9935966 0.9935966 0 0 0 1 14 L 3 14 L 3 15 A 0.9935966 0.9935966 0 0 0 4.53125 15.84375 L 8 13.6875 L 11.46875 15.84375 A 0.9935966 0.9935966 0 0 0 13 15 L 13 14 L 15 14 A 0.9935966 0.9935966 0 0 0 16 13 L 16 12 A 0.9935966 0.9935966 0 0 0 15 11 L 13 11 L 13 10 A 0.9935966 0.9935966 0 0 0 12.84375 9.53125 A 0.9935966 0.9935966 0 0 0 12.84375 9.5 A 0.9935966 0.9935966 0 0 0 13 9 L 13 7 L 15 7 A 0.9935966 0.9935966 0 0 0 16 6 L 16 4 A 0.9935966 0.9935966 0 0 0 15 3 L 14 3 L 14 1 A 0.9935966 0.9935966 0 0 0 13 0 L 3 0 A 0.9935966 0.9935966 0 0 0 2.90625 0 A 0.9935966 0.9935966 0 0 0 2.8125 0 z M 3 1 L 13 1 L 13 3 L 3 3 L 3 1 z M 1 4 L 15 4 L 15 6 L 1 6 L 1 4 z M 4 7 L 12 7 L 12 9 L 4 9 L 4 7 z M 4 10 L 8 12.5 L 12 10 L 12 12 L 15 12 L 15 13 L 12 13 L 12 15 L 8 12.5 L 4 15 L 4 13 L 1 13 L 1 12 L 4 12 L 4 10 z M 5.875 10 L 10.125 10 L 8 11.3125 L 5.875 10 z " id="path4678" opacity="0.05" fill="#ffffff"/>
+  <path d="M 3,1 3,3 13,3 13,1 3,1 z M 1,4 1,6 15,6 15,4 1,4 z m 3,3 0,2 8,0 0,-2 -8,0 z m 0,3 0,2 -3,0 0,1 3,0 0,2 L 8,12.5 4,10 z m 4,2.5 4,2.5 0,-2 3,0 0,-1 -3,0 0,-2 -4,2.5 z" id="path2901" sodipodi:nodetypes="ccccccccccccccccccccccccccccccc" fill="url(#radialGradient4224)"/>
+  <path d="M 3 1 L 3 2 L 13 2 L 13 1 L 3 1 z M 1 4 L 1 5 L 15 5 L 15 4 L 13 4 L 3 4 L 1 4 z M 4 7 L 4 8 L 12 8 L 12 7 L 4 7 z M 4 10 L 4 11 L 7.1875 13 L 8 12.5 L 4 10 z M 8 12.5 L 8.8125 13 L 12 11 L 12 10 L 8 12.5 z M 1 12 L 1 13 L 4 13 L 4 12 L 1 12 z M 12 12 L 12 13 L 15 13 L 15 12 L 12 12 z " id="path2906" opacity="0.3"/>
+  <path d="M 3 3 L 3 4 L 13 4 L 13 3 L 3 3 z M 1 6 L 1 7 L 4 7 L 12 7 L 15 7 L 15 6 L 1 6 z M 4 9 L 4 10 L 12 10 L 12 9 L 4 9 z M 1 13 L 1 14 L 4 14 L 4 13 L 1 13 z M 7.1875 13 L 4 15 L 4 16 L 8 13.5 L 7.1875 13 z M 8 13.5 L 12 16 L 12 15 L 8.8125 13 L 8 13.5 z M 12 13 L 12 14 L 15 14 L 15 13 L 12 13 z " id="path3688" opacity="0.2" fill="#ffffff"/>
+ </g>
+</svg>

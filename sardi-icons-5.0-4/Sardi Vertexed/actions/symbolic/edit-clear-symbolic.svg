@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="16" height="16" version="1.0">
+ <metadata id="metadata7"/>
+ <g inkscape:groupmode="layer" id="layer3" inkscape:label="Cross" transform="translate(-3,-2.9995677)">
+  <path d="M 9,4.9995677 L 3,10.499568 L 9,15.97184 L 18,15.97184 L 18,4.9995677 L 9,4.9995677 z M 10.40625,6.9995677 L 12.5,9.0933177 L 14.59375,6.9995677 L 16,8.4058177 L 13.90625,10.499568 L 16,12.593318 L 14.59375,13.999568 L 12.5,11.905818 L 10.40625,13.999568 L 9,12.593318 L 11.09375,10.499568 L 9,8.4058177 L 10.40625,6.9995677 z" id="Symbol" sodipodi:nodetypes="ccccccccccccccccccc" fill="#bebebe" stroke-linecap="round"/>
+ </g>
+</svg>

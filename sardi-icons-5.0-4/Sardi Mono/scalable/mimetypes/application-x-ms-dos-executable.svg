@@ -1,0 +1,2400 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 512 512"
+   id="svg165"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="application-x-ms-dos-executable.svg">
+  <metadata
+     id="metadata609">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs607">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6500">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6502" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6504">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6506" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6508">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6510" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6512">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6514" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6516">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6518" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6520">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6522" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6524">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6526" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6528">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6530" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6532">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6534" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6536">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6538" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6540">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6542" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6544">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6546" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6548">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6550" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6552">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6554" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6556">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6558" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6560">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6562" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6564">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6566" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6568">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6570" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6572">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6574" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6576">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6578" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6580">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6582" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6584">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6586" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6588">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6590" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6592">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6594" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6596">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6598" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6600">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6602" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6604">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6606" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6608">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6610" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6612">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6614" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6616">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6618" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6620">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6622" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6624">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6626" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6628">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6630" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6632">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6634" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6636">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6638" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6640">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6642" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6644">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6646" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6648">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6650" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6652">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6654" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6656">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6658" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6660">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6662" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6664">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6666" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6668">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6670" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6672">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6674" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6676">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6678" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6680">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6682" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6684">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6686" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6688">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6690" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6692">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6694" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6696">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6698" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6700">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6702" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6704">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6706" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6708">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6710" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6712">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6714" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6716">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6718" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6720">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6722" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6724">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6726" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6728">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6730" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6732">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6734" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6736">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6738" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6740">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6742" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6744">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6746" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6748">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6750" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6752">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6754" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6756">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6758" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6760">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6762" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6764">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6766" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6768">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6770" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6772">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6774" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6776">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6778" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6780">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6782" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6784">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6786" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6788">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6790" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6792">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6794" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6796">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6798" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6800">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6802" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6804">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6806" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6808">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6810" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6812">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6814" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6816">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6818" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6820">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6822" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6824">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6826" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6828">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6830" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6832">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6834" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6836">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6838" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6840">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6842" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6844">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6846" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6848">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6850" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6852">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6854" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6856">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6858" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6860">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6862" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6864">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6866" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6868">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6870" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6872">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6874" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6876">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6878" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter6880">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix6882" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview605"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg165" />
+  <text
+     font-size="129.23"
+     y="39.41"
+     x="-210.55"
+     font-family="Gentium Book Basic"
+     line-height="125%"
+     word-spacing="0"
+     letter-spacing="0"
+     id="text167"
+     style="filter:url(#filter6500)">
+    <tspan
+       y="39.41"
+       x="-210.55"
+       id="tspan169" />
+  </text>
+  <text
+     transform="scale(4.0128.2492)"
+     font-size="46.954"
+     y="-191"
+     x="144.61"
+     font-family="Arial"
+     text-anchor="middle"
+     id="text171"
+     style="filter:url(#filter6504)" />
+  <text
+     font-size="129.23"
+     y="-40.586"
+     x="370.72"
+     font-family="Gentium Book Basic"
+     line-height="125%"
+     word-spacing="0"
+     letter-spacing="0"
+     id="text173"
+     style="filter:url(#filter6508)">
+    <tspan
+       y="-40.586"
+       x="370.72"
+       id="tspan175" />
+  </text>
+  <text
+     transform="scale(4.0128.2492)"
+     font-size="46.954"
+     y="-512.03"
+     x="289.46"
+     font-family="Arial"
+     text-anchor="middle"
+     id="text177"
+     style="filter:url(#filter6512)" />
+  <text
+     font-size="129.23"
+     y="-221.85"
+     x="-700.86"
+     font-family="Gentium Book Basic"
+     line-height="125%"
+     word-spacing="0"
+     letter-spacing="0"
+     id="text179"
+     style="filter:url(#filter6516)">
+    <tspan
+       y="-221.85"
+       x="-700.86"
+       id="tspan181" />
+  </text>
+  <text
+     transform="scale(4.0128.2492)"
+     font-size="46.954"
+     y="-1239.38"
+     x="22.422"
+     font-family="Arial"
+     text-anchor="middle"
+     id="text183"
+     style="filter:url(#filter6520)" />
+  <text
+     font-size="129.23"
+     y="-438.32"
+     x="397.19"
+     font-family="Gentium Book Basic"
+     line-height="125%"
+     word-spacing="0"
+     letter-spacing="0"
+     id="text185"
+     style="filter:url(#filter6524)">
+    <tspan
+       y="-438.32"
+       x="397.19"
+       id="tspan187" />
+  </text>
+  <text
+     transform="scale(4.0128.2492)"
+     font-size="46.954"
+     y="-2108.05"
+     x="296.06"
+     font-family="Arial"
+     text-anchor="middle"
+     id="text189"
+     style="filter:url(#filter6528)" />
+  <text
+     font-size="129.23"
+     y="-518.33"
+     x="978.46"
+     font-family="Gentium Book Basic"
+     line-height="125%"
+     word-spacing="0"
+     letter-spacing="0"
+     id="text191"
+     style="filter:url(#filter6532)">
+    <tspan
+       y="-518.33"
+       x="978.46"
+       id="tspan193" />
+  </text>
+  <text
+     transform="scale(4.0128.2492)"
+     font-size="46.954"
+     y="-2429.09"
+     x="440.91"
+     font-family="Arial"
+     text-anchor="middle"
+     id="text195"
+     style="filter:url(#filter6536)" />
+  <text
+     font-size="129.23"
+     y="-990.73"
+     x="589.34"
+     font-family="Gentium Book Basic"
+     line-height="125%"
+     word-spacing="0"
+     letter-spacing="0"
+     id="text197"
+     style="filter:url(#filter6540)">
+    <tspan
+       y="-990.73"
+       x="589.34"
+       id="tspan199" />
+  </text>
+  <text
+     transform="scale(4.0128.2492)"
+     font-size="46.954"
+     y="-4324.74"
+     x="343.94"
+     font-family="Arial"
+     text-anchor="middle"
+     id="text201"
+     style="filter:url(#filter6544)" />
+  <text
+     font-size="129.23"
+     y="-1070.73"
+     x="1170.6"
+     font-family="Gentium Book Basic"
+     line-height="125%"
+     word-spacing="0"
+     letter-spacing="0"
+     id="text203"
+     style="filter:url(#filter6548)">
+    <tspan
+       y="-1070.73"
+       x="1170.6"
+       id="tspan205" />
+  </text>
+  <text
+     transform="scale(4.0128.2492)"
+     font-size="46.954"
+     y="-4645.77"
+     x="488.79"
+     font-family="Arial"
+     text-anchor="middle"
+     id="text207"
+     style="filter:url(#filter6552)" />
+  <g
+     font-family="Gentium Book Basic"
+     line-height="125%"
+     word-spacing="0"
+     letter-spacing="0"
+     id="g209"
+     style="filter:url(#filter6556)">
+    <text
+       y="343.99"
+       x="-662.2"
+       font-size="208.33"
+       id="text211">
+      <tspan
+         y="343.99"
+         x="-662.2"
+         id="tspan213" />
+    </text>
+    <text
+       y="209.67"
+       x="91.81"
+       font-size="129.23"
+       id="text215">
+      <tspan
+         y="209.67"
+         x="91.81"
+         id="tspan217" />
+    </text>
+  </g>
+  <text
+     transform="scale(4.0128.2492)"
+     font-size="46.954"
+     y="492.19"
+     x="219.96"
+     font-family="Arial"
+     text-anchor="middle"
+     id="text219"
+     style="filter:url(#filter6560)" />
+  <text
+     font-size="129.23"
+     y="129.67"
+     x="673.08"
+     font-family="Gentium Book Basic"
+     line-height="125%"
+     word-spacing="0"
+     letter-spacing="0"
+     id="text221"
+     style="filter:url(#filter6564)">
+    <tspan
+       y="129.67"
+       x="673.08"
+       id="tspan223" />
+  </text>
+  <text
+     transform="scale(4.0128.2492)"
+     font-size="46.954"
+     y="171.16"
+     x="364.81"
+     font-family="Arial"
+     text-anchor="middle"
+     id="text225"
+     style="filter:url(#filter6568)" />
+  <text
+     font-size="129.23"
+     y="-51.596"
+     x="-398.5"
+     font-family="Gentium Book Basic"
+     line-height="125%"
+     word-spacing="0"
+     letter-spacing="0"
+     id="text227"
+     style="filter:url(#filter6572)">
+    <tspan
+       y="-51.596"
+       x="-398.5"
+       id="tspan229" />
+  </text>
+  <text
+     transform="scale(4.0128.2492)"
+     font-size="46.954"
+     y="-556.2"
+     x="97.77"
+     font-family="Arial"
+     text-anchor="middle"
+     id="text231"
+     style="filter:url(#filter6576)" />
+  <text
+     font-size="129.23"
+     y="-268.06"
+     x="699.55"
+     font-family="Gentium Book Basic"
+     line-height="125%"
+     word-spacing="0"
+     letter-spacing="0"
+     id="text233"
+     style="filter:url(#filter6580)">
+    <tspan
+       y="-268.06"
+       x="699.55"
+       id="tspan235" />
+  </text>
+  <text
+     transform="scale(4.0128.2492)"
+     font-size="46.954"
+     y="-1424.86"
+     x="371.41"
+     font-family="Arial"
+     text-anchor="middle"
+     id="text237"
+     style="filter:url(#filter6584)" />
+  <text
+     font-size="129.23"
+     y="-348.07"
+     x="1280.82"
+     font-family="Gentium Book Basic"
+     line-height="125%"
+     word-spacing="0"
+     letter-spacing="0"
+     id="text239"
+     style="filter:url(#filter6588)">
+    <tspan
+       y="-348.07"
+       x="1280.82"
+       id="tspan241" />
+  </text>
+  <text
+     transform="scale(4.0128.2492)"
+     font-size="46.954"
+     y="-1745.9"
+     x="516.26"
+     font-family="Arial"
+     text-anchor="middle"
+     id="text243"
+     style="filter:url(#filter6592)" />
+  <text
+     font-size="129.23"
+     y="-820.47"
+     x="891.7"
+     font-family="Gentium Book Basic"
+     line-height="125%"
+     word-spacing="0"
+     letter-spacing="0"
+     id="text245"
+     style="filter:url(#filter6596)">
+    <tspan
+       y="-820.47"
+       x="891.7"
+       id="tspan247" />
+  </text>
+  <text
+     transform="scale(4.0128.2492)"
+     font-size="46.954"
+     y="-3641.55"
+     x="419.29"
+     font-family="Arial"
+     text-anchor="middle"
+     id="text249"
+     style="filter:url(#filter6600)" />
+  <text
+     font-size="129.23"
+     y="-900.47"
+     x="1472.96"
+     font-family="Gentium Book Basic"
+     line-height="125%"
+     word-spacing="0"
+     letter-spacing="0"
+     id="text251"
+     style="filter:url(#filter6604)">
+    <tspan
+       y="-900.47"
+       x="1472.96"
+       id="tspan253" />
+  </text>
+  <text
+     transform="scale(4.0128.2492)"
+     font-size="46.954"
+     y="-3962.58"
+     x="564.14"
+     font-family="Arial"
+     text-anchor="middle"
+     id="text255"
+     style="filter:url(#filter6608)" />
+  <g
+     font-family="Gentium Book Basic"
+     line-height="125%"
+     word-spacing="0"
+     letter-spacing="0"
+     id="g257"
+     style="filter:url(#filter6612)">
+    <text
+       y="514.25"
+       x="-359.84"
+       font-size="208.33"
+       id="text259">
+      <tspan
+         y="514.25"
+         x="-359.84"
+         id="tspan261" />
+    </text>
+    <text
+       y="179.29"
+       x="78.79"
+       font-size="129.23"
+       id="text263">
+      <tspan
+         y="179.29"
+         x="78.79"
+         id="tspan265" />
+    </text>
+  </g>
+  <text
+     transform="scale(4.0128.2492)"
+     font-size="46.954"
+     y="370.31"
+     x="216.72"
+     font-family="Arial"
+     text-anchor="middle"
+     id="text267"
+     style="filter:url(#filter6616)" />
+  <text
+     font-size="129.23"
+     y="99.29"
+     x="660.06"
+     font-family="Gentium Book Basic"
+     line-height="125%"
+     word-spacing="0"
+     letter-spacing="0"
+     id="text269"
+     style="filter:url(#filter6620)">
+    <tspan
+       y="99.29"
+       x="660.06"
+       id="tspan271" />
+  </text>
+  <text
+     transform="scale(4.0128.2492)"
+     font-size="46.954"
+     y="49.28"
+     x="361.57"
+     font-family="Arial"
+     text-anchor="middle"
+     id="text273"
+     style="filter:url(#filter6624)" />
+  <text
+     font-size="129.23"
+     y="-81.969"
+     x="-411.52"
+     font-family="Gentium Book Basic"
+     line-height="125%"
+     word-spacing="0"
+     letter-spacing="0"
+     id="text275"
+     style="filter:url(#filter6628)">
+    <tspan
+       y="-81.969"
+       x="-411.52"
+       id="tspan277" />
+  </text>
+  <text
+     transform="scale(4.0128.2492)"
+     font-size="46.954"
+     y="-678.08"
+     x="94.53"
+     font-family="Arial"
+     text-anchor="middle"
+     id="text279"
+     style="filter:url(#filter6632)" />
+  <text
+     font-size="129.23"
+     y="-298.44"
+     x="686.53"
+     font-family="Gentium Book Basic"
+     line-height="125%"
+     word-spacing="0"
+     letter-spacing="0"
+     id="text281"
+     style="filter:url(#filter6636)">
+    <tspan
+       y="-298.44"
+       x="686.53"
+       id="tspan283" />
+  </text>
+  <text
+     transform="scale(4.0128.2492)"
+     font-size="46.954"
+     y="-1546.74"
+     x="368.17"
+     font-family="Arial"
+     text-anchor="middle"
+     id="text285"
+     style="filter:url(#filter6640)" />
+  <text
+     font-size="129.23"
+     y="-378.45"
+     x="1267.8"
+     font-family="Gentium Book Basic"
+     line-height="125%"
+     word-spacing="0"
+     letter-spacing="0"
+     id="text287"
+     style="filter:url(#filter6644)">
+    <tspan
+       y="-378.45"
+       x="1267.8"
+       id="tspan289" />
+  </text>
+  <text
+     transform="scale(4.0128.2492)"
+     font-size="46.954"
+     y="-1867.78"
+     x="513.01"
+     font-family="Arial"
+     text-anchor="middle"
+     id="text291"
+     style="filter:url(#filter6648)" />
+  <text
+     font-size="129.23"
+     y="-850.85"
+     x="878.68"
+     font-family="Gentium Book Basic"
+     line-height="125%"
+     word-spacing="0"
+     letter-spacing="0"
+     id="text293"
+     style="filter:url(#filter6652)">
+    <tspan
+       y="-850.85"
+       x="878.68"
+       id="tspan295" />
+  </text>
+  <text
+     transform="scale(4.0128.2492)"
+     font-size="46.954"
+     y="-3763.43"
+     x="416.05"
+     font-family="Arial"
+     text-anchor="middle"
+     id="text297"
+     style="filter:url(#filter6656)" />
+  <text
+     font-size="129.23"
+     y="-930.85"
+     x="1459.94"
+     font-family="Gentium Book Basic"
+     line-height="125%"
+     word-spacing="0"
+     letter-spacing="0"
+     id="text299"
+     style="filter:url(#filter6660)">
+    <tspan
+       y="-930.85"
+       x="1459.94"
+       id="tspan301" />
+  </text>
+  <text
+     transform="scale(4.0128.2492)"
+     font-size="46.954"
+     y="-4084.46"
+     x="560.89"
+     font-family="Arial"
+     text-anchor="middle"
+     id="text303"
+     style="filter:url(#filter6664)" />
+  <g
+     font-family="Gentium Book Basic"
+     line-height="125%"
+     word-spacing="0"
+     letter-spacing="0"
+     id="g305"
+     style="filter:url(#filter6668)">
+    <text
+       y="483.87"
+       x="-372.86"
+       font-size="208.33"
+       id="text307">
+      <tspan
+         y="483.87"
+         x="-372.86"
+         id="tspan309" />
+    </text>
+    <text
+       y="244.98"
+       x="39.5"
+       font-size="129.23"
+       id="text311">
+      <tspan
+         y="244.98"
+         x="39.5"
+         id="tspan313" />
+    </text>
+  </g>
+  <text
+     transform="scale(4.0128.2492)"
+     font-size="46.954"
+     y="633.89"
+     x="206.92"
+     font-family="Arial"
+     text-anchor="middle"
+     id="text315"
+     style="filter:url(#filter6672)" />
+  <text
+     font-size="129.23"
+     y="164.98"
+     x="620.77"
+     font-family="Gentium Book Basic"
+     line-height="125%"
+     word-spacing="0"
+     letter-spacing="0"
+     id="text317"
+     style="filter:url(#filter6676)">
+    <tspan
+       y="164.98"
+       x="620.77"
+       id="tspan319" />
+  </text>
+  <text
+     transform="scale(4.0128.2492)"
+     font-size="46.954"
+     y="312.87"
+     x="351.77"
+     font-family="Arial"
+     text-anchor="middle"
+     id="text321"
+     style="filter:url(#filter6680)" />
+  <text
+     font-size="129.23"
+     y="-16.283"
+     x="-450.81"
+     font-family="Gentium Book Basic"
+     line-height="125%"
+     word-spacing="0"
+     letter-spacing="0"
+     id="text323"
+     style="filter:url(#filter6684)">
+    <tspan
+       y="-16.283"
+       x="-450.81"
+       id="tspan325" />
+  </text>
+  <text
+     transform="scale(4.0128.2492)"
+     font-size="46.954"
+     y="-414.49"
+     x="84.74"
+     font-family="Arial"
+     text-anchor="middle"
+     id="text327"
+     style="filter:url(#filter6688)" />
+  <text
+     font-size="129.23"
+     y="-232.75"
+     x="647.24"
+     font-family="Gentium Book Basic"
+     line-height="125%"
+     word-spacing="0"
+     letter-spacing="0"
+     id="text329"
+     style="filter:url(#filter6692)">
+    <tspan
+       y="-232.75"
+       x="647.24"
+       id="tspan331" />
+  </text>
+  <text
+     transform="scale(4.0128.2492)"
+     font-size="46.954"
+     y="-1283.16"
+     x="358.37"
+     font-family="Arial"
+     text-anchor="middle"
+     id="text333"
+     style="filter:url(#filter6696)" />
+  <text
+     font-size="129.23"
+     y="-312.76"
+     x="1228.51"
+     font-family="Gentium Book Basic"
+     line-height="125%"
+     word-spacing="0"
+     letter-spacing="0"
+     id="text335"
+     style="filter:url(#filter6700)">
+    <tspan
+       y="-312.76"
+       x="1228.51"
+       id="tspan337" />
+  </text>
+  <text
+     transform="scale(4.0128.2492)"
+     font-size="46.954"
+     y="-1604.19"
+     x="503.22"
+     font-family="Arial"
+     text-anchor="middle"
+     id="text339"
+     style="filter:url(#filter6704)" />
+  <text
+     font-size="129.23"
+     y="-785.16"
+     x="839.39"
+     font-family="Gentium Book Basic"
+     line-height="125%"
+     word-spacing="0"
+     letter-spacing="0"
+     id="text341"
+     style="filter:url(#filter6708)">
+    <tspan
+       y="-785.16"
+       x="839.39"
+       id="tspan343" />
+  </text>
+  <text
+     transform="scale(4.0128.2492)"
+     font-size="46.954"
+     y="-3499.84"
+     x="406.25"
+     font-family="Arial"
+     text-anchor="middle"
+     id="text345"
+     style="filter:url(#filter6712)" />
+  <text
+     font-size="129.23"
+     y="-865.16"
+     x="1420.65"
+     font-family="Gentium Book Basic"
+     line-height="125%"
+     word-spacing="0"
+     letter-spacing="0"
+     id="text347"
+     style="filter:url(#filter6716)">
+    <tspan
+       y="-865.16"
+       x="1420.65"
+       id="tspan349" />
+  </text>
+  <text
+     transform="scale(4.0128.2492)"
+     font-size="46.954"
+     y="-3820.87"
+     x="551.1"
+     font-family="Arial"
+     text-anchor="middle"
+     id="text351"
+     style="filter:url(#filter6720)" />
+  <g
+     font-family="Gentium Book Basic"
+     transform="translate(-690.14 13.618)"
+     line-height="125%"
+     word-spacing="0"
+     letter-spacing="0"
+     id="g353"
+     style="filter:url(#filter6724)">
+    <text
+       y="535.94"
+       x="277.99"
+       font-size="208.33"
+       id="text355">
+      <tspan
+         y="535.94"
+         x="277.99"
+         id="tspan357" />
+    </text>
+    <text
+       y="135.65"
+       x="148.44"
+       font-size="129.23"
+       id="text359">
+      <tspan
+         y="135.65"
+         x="148.44"
+         id="tspan361" />
+    </text>
+  </g>
+  <text
+     transform="scale(4.0128.2492)"
+     font-size="46.954"
+     y="249.85"
+     x="62.09"
+     font-family="Arial"
+     text-anchor="middle"
+     id="text363"
+     style="filter:url(#filter6728)" />
+  <text
+     font-size="129.23"
+     y="69.27"
+     x="39.57"
+     font-family="Gentium Book Basic"
+     line-height="125%"
+     word-spacing="0"
+     letter-spacing="0"
+     id="text365"
+     style="filter:url(#filter6732)">
+    <tspan
+       y="69.27"
+       x="39.57"
+       id="tspan367" />
+  </text>
+  <text
+     transform="scale(4.0128.2492)"
+     font-size="46.954"
+     y="-71.18"
+     x="206.93"
+     font-family="Arial"
+     text-anchor="middle"
+     id="text369"
+     style="filter:url(#filter6736)" />
+  <text
+     font-size="129.23"
+     y="-111.99"
+     x="-1032.01"
+     font-family="Gentium Book Basic"
+     line-height="125%"
+     word-spacing="0"
+     letter-spacing="0"
+     id="text371"
+     style="filter:url(#filter6740)">
+    <tspan
+       y="-111.99"
+       x="-1032.01"
+       id="tspan373" />
+  </text>
+  <text
+     transform="scale(4.0128.2492)"
+     font-size="46.954"
+     y="-798.54"
+     x="-60.1"
+     font-family="Arial"
+     text-anchor="middle"
+     id="text375"
+     style="filter:url(#filter6744)" />
+  <text
+     font-size="129.23"
+     y="-328.46"
+     x="66.04"
+     font-family="Gentium Book Basic"
+     line-height="125%"
+     word-spacing="0"
+     letter-spacing="0"
+     id="text377"
+     style="filter:url(#filter6748)">
+    <tspan
+       y="-328.46"
+       x="66.04"
+       id="tspan379" />
+  </text>
+  <text
+     transform="scale(4.0128.2492)"
+     font-size="46.954"
+     y="-1667.19"
+     x="213.53"
+     font-family="Arial"
+     text-anchor="middle"
+     id="text381"
+     style="filter:url(#filter6752)" />
+  <text
+     font-size="129.23"
+     y="-408.47"
+     x="647.31"
+     font-family="Gentium Book Basic"
+     line-height="125%"
+     word-spacing="0"
+     letter-spacing="0"
+     id="text383"
+     style="filter:url(#filter6756)">
+    <tspan
+       y="-408.47"
+       x="647.31"
+       id="tspan385" />
+  </text>
+  <text
+     transform="scale(4.0128.2492)"
+     font-size="46.954"
+     y="-1988.23"
+     x="358.38"
+     font-family="Arial"
+     text-anchor="middle"
+     id="text387"
+     style="filter:url(#filter6760)" />
+  <text
+     font-size="129.23"
+     y="-880.87"
+     x="258.19"
+     font-family="Gentium Book Basic"
+     line-height="125%"
+     word-spacing="0"
+     letter-spacing="0"
+     id="text389"
+     style="filter:url(#filter6764)">
+    <tspan
+       y="-880.87"
+       x="258.19"
+       id="tspan391" />
+  </text>
+  <text
+     transform="scale(4.0128.2492)"
+     font-size="46.954"
+     y="-3883.87"
+     x="261.41"
+     font-family="Arial"
+     text-anchor="middle"
+     id="text393"
+     style="filter:url(#filter6768)" />
+  <text
+     font-size="129.23"
+     y="-960.87"
+     x="839.45"
+     font-family="Gentium Book Basic"
+     line-height="125%"
+     word-spacing="0"
+     letter-spacing="0"
+     id="text395"
+     style="filter:url(#filter6772)">
+    <tspan
+       y="-960.87"
+       x="839.45"
+       id="tspan397" />
+  </text>
+  <text
+     transform="scale(4.0128.2492)"
+     font-size="46.954"
+     y="-4204.9"
+     x="406.26"
+     font-family="Arial"
+     text-anchor="middle"
+     id="text399"
+     style="filter:url(#filter6776)" />
+  <g
+     font-family="Gentium Book Basic"
+     line-height="125%"
+     word-spacing="0"
+     letter-spacing="0"
+     id="g401"
+     style="filter:url(#filter6780)">
+    <text
+       y="453.85"
+       x="-993.35"
+       font-size="208.33"
+       id="text403">
+      <tspan
+         y="453.85"
+         x="-993.35"
+         id="tspan405" />
+    </text>
+    <text
+       font-size="200"
+       stroke="#555753"
+       y="116.28"
+       x="-575.74"
+       fill="#555753"
+       id="text407">
+      <tspan
+         y="116.28"
+         x="-575.74"
+         id="tspan409" />
+    </text>
+  </g>
+  <g
+     fill="#555753"
+     id="g411"
+     style="filter:url(#filter6784)">
+    <text
+       transform="scale(4.0128.2492)"
+       font-size="72.67"
+       y="-73.74"
+       x="161.54"
+       font-family="Arial"
+       text-anchor="middle"
+       id="text413" />
+    <text
+       font-size="200"
+       stroke="#555753"
+       y="169.43"
+       x="169.64"
+       font-family="Gentium Book Basic"
+       line-height="125%"
+       word-spacing="0"
+       letter-spacing="0"
+       id="text415">
+      <tspan
+         y="169.43"
+         x="169.64"
+         id="tspan417" />
+    </text>
+    <text
+       transform="scale(4.0128.2492)"
+       font-size="72.67"
+       y="139.51"
+       x="347.29"
+       font-family="Arial"
+       text-anchor="middle"
+       id="text419" />
+    <text
+       font-size="200"
+       stroke="#555753"
+       y="45.61"
+       x="1069.25"
+       font-family="Gentium Book Basic"
+       line-height="125%"
+       word-spacing="0"
+       letter-spacing="0"
+       id="text421">
+      <tspan
+         y="45.61"
+         x="1069.25"
+         id="tspan423" />
+    </text>
+    <text
+       transform="scale(4.0128.2492)"
+       font-size="72.67"
+       y="-357.35"
+       x="571.47"
+       font-family="Arial"
+       text-anchor="middle"
+       id="text425" />
+    <text
+       font-size="200"
+       stroke="#555753"
+       y="-7.03"
+       x="197.1"
+       font-family="Gentium Book Basic"
+       line-height="125%"
+       word-spacing="0"
+       letter-spacing="0"
+       id="text427">
+      <tspan
+         y="-7.03"
+         x="197.1"
+         id="tspan429" />
+    </text>
+    <text
+       transform="scale(4.0128.2492)"
+       font-size="72.67"
+       y="-568.58"
+       x="354.13"
+       font-family="Arial"
+       text-anchor="middle"
+       id="text431" />
+    <text
+       font-size="200"
+       stroke="#555753"
+       y="-130.85"
+       x="1096.72"
+       font-family="Gentium Book Basic"
+       line-height="125%"
+       word-spacing="0"
+       letter-spacing="0"
+       id="text433">
+      <tspan
+         y="-130.85"
+         x="1096.72"
+         id="tspan435" />
+    </text>
+    <text
+       transform="scale(4.0128.2492)"
+       font-size="72.67"
+       y="-1065.43"
+       x="578.32"
+       font-family="Arial"
+       text-anchor="middle"
+       id="text437" />
+    <text
+       font-size="200"
+       stroke="#555753"
+       y="444.86"
+       x="-2812.88"
+       font-family="Gentium Book Basic"
+       line-height="125%"
+       word-spacing="0"
+       letter-spacing="0"
+       id="text439">
+      <tspan
+         y="444.86"
+         x="-2812.88"
+         id="tspan441" />
+    </text>
+    <text
+       transform="scale(4.0128.2492)"
+       font-size="72.67"
+       y="1244.76"
+       x="-395.95"
+       font-family="Arial"
+       text-anchor="middle"
+       id="text443" />
+  </g>
+  <text
+     font-size="208.33"
+     y="478.97"
+     x="-957.33"
+     font-family="Gentium Book Basic"
+     line-height="125%"
+     word-spacing="0"
+     letter-spacing="0"
+     id="text445"
+     style="filter:url(#filter6788)">
+    <tspan
+       y="478.97"
+       x="-957.33"
+       id="tspan447" />
+  </text>
+  <text
+     transform="scale(4.0128.2492)"
+     font-size="75.7"
+     y="1359.15"
+     x="79.16"
+     font-family="Arial"
+     text-anchor="middle"
+     id="text449"
+     style="filter:url(#filter6792)" />
+  <g
+     transform="translate(.001-.003)"
+     fill="#654641"
+     id="g451"
+     style="filter:url(#filter6796)">
+    <text
+       transform="scale(1.05082.95163)"
+       font-size="84.77"
+       y="221.3"
+       x="681.22"
+       font-family="Gentium Book Basic"
+       line-height="125%"
+       word-spacing="0"
+       letter-spacing="0"
+       id="text453">
+      <tspan
+         y="221.3"
+         x="681.22"
+         id="tspan455" />
+    </text>
+    <text
+       transform="scale(4.21679.23715)"
+       font-size="30.8"
+       y="659.01"
+       x="299.04"
+       font-family="Arial"
+       text-anchor="middle"
+       id="text457" />
+    <text
+       transform="scale(1.05082.95163)"
+       font-size="45.38"
+       y="197.8"
+       x="949.03"
+       font-family="Gentium Book Basic"
+       line-height="125%"
+       word-spacing="0"
+       letter-spacing="0"
+       id="text459">
+      <tspan
+         y="197.8"
+         x="949.03"
+         id="tspan461" />
+    </text>
+    <text
+       transform="scale(4.21679.23715)"
+       font-size="16.488"
+       y="671.14"
+       x="305.7"
+       font-family="Arial"
+       text-anchor="middle"
+       id="text463" />
+    <text
+       font-size="132.57"
+       y="290.09"
+       x="-25.07"
+       font-family="Gentium Book Basic"
+       line-height="125%"
+       word-spacing="0"
+       letter-spacing="0"
+       id="text465">
+      <tspan
+         y="290.09"
+         x="-25.07"
+         id="tspan467" />
+    </text>
+    <text
+       transform="scale(4.0128.2492)"
+       font-size="48.17"
+       y="805.88"
+       x="195.94"
+       font-family="Arial"
+       text-anchor="middle"
+       id="text469" />
+  </g>
+  <g
+     transform="translate(.001-.003)"
+     id="g471"
+     style="filter:url(#filter6800)">
+    <g
+       font-family="Gentium Book Basic"
+       line-height="125%"
+       font-size="208.33"
+       word-spacing="0"
+       letter-spacing="0"
+       id="g473">
+      <text
+         y="270.21"
+         x="237.18"
+         id="text475">
+        <tspan
+           y="270.21"
+           x="237.18"
+           id="tspan477" />
+      </text>
+      <text
+         y="112.37"
+         x="-55.893"
+         id="text479">
+        <tspan
+           y="112.37"
+           x="-55.893"
+           id="tspan481" />
+      </text>
+    </g>
+    <g
+       fill-opacity="0.078"
+       id="g483">
+      <path
+         d="m32.554 0c-4.774 0-8.59 3.266-8.59 7.313v497.38c0 4.047 3.816 7.313 8.59 7.313h446.89c4.774 0 8.59-3.266 8.59-7.313v-497.38c0-4.047-3.816-7.313-8.59-7.313h-446.89"
+         id="path485" />
+      <path
+         d="m35.614 3.5c-4.709 0-8.479 3.196-8.479 7.188v490.62c0 3.991 3.771 7.188 8.479 7.188h440.77c4.709 0 8.479-3.196 8.479-7.188v-490.62c0-3.991-3.771-7.188-8.479-7.188h-440.78"
+         id="path487" />
+      <path
+         d="m38.674 7c-4.643 0-8.369 3.158-8.369 7.094v483.82c0 3.936 3.725 7.094 8.369 7.094h434.65c4.643 0 8.369-3.158 8.369-7.094v-483.81c0-3.936-3.725-7.094-8.369-7.094h-434.65"
+         id="path489" />
+    </g>
+  </g>
+  <g
+     id="g491"
+     style="filter:url(#filter6804)">
+    <path
+       d="m41.735 10.497c-4.578 0-8.258 3.119-8.258 7v477c0 3.881 3.68 7 8.258 7h428.53c4.578 0 8.258-3.119 8.258-7v-477c0-3.881-3.68-7-8.258-7h-428.54"
+       fill="#e4b033"
+       id="path493" />
+    <path
+       d="m33.47 255.75v238.75c0 3.881 3.672 7 8.25 7h214.34v-245.75h-222.59"
+       fill="#20a9bc"
+       id="path495" />
+    <path
+       d="m256.06 10.497v245.25h222.47v-238.25c0-3.881-3.672-7-8.25-7h-214.22"
+       fill="#98d53b"
+       id="path497" />
+    <path
+       d="m41.72 10.497c-4.578 0-8.25 3.119-8.25 7v238.25h222.59v-245.25h-214.34"
+       fill="#fb4e26"
+       id="path499" />
+  </g>
+  <g
+     transform="translate(.001-.003)"
+     fill="#654641"
+     id="g501"
+     style="filter:url(#filter6808)">
+    <text
+       transform="scale(1.05082.95163)"
+       font-size="84.77"
+       y="185.78"
+       x="119.84"
+       font-family="Gentium Book Basic"
+       line-height="125%"
+       word-spacing="0"
+       letter-spacing="0"
+       id="text503">
+      <tspan
+         y="185.78"
+         x="119.84"
+         id="tspan505" />
+    </text>
+    <text
+       transform="scale(4.21679.23715)"
+       font-size="30.8"
+       y="516.46"
+       x="159.14"
+       font-family="Arial"
+       text-anchor="middle"
+       id="text507" />
+    <text
+       transform="scale(1.05082.95163)"
+       font-size="45.38"
+       y="162.28"
+       x="387.65"
+       font-family="Gentium Book Basic"
+       line-height="125%"
+       word-spacing="0"
+       letter-spacing="0"
+       id="text509">
+      <tspan
+         y="162.28"
+         x="387.65"
+         id="tspan511" />
+    </text>
+    <text
+       transform="scale(4.21679.23715)"
+       font-size="16.488"
+       y="528.59"
+       x="165.81"
+       font-family="Arial"
+       text-anchor="middle"
+       id="text513" />
+    <text
+       font-size="132.57"
+       y="256.28"
+       x="-614.98"
+       font-family="Gentium Book Basic"
+       line-height="125%"
+       word-spacing="0"
+       letter-spacing="0"
+       id="text515">
+      <tspan
+         y="256.28"
+         x="-614.98"
+         id="tspan517" />
+    </text>
+    <text
+       transform="scale(4.0128.2492)"
+       font-size="48.17"
+       y="670.22"
+       x="48.929"
+       font-family="Arial"
+       text-anchor="middle"
+       id="text519" />
+  </g>
+  <g
+     transform="translate(.001-.003)"
+     id="g521"
+     style="filter:url(#filter6812)">
+    <g
+       font-family="Gentium Book Basic"
+       line-height="125%"
+       word-spacing="0"
+       letter-spacing="0"
+       id="g523">
+      <g
+         font-size="208.33"
+         id="g525">
+        <text
+           y="236.4"
+           x="-352.73"
+           id="text527">
+          <tspan
+             y="236.4"
+             x="-352.73"
+             id="tspan529" />
+        </text>
+        <text
+           y="78.57"
+           x="-645.81"
+           id="text531">
+          <tspan
+             y="78.57"
+             x="-645.81"
+             id="tspan533" />
+        </text>
+      </g>
+      <text
+         transform="scale(1.05082.95163)"
+         font-size="84.77"
+         y="181.15"
+         x="89.53"
+         fill="#654641"
+         id="text535">
+        <tspan
+           y="181.15"
+           x="89.53"
+           id="tspan537" />
+      </text>
+    </g>
+    <g
+       fill="#654641"
+       id="g539">
+      <text
+         transform="scale(4.21679.23715)"
+         font-size="30.8"
+         y="497.89"
+         x="151.59"
+         font-family="Arial"
+         text-anchor="middle"
+         id="text541" />
+      <text
+         transform="scale(1.05082.95163)"
+         font-size="45.38"
+         y="157.65"
+         x="357.34"
+         font-family="Gentium Book Basic"
+         line-height="125%"
+         word-spacing="0"
+         letter-spacing="0"
+         id="text543">
+        <tspan
+           y="157.65"
+           x="357.34"
+           id="tspan545" />
+      </text>
+      <text
+         transform="scale(4.21679.23715)"
+         font-size="16.488"
+         y="510.03"
+         x="158.26"
+         font-family="Arial"
+         text-anchor="middle"
+         id="text547" />
+      <text
+         font-size="132.57"
+         y="251.88"
+         x="-646.83"
+         font-family="Gentium Book Basic"
+         line-height="125%"
+         word-spacing="0"
+         letter-spacing="0"
+         id="text549">
+        <tspan
+           y="251.88"
+           x="-646.83"
+           id="tspan551" />
+      </text>
+      <text
+         transform="scale(4.0128.2492)"
+         font-size="48.17"
+         y="652.56"
+         x="40.993"
+         font-family="Arial"
+         text-anchor="middle"
+         id="text553" />
+    </g>
+  </g>
+  <path
+     opacity="0.25"
+     d="m398.32 99.81l-75.69 15.02c-41.632 8.261-79.08 15.688-83.22 16.504l-7.531 1.482-0.02 16.994-14.14-14.14-0.701 0.127c-0.385 0.094-23.822 4.708-52.08 10.305l-51.37 10.176-0.002 47.04-0.004 47.04 11.586 11.586c-1.759-0.017-9.319-0.105-9.607-0.104h-1.979v93.938l145.73 145.73h210.99c4.578 0 8.258-3.119 8.258-7v-314.48l-80.21-80.21"
+     id="path555"
+     style="filter:url(#filter6816)" />
+  <path
+     d="m398.28 372.72c0.094-21.718 0.17-54.86 0.17-73.65v-34.17h-0.83c-0.456 0-36.39-0.4-79.84-0.888-43.46-0.488-80.59-0.888-82.52-0.888h-3.51v58.08c0 31.945 0.031 58.08 0.073 58.09 0.042 0 37.29 7.401 82.78 16.439 45.49 9.04 82.9 16.447 83.12 16.46 0.362 0.01 0.415-3.662 0.57-39.467zm-180.75-52.984c0.083-31.2 0.135-56.745 0.105-56.768-0.063 0-98.97-1.15-102.11-1.138h-1.978v93.937l0.574 0.147c0.449 0.107 102.49 20.426 103.1 20.522 0.083 0.021 0.222-25.501 0.31-56.7m-49.857-69.899c23.519-0.274 44.4-0.498 46.4-0.507h3.638v-113.67l-0.702 0.127c-0.385 0.094-23.821 4.709-52.08 10.306l-51.38 10.175-0.001 47.04-0.004 47.04h5.68c3.127-0.006 24.925-0.233 48.44-0.509zm150.6-1.661c44.01-0.488 80.05-0.928 80.1-0.979 0.051 0 0.051-33.23 0.021-73.74l-0.074-73.65-75.69 15.02c-41.632 8.261-79.08 15.687-83.22 16.503l-7.531 1.483-0.073 58.13-0.073 58.13h3.256c1.801-0.001 39.27-0.403 83.28-0.897z"
+     fill="#fff"
+     id="path557"
+     style="filter:url(#filter6820)" />
+  <text
+     font-size="129.23"
+     y="31.744"
+     x="-60.981"
+     font-family="Gentium Book Basic"
+     line-height="125%"
+     word-spacing="0"
+     letter-spacing="0"
+     id="text559"
+     style="filter:url(#filter6824)">
+    <tspan
+       y="31.744"
+       x="-60.981"
+       id="tspan561" />
+  </text>
+  <text
+     transform="scale(4.0128.2492)"
+     font-size="46.954"
+     y="-221.78"
+     x="181.88"
+     font-family="Arial"
+     text-anchor="middle"
+     id="text563"
+     style="filter:url(#filter6828)" />
+  <text
+     font-size="129.23"
+     y="-48.26"
+     x="520.29"
+     font-family="Gentium Book Basic"
+     line-height="125%"
+     word-spacing="0"
+     letter-spacing="0"
+     id="text565"
+     style="filter:url(#filter6832)">
+    <tspan
+       y="-48.26"
+       x="520.29"
+       id="tspan567" />
+  </text>
+  <text
+     transform="scale(4.0128.2492)"
+     font-size="46.954"
+     y="-542.81"
+     x="326.73"
+     font-family="Arial"
+     text-anchor="middle"
+     id="text569"
+     style="filter:url(#filter6836)" />
+  <text
+     font-size="129.23"
+     y="-229.52"
+     x="-551.29"
+     font-family="Gentium Book Basic"
+     line-height="125%"
+     word-spacing="0"
+     letter-spacing="0"
+     id="text571"
+     style="filter:url(#filter6840)">
+    <tspan
+       y="-229.52"
+       x="-551.29"
+       id="tspan573" />
+  </text>
+  <text
+     transform="scale(4.0128.2492)"
+     font-size="46.954"
+     y="-1270.16"
+     x="59.695"
+     font-family="Arial"
+     text-anchor="middle"
+     id="text575"
+     style="filter:url(#filter6844)" />
+  <text
+     font-size="129.23"
+     y="-445.99"
+     x="546.76"
+     font-family="Gentium Book Basic"
+     line-height="125%"
+     word-spacing="0"
+     letter-spacing="0"
+     id="text577"
+     style="filter:url(#filter6848)">
+    <tspan
+       y="-445.99"
+       x="546.76"
+       id="tspan579" />
+  </text>
+  <text
+     transform="scale(4.0128.2492)"
+     font-size="46.954"
+     y="-2138.83"
+     x="333.33"
+     font-family="Arial"
+     text-anchor="middle"
+     id="text581"
+     style="filter:url(#filter6852)" />
+  <text
+     font-size="129.23"
+     y="-526"
+     x="1128.03"
+     font-family="Gentium Book Basic"
+     line-height="125%"
+     word-spacing="0"
+     letter-spacing="0"
+     id="text583"
+     style="filter:url(#filter6856)">
+    <tspan
+       y="-526"
+       x="1128.03"
+       id="tspan585" />
+  </text>
+  <text
+     transform="scale(4.0128.2492)"
+     font-size="46.954"
+     y="-2459.87"
+     x="478.18"
+     font-family="Arial"
+     text-anchor="middle"
+     id="text587"
+     style="filter:url(#filter6860)" />
+  <text
+     font-size="129.23"
+     y="-998.4"
+     x="738.91"
+     font-family="Gentium Book Basic"
+     line-height="125%"
+     word-spacing="0"
+     letter-spacing="0"
+     id="text589"
+     style="filter:url(#filter6864)">
+    <tspan
+       y="-998.4"
+       x="738.91"
+       id="tspan591" />
+  </text>
+  <text
+     transform="scale(4.0128.2492)"
+     font-size="46.954"
+     y="-4355.52"
+     x="381.21"
+     font-family="Arial"
+     text-anchor="middle"
+     id="text593"
+     style="filter:url(#filter6868)" />
+  <text
+     font-size="129.23"
+     y="-1078.4"
+     x="1320.17"
+     font-family="Gentium Book Basic"
+     line-height="125%"
+     word-spacing="0"
+     letter-spacing="0"
+     id="text595"
+     style="filter:url(#filter6872)">
+    <tspan
+       y="-1078.4"
+       x="1320.17"
+       id="tspan597" />
+  </text>
+  <text
+     transform="scale(4.0128.2492)"
+     font-size="46.954"
+     y="-4676.55"
+     x="526.06"
+     font-family="Arial"
+     text-anchor="middle"
+     id="text599"
+     style="filter:url(#filter6876)" />
+  <text
+     font-size="208.33"
+     y="336.32"
+     x="-512.63"
+     font-family="Gentium Book Basic"
+     line-height="125%"
+     word-spacing="0"
+     letter-spacing="0"
+     id="text601"
+     style="filter:url(#filter6880)">
+    <tspan
+       y="336.32"
+       x="-512.63"
+       id="tspan603" />
+  </text>
+</svg>

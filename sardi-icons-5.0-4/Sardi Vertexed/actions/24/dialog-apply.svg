@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="24" height="24" version="1.0">
+ <defs id="defs4">
+  <linearGradient id="StandardGradient" gradientTransform="scale(0.9219544,1.0846523)" y1="0.922" x2="0" y2="19.387" gradientUnits="userSpaceOnUse">
+   <stop id="stop3283" stop-opacity="0.235"/>
+   <stop id="stop3850" offset="0.7" stop-opacity="0.392"/>
+   <stop offset="1" id="stop2651" stop-opacity="0.55"/>
+  </linearGradient>
+  <radialGradient inkscape:collect="always" xlink:href="#StandardGradient" id="radialGradient3857" cx="12" cy="12.447" r="6" gradientTransform="matrix(2.6666667,-9.1385016e-8,5.7115635e-8,1.6666667,-50.000001,-7.7456132)" gradientUnits="userSpaceOnUse"/>
+  <linearGradient id="StandardGradient-5" gradientTransform="scale(1.1310246,0.8841541)" y1="5.655" x2="0" y2="18.1" gradientUnits="userSpaceOnUse">
+   <stop id="stop3280" stop-opacity="0.863"/>
+   <stop offset="1" id="stop3282" stop-opacity="0.471"/>
+  </linearGradient>
+  <radialGradient inkscape:collect="always" xlink:href="#StandardGradient" id="radialGradient3872" cx="12" cy="13.518" r="7.04" gradientTransform="matrix(2.2741188,0,0,0.99492699,-14.289091,-1.4496258)" gradientUnits="userSpaceOnUse"/>
+  <radialGradient inkscape:collect="always" xlink:href="#StandardGradient" id="radialGradient3878" gradientUnits="userSpaceOnUse" gradientTransform="matrix(2.2741188,0,0,0.99492699,-15.289426,-0.44926994)" cx="12" cy="13.518" r="7.04"/>
+ </defs>
+ <metadata id="metadata7"/>
+ <g inkscape:label="Calque 1" id="layer1" inkscape:groupmode="layer" transform="translate(0,2)">
+  <path sodipodi:nodetypes="cccccccccccc" id="path3866" d="m 16.024844,6.9371442 c 0,1.671128 -0.313247,2.03125 -1.984374,2.03125 l -2.968752,0 0,-2.96875 -6.0713835,4.5624998 6.0713835,4.4375 0,-3 5.000001,0 c 1.662001,0 3,-1.338 3,-2.9999998 l 0,-5 -3.046875,0 z" inkscape:connector-curvature="0" fill="url(#radialGradient3872)"/>
+  <path inkscape:connector-curvature="0" d="m 15.812836,2.9683937 a 1.0437574,1.0437574 0 0 0 -0.8125,1.03125 l 0,2.9375 c 0,0.7671015 -0.146295,0.9602055 -0.09375,0.90625 0.05255,-0.053956 -0.114404,0.09375 -0.875,0.09375 l -1.937501,0 0,-1.9375 a 1.0437574,1.0437574 0 0 0 -1.65625,-0.84375 L 4.3753345,9.7183942 a 1.0437574,1.0437574 0 0 0 0,1.6874998 l 6.0625005,4.4375 a 1.0437574,1.0437574 0 0 0 1.65625,-0.84375 l 0,-1.96875 3.968751,0 c 2.222132,0 4.03125,-1.809119 4.03125,-4.0312503 l 0,-5 a 1.0437574,1.0437574 0 0 0 -1.03125,-1.03125 l -3.03125,0 a 1.0437574,1.0437574 0 0 0 -0.21875,0 z m 0.21875,1.03125 3.03125,0 0,5 c 0,1.6620003 -1.337999,3.0000003 -3,3.0000003 l -5.000001,0 0,3 -6.0625005,-4.4375 6.0625005,-4.5625003 0,2.96875 2.968751,0 c 1.671127,0 2,-0.3601218 2,-2.03125 l 0,-2.9375 z" id="path5226" opacity="0.05" fill="#ffffff"/>
+  <path inkscape:connector-curvature="0" d="m 16.031586,3.9996437 0,1 3.03125,0 0,-1 -3.03125,0 z m -4.968751,2 -6.0625005,4.5625003 0.6875,0.5 5.3750005,-4.0625003 0,-1 z m 4.968751,0.9375 c 0,1.6711282 -0.328873,2.03125 -2,2.03125 l -2.968751,0 0,1.0000005 2.968751,0 c 1.671127,0 2,-0.360122 2,-2.0312505 l 0,-1 z" id="BevelShadow" inkscape:label="#path3175" opacity="0.3"/>
+  <path d="m 16.031585,3.9996442 0,2.9375 c 0,1.671128 -0.328873,2.03125 -2,2.03125 l -2.96875,0 0,-2.96875 -6.0625005,4.5624998 6.0625005,4.4375 0,-3 5,0 c 1.662001,0 3,-1.338 3,-2.9999998 l 0,-5 -3.03125,0 z m 0.5,0.5 2.03125,0 0,4.5 c 0,1.3871658 -1.112833,2.4999998 -2.5,2.4999998 l -5,0 a 0.51213033,0.51213033 0 0 0 -0.5,0.5 l 0,2 -4.6875005,-3.4375 4.6875005,-3.5312498 0,1.9375 a 0.51213033,0.51213033 0 0 0 0.5,0.5 l 2.96875,0 c 0.872347,0 1.540273,-0.05919 2,-0.53125 0.459727,-0.4720642 0.5,-1.1308441 0.5,-2 l 0,-2.4375 z" id="path3874" inkscape:connector-curvature="0" opacity="0.3"/>
+  <path inkscape:connector-curvature="0" d="m 19.062836,8.9996437 c 0,1.6620003 -1.337999,3.0000003 -3,3.0000003 l -5.000001,0 0,1 5.000001,0 c 1.662001,0 3,-1.338 3,-2.9999998 l 0,-1.0000005 z m -14.0625015,1.5625003 0,1 6.0625005,4.4375 0,-1 -6.0625005,-4.4375 z" id="BevelHighlight" inkscape:label="#path3182" opacity="0.2" fill="#ffffff"/>
+ </g>
+</svg>

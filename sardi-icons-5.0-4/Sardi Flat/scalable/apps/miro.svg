@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" height="512" viewBox="0 0 512 512" width="512" version="1.1" id="svg244" inkscape:version="0.91 r" sodipodi:docname="miro.svg">
+<defs id="defs259" />
+<sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="640" inkscape:window-height="480" id="namedview257" showgrid="false" inkscape:zoom="0.4609375" inkscape:cx="256" inkscape:cy="256" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="0" inkscape:current-layer="svg244" />
+<metadata id="metadata74">
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<path style="fill:#9a3034;fill-rule:evenodd" inkscape:connector-curvature="0" d="m 471.95,253.05 c 0,120.9 -98.01,218.9 -218.9,218.9 -120.9,0 -218.9,-98.01 -218.9,-218.9 0,-120.9 98.01,-218.9 218.9,-218.9 120.9,0 218.9,98.01 218.9,218.9" id="path6" />
+<path style="fill:#ffffff" inkscape:connector-curvature="0" d="m 299.52,129.15 c -42.474,0.166 -86.89,23.14 -119.52,50.24 -33,27.476 -50.647,60.46 -74.1,96.32 l -9.57,19.769 c 83.55,89.41 169.7,97.24 217.64,68.3 33.29,-20.1 52.16,-48.49 62.24,-84.74 8.175,-29.398 13.539,-63.944 10.147,-103.41 -23.937,-33.775 -54.834,-46.61 -86.84,-46.49 m -114.52,74.57 114.52,0 c 17.486,0 31.567,14.08 31.567,31.567 l 0,38.83 c 0,1.433 -0.105,2.84 -0.288,4.221 l 0,27.346 -32.538,0 0,-67.43 c 0,-6.474 -5.193,-11.693 -11.667,-11.693 -6.474,0 -11.693,5.219 -11.693,11.693 l 0,67.43 -32.957,0 0,-67.43 c 0,-6.474 -5.219,-11.693 -11.694,-11.693 -6.474,0 -11.693,5.219 -11.693,11.693 l 0,67.43 -33.56,0 z" id="path68" />
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" height="512" viewBox="0 0 512 512" width="512" version="1.1" id="svg2" inkscape:version="0.91 r" sodipodi:docname="cs-desktop.svg">
+<sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="640" inkscape:window-height="480" id="namedview26" showgrid="false" inkscape:zoom="0.4609375" inkscape:cx="218.0339" inkscape:cy="256" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="0" inkscape:current-layer="svg2" />
+<metadata id="metadata581">
+<rdf:RDF>
+<cc:Work rdf:about="">
+<dc:format>image/svg+xml</dc:format>
+<dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+<dc:title></dc:title>
+</cc:Work>
+</rdf:RDF>
+</metadata>
+<defs id="defs4">
+<linearGradient id="0" y1="33.753" x2="0" y2="471.66" gradientUnits="userSpaceOnUse">
+<stop id="stop7" stop-color="#6a6a6a" />
+<stop id="stop9" offset="0.47" />
+<stop id="stop11" stop-color="#fff" offset="0.494" />
+<stop id="stop13" stop-color="#fff" offset="0.901" />
+<stop id="stop15" offset="0.955" />
+<stop id="stop17" offset="1" />
+</linearGradient>
+</defs>
+<g id="g463" transform="matrix(1.6441581,0,0,1.6441581,-164.44312,-144.69778)" style="color:#000000;fill:#ffffff">
+<path id="path465" d="m 124.37,313.87 0,52.64 262.7,0 0,-52.64 -262.7,0 m 49.38,11.753 c 8.532,0 15.449,6.917 15.449,15.449 0,8.532 -6.917,15.449 -15.449,15.449 -8.532,0 -15.449,-6.917 -15.449,-15.449 0,-8.532 6.917,-15.449 15.449,-15.449 m 54.671,0 c 8.532,0 15.449,6.917 15.449,15.449 0,8.532 -6.917,15.449 -15.449,15.449 -8.532,0 -15.449,-6.917 -15.449,-15.449 0,-8.532 6.917,-15.449 15.449,-15.449 m 54.638,0 c 8.532,0 15.449,6.917 15.449,15.449 0,8.532 -6.917,15.449 -15.449,15.449 -8.532,0 -15.449,-6.917 -15.449,-15.449 0,-8.532 6.917,-15.449 15.449,-15.449 m 54.638,0 c 8.532,0 15.449,6.917 15.449,15.449 0,8.532 -6.917,15.449 -15.449,15.449 -8.532,0 -15.449,-6.917 -15.449,-15.449 0,-8.532 6.917,-15.449 15.449,-15.449" inkscape:connector-curvature="0" />
+<path id="path467" d="m 157.2,151.34 0,125.2 207.5,0 0,-125.2 -207.5,0" inkscape:connector-curvature="0" />
+<path id="path469" d="m 157.19,120.91 207.51,0 0,17.293 -207.51,0 z" inkscape:connector-curvature="0" />
+</g>
+</svg>
