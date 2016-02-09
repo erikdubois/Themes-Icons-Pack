@@ -19,7 +19,7 @@
 # S A R D I
 # from sourceforge 
 
-wget http://downloads.sourceforge.net/project/sardi/sardi-icons-5.0-4.tar.gz
+wget http://downloads.sourceforge.net/project/sardi/sardi-icons-5.0-4.tar.gz -p /tmp/sardi
 tar -zxvf /tmp/sardi/sardi-icons-5.0-4.tar.gz
 mkdir ~/.icons/
 cp -r /tmp/sardi/sardi-icons-5.0-4/* ~/.icons/
