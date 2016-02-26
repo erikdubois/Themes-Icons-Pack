@@ -353,6 +353,14 @@ This theme has been adapted to be softer on the eyes. Background of file-manager
 ![Screenshots](http://i.imgur.com/9pyyWta.jpg)
 
 
+# 16. Pinbadge
+
+144 icons only for apps - osx look 
+
+
+![Screenshots](http://i.imgur.com/RCVnSFB.jpg)
+
+
 # Uniform
 
 Not usable. No script to install.
