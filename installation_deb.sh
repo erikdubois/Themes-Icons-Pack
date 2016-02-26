@@ -76,6 +76,14 @@ cp -r /tmp/Yltra-Flat/* ~/.icons/
 # S A R D I
 # from sourceforge 
 
+<<<<<<< HEAD
+=======
+wget http://downloads.sourceforge.net/project/sardi/sardi-icons-5.0-4.tar.gz
+tar -zxvf /tmp/sardi/sardi-icons-5.0-4.tar.gz
+mkdir ~/.icons/
+cp -r /tmp/sardi/sardi-icons-5.0-4/* ~/.icons/
+
+>>>>>>> dcf43beb82165b4822802f0689a91c88433be1b5
 
 
 
@@ -110,11 +118,15 @@ sudo add-apt-repository ppa:moka/stable -y
 sudo apt-get update
 sudo apt-get install moka-icon-theme -y
 
+<<<<<<< HEAD
 # D A L I S H A
 
 git clone https://github.com/manson9/dalisha-icon-theme /tmp/Dalisha
 mkdir ~/.icons/Dalisha
 cp -r /tmp/Dalisha/Dalisha/* ~/.icons/Dalisha
+=======
+
+>>>>>>> dcf43beb82165b4822802f0689a91c88433be1b5
 
 # C O M P A S S 
 
