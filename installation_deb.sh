@@ -138,6 +138,11 @@ sh icons-dalisha-latest.sh
 
 sh icons-compass-latest.sh
 
+# 12. vertex icons
+# from github
+
+sh icons-vertex-latest.sh
+
 
 echo "#####################################################"
 echo "#####################################################"

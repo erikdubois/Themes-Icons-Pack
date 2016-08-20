@@ -299,14 +299,15 @@ Inherits from Moka !!
 
 https://github.com/horst3180/vertex-icons
 
-![Screenshots](http://i.imgur.com/FSjiUN8.jpg)
+![Screenshots](http://i.imgur.com/Xj1Aro5.jpg)
 
 
 
-![Screenshots]()
 
 
 # THEMES
+
+
 
 
 
