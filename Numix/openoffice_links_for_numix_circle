@@ -1,7 +1,0 @@
-ln -s ooo-base.svg openoffice4-base.svg
-ln -s ooo-calc.svg openoffice4-calc.svg
-ln -s ooo-draw.svg openoffice4-draw.svg
-ln -s ooo-impress.svg openoffice4-impress.svg
-ln -s ooo-math.svg openoffice4-math.svg
-ln -s ooo-printeradmin.svg openoffice4-printeradmin.svg
-ln -s ooo-writer.svg openoffice4-writer.svg
