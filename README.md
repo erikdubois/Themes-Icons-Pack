@@ -1,6 +1,6 @@
-# themes-icons-pack
+# Themes Icons Pack
 
-Versie : 3
+The idea is to gather all great icon themes and desktop themes that work on a Linux Mint system but often also work on other systems.
 
 Updated   : 20/08/2016
 
