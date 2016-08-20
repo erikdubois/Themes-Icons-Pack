@@ -35,7 +35,7 @@ As a rule of thumb I will install themes from github and other preferably in the
 
 	Beware cursors will be copied to ~/.themes
 
-If provided with a deb, tar.gz or a script the installation end up in 
+If provided with a deb, tar.gz or a script the installation ends up in 
 
 	/usr/share/themes
 
@@ -46,8 +46,6 @@ Remove manually if you have already an older/adapted version.
 
 
 It is up to you to activate them.
-
-I will preferably use an repository but if it is not available, make a script.
 
 
 
@@ -134,6 +132,8 @@ https://github.com/NitruxSA/flattr-icons
 
 ![Screenshots](http://i.imgur.com/uMmEWxo.png)
 
+![Screenshots](http://i.imgur.com/fVPpMDo.jpg)
+
 
 
 
@@ -142,16 +142,24 @@ https://github.com/NitruxSA/flattr-icons
 
 https://github.com/daniruiz/Super-Flat-Remix
 
+
 ![Screenshots](http://i.imgur.com/2aMjF19.jpg)
 
 
 ![Screenshots](http://i.imgur.com/3b0T4om.jpg)
 
 
+![Screenshots](http://i.imgur.com/wd7JnGW.png)
+
+
+
 
 #7. Ultra flat icons
 
 blue, green, orange and orange bright
+
+![Screenshots](http://i.imgur.com/9M2gce8.jpg)
+
 
 This icon set among others has been used to arrive at my own icon set : 
 

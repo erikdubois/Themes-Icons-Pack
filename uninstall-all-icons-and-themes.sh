@@ -63,7 +63,7 @@ echo "THIS WILL UNINSTALL ALL ICONS, THEMES AND REPOSITORIES."
 rm -rf ~/.icons/*
 
 sudo apt-get remove ultra-flat-icons ultra-flat-icons-green ultra-flat-icons-orange -y
-sudo apt-get remove numix-icon-theme numix-icon-theme-circle moka-faba-mono-icons faba-icon-theme -y
+sudo apt-get remove numix-icon-theme numix-icon-theme-circle moka-icon-theme faba-mono-icons faba-icon-theme -y
 
 sudo rm -rf /usr/share/icons/Moka
 sudo rm -rf /usr/share/icons/Dalisha
@@ -90,8 +90,10 @@ sudo apt-get remove moka-gtk-theme dalisha-icons -y
 sudo add-apt-repository --remove ppa:numix/ppa -y
 sudo add-apt-repository --remove ppa:moka/daily -y
 sudo add-apt-repository --remove ppa:ravefinity-project/ppa -y
-sudo add-apt-repository --remove ppa:noobslab/themes -y
-sudo add-apt-repository --remove ppa:noobslab/icons -y
+sudo rm /ect/apt/sources.list.d/vertex-theme.list
+
+
+
 
 
 sudo apt-get update

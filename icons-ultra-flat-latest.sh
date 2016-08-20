@@ -54,11 +54,21 @@
 #
 ##################################################################################################################
 
+#blue
+wget -O /tmp/Ultra-Flat.deb https://launchpad.net/~noobslab/+archive/ubuntu/icons/+files/ultra-flat-icons_1.3.2~trusty~Noobslab.com_all.deb
+sudo dpkg -i /tmp/Ultra-Flat.deb
+rm -rf /tmp/Ultra-Flat.deb
 
+#orange
+wget -O /tmp/Ultra-Flat-Orange.deb https://launchpad.net/~noobslab/+archive/ubuntu/icons/+files/ultra-flat-icons-orange_1.3.2~trusty~Noobslab.com_all.deb
+sudo dpkg -i /tmp/Ultra-Flat-Orange.deb
+rm -rf /tmp/Ultra-Flat-Orange.deb
 
-sudo add-apt-repository ppa:noobslab/icons -y
-sudo apt-get update
-sudo apt-get install ultra-flat-icons ultra-flat-icons-green ultra-flat-icons-orange
+#green
+wget -O /tmp/Ultra-Flat-Green.deb https://launchpad.net/~noobslab/+archive/ubuntu/icons/+files/ultra-flat-icons-green_1.3.2~trusty~Noobslab.com_all.deb
+sudo dpkg -i /tmp/Ultra-Flat-Green.deb
+rm -rf /tmp/Ultra-Flat-Green.deb
+
 
 echo "################################################################"
 echo "###################    T H E   E N D      ######################"
