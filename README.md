@@ -27,6 +27,7 @@ or on Archlinux install git with this command
 
 Now you can use the command git clone in the terminal and run scripts.
 
+As a rule of thumb I will install themes from github and other preferably in the home folder.
 
 	Beware themes will be copied to ~/.themes
 
@@ -34,8 +35,12 @@ Now you can use the command git clone in the terminal and run scripts.
 
 	Beware cursors will be copied to ~/.themes
 
+If provided with a deb, tar.gz or a script the installation end up in 
 
-BUT they will not be overwritten!!
+	/usr/share/themes
+
+	/usr/share/icons
+
 
 Remove manually if you have already an older/adapted version.
 
