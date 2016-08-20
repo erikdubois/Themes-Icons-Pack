@@ -2,14 +2,17 @@
 
 Versie : 3
 
-Date   : 06/02/2016
+Updated   : 20/08/2016
 
-Two scripts
+Tried on Linux Mint 18 Cinnamon
 
 
-_deb is for ubuntu, linux mint, elementary and all derivatives using apt-get
+#Two scripts
 
-_archlinux is for Archlinux and all derivatives using pacman and packer (yaourt)
+
+	1. _deb is for ubuntu, linux mint, elementary and all derivatives using apt-get
+
+	2. _archlinux is for Archlinux and all derivatives using pacman and packer (yaourt)
 
 Check if you have git installed else for deb based distro's
 
@@ -22,13 +25,16 @@ or on Archlinux
 
 Now you can use the command git clone in the terminal and run scripts.
 
-Beware themes will be copied to ~/.themes
 
-Beware icons will be copied to ~/.icons
+	Beware themes will be copied to ~/.themes
 
-Beware cursors will be copied to ~/.themes
+	Beware icons will be copied to ~/.icons
+
+	Beware cursors will be copied to ~/.themes
+
 
 BUT they will not be overwritten!!
+
 Remove manually if you have already an older/adapted version.
 
 
@@ -44,6 +50,9 @@ http://sourceforge.net/projects/sardi/
 
 <b>Download, unzip and put in .icons folder</b>
 
+or run this script and <b>delete the sardi icons first!</b>
+
+	icons-sardi-latest.sh
 
 
 
