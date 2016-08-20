@@ -68,15 +68,14 @@ sudo apt-get install git -y
 
 
 
-# S A R D I
+# sardi
 # from sourceforge 
 
 sh icons-sardi-latest.sh
 
-# Yltra Flat
-git clone https://github.com/erikdubois/Yltra-Flat /tmp/Yltra-Flat
-cp -r /tmp/Yltra-Flat/* ~/.icons/
-
+# Super Ultra Flat Numix Remix
+# from github
+sh icons-super-ultra-flat-numix-latest.sh
 
 
 

@@ -79,6 +79,29 @@ to get these sardi icons. 18 icons sets in one.
 Numix is used as a fall-back icon theme for Sardi icon theme. So you should install it. Whenever an icons is not yet made in Sardi, it will use the icon of Numix if they have made it.
 
 
+
+3. Super Ultra Flat Numix Remix
+--------------------------------- 
+
+This icon theme is based on an older one i.e. yltra flat also on github.
+
+This is an exercise in changing the directories from scalable/... to 22x22/...
+
+Super Ultra Flat Numix Remix will be updated not the Yltra Flat icon set.
+
+
+
+![Screenshots](http://i.imgur.com/i1FGsR9.jpg)
+
+
+
+![Screenshots](http://i.imgur.com/EocrQ70.png)
+
+
+
+
+
+
 #2. Numix circle icons
 
 https://github.com/numixproject/numix-icon-theme-circle
