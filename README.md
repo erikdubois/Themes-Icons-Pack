@@ -156,13 +156,9 @@ I think this is the latest version - from november 2015 found on http://gnome-lo
 
 https://www.dropbox.com/s/bx42h8a1o48w7e0/Ultra-Flat-Theme.tar.gz
 
-or
-
-	sudo add-apt-repository ppa:noobslab/icons
-	sudo apt-get update
-	sudo apt-get install ultra-flat-icons ultra-flat-icons-orange ultra-flat-icons-green
 
 ![Screenshots](http://i.imgur.com/xrEc2gA.jpg)
+
 
 I like this icon set so much I wanted the missing icons to be fixed. 
 
@@ -216,7 +212,6 @@ Green icons
 
 #8. Flatwoken icons
 
-Install via script
 
 git clone https://github.com/alecive/FlatWoken.git
 
@@ -224,16 +219,7 @@ git clone https://github.com/alecive/FlatWoken.git
 
 
 
-
-
-
-
 #9. Moka 
-
-
-	sudo add-apt-repository ppa:moka/stable
-	sudo apt-get update
-	sudo apt-get install moka-icon-theme
 
 
 These can also be installed and will NOT be installed.
@@ -264,10 +250,16 @@ https://github.com/manson9/dalisha-icon-theme
 
 
 
+#11. Compass
 
-#11. Pinbadge
 
-144 icons only for apps - osx look 
+
+
+
+
+#12. Pinbadge
+
+https://github.com/Pinbadge/pinbadge-linux-theme
 
 
 ![Screenshots](http://i.imgur.com/RCVnSFB.jpg)
