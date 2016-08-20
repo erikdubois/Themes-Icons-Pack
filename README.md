@@ -14,7 +14,14 @@ But fair warning your icon or theme selection manager will have a LOT of choices
 
 	1. installation_deb is for linux mint, ubuntu, debian, elementary and all derivatives of debian using apt-get
 
-	2. installation_archlinux is for Archlinux and all derivatives using pacman and packer (alternative for yaourt)
+	2.  BETA : installation_archlinux is for Archlinux and all derivatives using pacman and packer (alternative for yaourt)
+
+For testing purpose I made also a 
+
+	uninstall-all-icons-and-themes.sh
+
+that will uninstall all icons, themes and repositories.
+
 
 Check if you have git installed. Install git for deb based distro's with this command
 
