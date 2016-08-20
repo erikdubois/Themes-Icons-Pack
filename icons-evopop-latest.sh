@@ -55,6 +55,7 @@
 ##################################################################################################################
 # E V O P O P
 
+rm -rf /tmp/evopop-icon-theme
 git clone https://github.com/solus-project/evopop-icon-theme.git /tmp/evopop-icon-theme
 cd /tmp/evopop-icon-theme
 

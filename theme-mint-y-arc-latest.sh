@@ -54,17 +54,15 @@
 #
 ##################################################################################################################
 
-#https://github.com/horst3180/arc-theme
 
-sudo apt-get install build-essential autoconf automake pkg-config libgtk-3.0 libgtk-3-dev -y
-git clone https://github.com/horst3180/arc-theme --depth 1 /tmp/arc-theme && cd arc-theme
-./autogen.sh --prefix=/usr
-sudo make install
-rm -rf /tmp/arc-theme
+rm -rf /tmp/Mint-Y-Theme-Arc
+git clone https://github.com/erikdubois/Mint-Y-Theme-Arc /tmp/Mint-Y-Theme-Arc
 
-# sudo rm -rf /usr/share/themes/{Arc,Arc-Darker,Arc-Dark}
-
-
+# if there is no hidden folder then make one
+[ -d $HOME"/.themes" ] || mkdir -p $HOME"/.themes"
+cp -r /tmp/Mint-Y-Theme-Arc/Mint-Y-Arc ~/.themes/
+cp -r /tmp/Mint-Y-Theme-Arc/Mint-Y-Dark-Arc ~/.themes/
+cp -r /tmp/Mint-Y-Theme-Arc/Mint-Y-Darker-Arc ~/.themes/
 echo "################################################################"
 echo "###################    T H E   E N D      ######################"
 echo "################################################################"

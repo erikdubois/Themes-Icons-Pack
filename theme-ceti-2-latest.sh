@@ -62,13 +62,14 @@ rm -rf ~/.themes/Ceti-2
 
 sudo apt-get install autoconf automake pkg-config libgtk-3-dev git
 
-git clone https://github.com/horst3180/ceti-2-theme --depth 1 && cd ceti-2-theme
+git clone https://github.com/horst3180/ceti-2-theme --depth 1 /tmp/Ceti-2-theme && cd /tmp/ceti-2-theme
 
 ./autogen.sh --prefix=/usr
 sudo make install
 
-#sudo make uninstall
+rm -rf /tmp/ceti-2-theme
 
+#sudo make uninstall
 
 
 echo "################################################################"

@@ -7,6 +7,7 @@
 # 
 # AS ALLWAYS, KNOW WHAT YOU ARE DOING.
 #======================================================================================
+rm -rf /tmp/arch-frost-gtk
 
 # A R C H  F R O S T   L I G H T
 git clone https://github.com/osendott/arch-frost-gtk /tmp/arch-frost-gtk

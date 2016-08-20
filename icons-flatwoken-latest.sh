@@ -55,6 +55,8 @@
 ##################################################################################################################
 # F L A T W O K E N
 
+rm -rf /tmp/FlatWoken
+
 git clone https://github.com/alecive/FlatWoken.git /tmp/FlatWoken
 mkdir ~/.icons/FlatWoken
 mkdir ~/.icons/FlatWokenMin

@@ -8,6 +8,8 @@
 # AS ALLWAYS, KNOW WHAT YOU ARE DOING.
 #======================================================================================
 
+rm -rf /tmp/arch-frost-gtk-dark
+
 # A R C H  F R O S T   D A R K
 git clone https://github.com/osendott/arch-frost-gtk-dark /tmp/arch-frost-gtk-dark
 

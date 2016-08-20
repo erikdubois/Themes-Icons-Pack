@@ -275,9 +275,6 @@ https://github.com/horst3180/Vertex-theme
 
 This theme can be dark and light.
 
-	sudo add-apt-repository ppa:noobslab/themes -y
-	sudo apt-get update
-	sudo apt-get install vertex-theme -y
 
 ![Screenshots](http://i.imgur.com/KlTeQK7.png)
 
@@ -292,7 +289,7 @@ http://erikdubois.be/how-to-completely-install-all-aspects-of-the-vertex-dark-th
 # 2. Numix Daily Sardi theme
 
 
-Installed when you install the numix circle icons???
+Installed when you install the numix circle icons.
 
 This theme has been adapted to be softer on the eyes. Background of file-manager is grey.
 

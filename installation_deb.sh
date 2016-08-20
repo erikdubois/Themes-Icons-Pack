@@ -183,27 +183,34 @@ sh theme-arc-latest.sh
 #8. Mint-Y-Alu
 # from github
 
-
+sh theme-mint-y-alu-latest.sh
 
 
 #9. Mint-Y-Arc
 # from github
 
+sh theme-mint-y-arc-latest.sh
 
 #10. Mint-Y-Arch
 # from github
 
+sh theme-mint-y-arch-latest.sh
 
 #11. Mint-Y-Fire
 # from github
 
+sh theme-mint-y-fire-latest.sh
+
 #12. Mint-Y-Lightning
 # from github
+
+sh theme-mint-y-lightning-latest.sh
 
 
 #13. Mint-Y-Sun
 # from github
 
+sh theme-mint-y-sun-latest.sh
 
 
 echo "################################################################"

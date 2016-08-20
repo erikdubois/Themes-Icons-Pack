@@ -10,6 +10,8 @@
 
 # F L A T A B U L O U S
 
+rm -rf /tmp/Flatabulous
+
 git clone https://github.com/anmoljagetia/Flatabulous /tmp/Flatabulous
 
 # if there is no hidden folder then make one

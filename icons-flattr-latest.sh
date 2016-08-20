@@ -55,6 +55,8 @@
 ##################################################################################################################
 # F L A T T R
 
+rm -rf /tmp/flattr-icons
+
 git clone https://github.com/NitruxSA/flattr-icons.git /tmp/flattr-icons
 mkdir ~/.icons/Lüv
 mkdir ~/.icons/Lüv\ Dark

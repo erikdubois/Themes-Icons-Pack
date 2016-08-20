@@ -86,6 +86,16 @@ sudo rm -rf /usr/share/themes/{Arc,Arc-Darker,Arc-Dark}
 sudo apt-get remove ambiance-colors radiance-colors vertex-theme -y
 
 
+# repositories
+
+sudo add-apt-repository --remove ppa:numix/ppa -y
+sudo add-apt-repository --remove ppa:moka/stable -y
+sudo add-apt-repository --remove ppa:ravefinity-project/ppa -y
+sudo add-apt-repository --remove ppa:noobslab/themes -y
+sudo add-apt-repository --remove ppa:noobslab/icons -y
+
+
+#sudo apt-get update
 
 echo "################################################################"
 echo "###################    T H E   E N D      ######################"
