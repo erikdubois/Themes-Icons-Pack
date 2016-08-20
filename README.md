@@ -54,6 +54,7 @@ or run this script and <b>delete the sardi icons first!</b>
 
 	icons-sardi-latest.sh
 
+to get these sardi icons. 18 icons sets in one.
 
 ![Screenshots](http://i.imgur.com/T9gN544.jpg)
 
