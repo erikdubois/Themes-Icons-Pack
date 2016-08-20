@@ -8,15 +8,14 @@
 # AS ALLWAYS, KNOW WHAT YOU ARE DOING.
 #======================================================================================
 
+# A R C H  F R O S T   D A R K
+git clone https://github.com/osendott/arch-frost-gtk-dark /tmp/arch-frost-gtk-dark
 
-########################################
-########        T H E M E S    #########
-########################################
+# if there is no hidden folder then make one
+[ -d $HOME"/.themes" ] || mkdir -p $HOME"/.themes"
+[ -d $HOME"/.themes/arch-frost-gtk-dark" ] || mkdir -p $HOME"/.themes/arch-frost-gtk-dark"
 
-
-sudo add-apt-repository ppa:ravefinity-project/ppa -y
-sudo apt-get update
-sudo apt-get install ambiance-colors radiance-colors -y
+cp -r /tmp/arch-frost-gtk-dark/arch-frost-dark/* ~/.themes/arch-frost-gtk-dark
 
 
 

@@ -56,9 +56,12 @@
 
 
 
-sudo add-apt-repository ppa:noobslab/icons -y
+sudo add-apt-repository ppa:ravefinity-project/ppa -y
 sudo apt-get update
-sudo apt-get install ultra-flat-icons ultra-flat-icons-green ultra-flat-icons-orange
+sudo apt-get install ambiance-colors radiance-colors -y
+
+
+
 
 echo "################################################################"
 echo "###################    T H E   E N D      ######################"

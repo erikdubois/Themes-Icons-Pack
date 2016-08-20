@@ -54,11 +54,16 @@
 #
 ##################################################################################################################
 
+#https://github.com/horst3180/arc-theme
 
+#rm -rf arc-theme
 
-git clone https://github.com/0rAX0/uniform-icon-theme.git /tmp/Uniform
-mkdir ~/.icons/Uniform
-cp -r /tmp/Uniform/Uniform/* ~/.icons/Uniform
+sudo apt-get install build-essential autoconf automake pkg-config libgtk-3.0 libgtk-3-dev -y
+git clone https://github.com/horst3180/arc-theme --depth 1 && cd arc-theme
+./autogen.sh --prefix=/usr
+sudo make install
+
+# sudo rm -rf /usr/share/themes/{Arc,Arc-Darker,Arc-Dark}
 
 
 echo "################################################################"

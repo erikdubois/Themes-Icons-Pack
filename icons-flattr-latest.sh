@@ -56,10 +56,10 @@
 # F L A T T R
 
 git clone https://github.com/NitruxSA/flattr-icons.git /tmp/flattr-icons
-mkdir ~/.icons/Flattr
-mkdir ~/.icons/Flattr\ Dark
-cp -r /tmp/flattr-icons/Flattr/* ~/.icons/Flattr
-cp -r /tmp/flattr-icons/Flattr\ Dark/* ~/.icons/Flattr\ Dark
+mkdir ~/.icons/Lüv
+mkdir ~/.icons/Lüv\ Dark
+cp -r /tmp/flattr-icons/Lüv/* ~/.icons/Lüv
+cp -r /tmp/flattr-icons/Lüv\ Dark/* ~/.icons/Lüv\ Dark
 
 
 echo "################################################################"

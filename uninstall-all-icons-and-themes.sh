@@ -53,9 +53,37 @@
 #   DO NOT JUST RUN THIS. EXAMINE AND JUDGE. AT YOUR OWN RISK.
 #
 ##################################################################################################################
-sudo add-apt-repository ppa:pinbadge/ppa -y
-sudo apt-get update
-sudo apt-get install pinbadge-icon-theme -y
+
+
+echo "Reboot so that all folders in tmp are gone before trying the installation script again"
+echo "alternatively you can clean it manually in /tmp"
+
+
+# icons
+
+
+rm -rf ~/.icons/*
+
+sudo apt-get remove ultra-flat-icons ultra-flat-icons-green ultra-flat-icons-orange -y
+
+sudo apt-get remove numix-icon-theme numix-icon-theme-circle numix-gtk-theme -y
+
+sudo rm -rf /usr/share/icons/Moka
+sudo rm -rf /usr/share/icons/Dalisha
+sudo rm -rf /usr/share/icons/EvoPop
+sudo rm -rf /usr/share/icons/Faba
+
+
+
+# themes
+
+rm -rf ~/.themes/*
+
+sudo rm -rf /usr/share/themes/Ceti-2
+
+sudo rm -rf /usr/share/themes/{Arc,Arc-Darker,Arc-Dark}
+
+sudo apt-get remove ambiance-colors radiance-colors vertex-theme -y
 
 
 

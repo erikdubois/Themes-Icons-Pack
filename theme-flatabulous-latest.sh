@@ -11,7 +11,10 @@
 # F L A T A B U L O U S
 
 git clone https://github.com/anmoljagetia/Flatabulous /tmp/Flatabulous
-mkdir ~/.themes/Flatabulous
+
+# if there is no hidden folder then make one
+[ -d $HOME"/.themes" ] || mkdir -p $HOME"/.themes"
+[ -d $HOME"/.themes/Flatabulous" ] || mkdir -p $HOME"/.themes/Flatabulous"
 cp -r /tmp/Flatabulous/* ~/.themes/Flatabulous
 
 

@@ -8,20 +8,16 @@
 # AS ALLWAYS, KNOW WHAT YOU ARE DOING.
 #======================================================================================
 
+# F L A T A B U L O U S
 
-########################################
-########        T H E M E S    #########
-########################################
+rm -rf /tmp/Mint-Y-Theme-Alu
+git clone https://github.com/erikdubois/Mint-Y-Theme-Alu /tmp/Mint-Y-Theme-Alu
 
-
-
-sudo add-apt-repository ppa:noobslab/themes -y
-sudo apt-get update
-sudo apt-get install ceti-theme -y
-
-
-
-
+# if there is no hidden folder then make one
+[ -d $HOME"/.themes" ] || mkdir -p $HOME"/.themes"
+cp -r /tmp/Mint-Y-Theme-Alu/Mint-Y-Alu ~/.themes/
+cp -r /tmp/Mint-Y-Theme-Alu/Mint-Y-Dark-Alu ~/.themes/
+cp -r /tmp/Mint-Y-Theme-Alu/Mint-Y-Darker-Alu ~/.themes/
 echo "################################################################"
 echo "###################    T H E   E N D      ######################"
 echo "################################################################"

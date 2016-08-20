@@ -56,9 +56,20 @@
 
 
 
-sudo add-apt-repository ppa:noobslab/icons -y
-sudo apt-get update
-sudo apt-get install ultra-flat-icons ultra-flat-icons-green ultra-flat-icons-orange
+sudo rm -rf /usr/share/themes/Ceti-2
+rm -rf ~/.local/share/themes/Ceti-2
+rm -rf ~/.themes/Ceti-2
+
+sudo apt-get install autoconf automake pkg-config libgtk-3-dev git
+
+git clone https://github.com/horst3180/ceti-2-theme --depth 1 && cd ceti-2-theme
+
+./autogen.sh --prefix=/usr
+sudo make install
+
+#sudo make uninstall
+
+
 
 echo "################################################################"
 echo "###################    T H E   E N D      ######################"

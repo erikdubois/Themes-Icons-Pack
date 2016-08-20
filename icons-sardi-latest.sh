@@ -70,7 +70,6 @@ tar -zxvf /tmp/sardi.tar.gz -C /tmp/sardi
 rm /tmp/sardi.tar.gz
 
 # if there is no hidden folder then make one
-echo $HOME
 [ -d $HOME"/.icons" ] || mkdir -p $HOME"/.icons"
 
 cp -r /tmp/sardi/* ~/.icons/

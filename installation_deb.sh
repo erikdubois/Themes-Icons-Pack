@@ -118,7 +118,7 @@ sh icons-moka-latest.sh
 
 
 # 10.Dalisha
-# from github
+# from ppa
 
 sh icons-dalisha-latest.sh
 
@@ -128,19 +128,6 @@ sh icons-dalisha-latest.sh
 
 sh icons-compass-latest.sh
 
-# 12.Pinbadge
-# from ppa
-
-sh icons-pinbadge-latest.sh
-
-# 13.Uniform
-# from 
-
-sh icons-uniform-latest.sh
-
-
-
-
 
 
 
@@ -149,47 +136,73 @@ sh icons-uniform-latest.sh
 ########        T H E M E S    #########
 ########################################
 
-# V E R T E X
-#git clone https://github.com/horst3180/vertex-theme /tmp/vertex-theme
-#mkdir ~/.themes/vertex-theme
-#cp -r /tmp/vertex-theme/common/* ~/.themes/vertex-theme
-sudo add-apt-repository ppa:noobslab/themes -y
-sudo apt-get update
-sudo apt-get install vertex-theme -y
+# 1.Vertex
+# from ppa
+
+sh theme-vertex-latest.sh 
+
+# 2.Numix
+# installed if you installed the icons of numix
+
+
+# 3. Ambiance
+# from ppa
+
+sh theme-ambiance-latest.sh
+
+# 4. Ceti 2
+
+sh theme-ceti-2-latest.sh
+
+
+# 5. Arch frost dark
+# from github
+
+sh theme-arch-frost-dark-latest.sh
+
+
+
+# 5. Arch frost light
+# from github
+
+sh theme-arch-frost-light-latest.sh
+
+
+# 6. Flatabulous
+# from github
+
+sh theme-flatabulous-latest.sh
+
+# 7. Arc
+# from github
+
+sh theme-arc-latest.sh
+
+
+
+#8. Mint-Y-Alu
+# from github
 
 
 
 
-# A M B I A N C E
-sudo add-apt-repository ppa:ravefinity-project/ppa -y
-sudo apt-get update
-sudo apt-get install ambiance-colors -y
+#9. Mint-Y-Arc
+# from github
 
 
-# C E T I
-sudo add-apt-repository ppa:noobslab/themes -y
-sudo apt-get update
-sudo apt-get install ceti-theme -y
+#10. Mint-Y-Arch
+# from github
 
 
-# A R C H  F R O S T   D A R K
-git clone https://github.com/osendott/arch-frost-gtk-dark /tmp/arch-frost-gtk-dark
-mkdir ~/.themes/arch-frost-gtk-dark
-cp -r /tmp/arch-frost-gtk-dark/arch-frost-dark/* ~/.themes/arch-frost-gtk-dark
+#11. Mint-Y-Fire
+# from github
+
+#12. Mint-Y-Lightning
+# from github
 
 
-
-# A R C H  F R O S T   L I G H T
-git clone https://github.com/osendott/arch-frost-gtk /tmp/arch-frost-gtk
-mkdir ~/.themes/arch-frost-gtk
-cp -r /tmp/arch-frost-gtk/arch-frost-light/* ~/.themes/arch-frost-gtk
-
-
-# F L A T A B U L O U S
-
-git clone https://github.com/anmoljagetia/Flatabulous /tmp/Flatabulous
-mkdir ~/.themes/Flatabulous
-cp -r /tmp/Flatabulous/* ~/.themes/Flatabulous
+#13. Mint-Y-Sun
+# from github
 
 
 

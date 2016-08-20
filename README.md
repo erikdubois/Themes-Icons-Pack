@@ -120,6 +120,8 @@ https://github.com/solus-project/evopop-icon-theme
 
 #5. Flattr icons
 
+renamed to Lüv and Lüv Dark
+
 
 https://github.com/NitruxSA/flattr-icons
 
@@ -142,7 +144,9 @@ https://github.com/daniruiz/Super-Flat-Remix
 
 
 
-#7. Ultra flat orange icons
+#7. Ultra flat icons
+
+blue, green, orange and orange bright
 
 This icon set among others has been used to arrive at my own icon set : 
 
@@ -257,26 +261,6 @@ https://github.com/manson9/dalisha-icon-theme
 
 
 
-#12. Pinbadge
-
-https://github.com/Pinbadge/pinbadge-linux-theme
-
-
-![Screenshots](http://i.imgur.com/RCVnSFB.jpg)
-
-
-#13. Uniform
-
-
-https://github.com/0rAX0/uniform-icon-theme
-
-
-![Screenshots](http://i.imgur.com/QTKQ0x9.png)
-
-
-
-
-
 
 
 
@@ -305,10 +289,10 @@ http://erikdubois.be/how-to-completely-install-all-aspects-of-the-vertex-dark-th
 
 
 
-# 15. Numix Daily Sardi theme
+# 2. Numix Daily Sardi theme
 
 
-Install via script
+Installed when you install the numix circle icons???
 
 This theme has been adapted to be softer on the eyes. Background of file-manager is grey.
 
@@ -316,40 +300,28 @@ This theme has been adapted to be softer on the eyes. Background of file-manager
 
 
 
-#2. Ambiance Theme and Radiance colors
+#3. Ambiance Theme and Radiance colors
 
 http://www.ravefinity.com/p/download-ambiance-radiance-colors.html
 
 
 Beware this ones gives you many choices with minute color changes.
 
-	sudo add-apt-repository ppa:ravefinity-project/ppa 
-	sudo apt-get update
-	sudo apt-get install ambiance-colors radiance-colors
 
 ![Screenshots](http://i.imgur.com/fGtUpoB.jpg) 
 
 
-#3. Ceti Theme
+#4. Ceti Theme
 
 http://horst3180.deviantart.com/art/Ceti-445892596
 
 https://github.com/horst3180/Ceti-theme
 
 
-
-	sudo add-apt-repository ppa:noobslab/themes
-	sudo apt-get update
-	sudo apt-get install ceti-theme
-
 ![Screenshots](http://i.imgur.com/qD53UAV.png) 
 
 
-
-
-
-
-#3. Arch Frost theme
+#5. Arch Frost theme
 
 Install via script
 
@@ -369,14 +341,8 @@ Arch Frost GTK Dark
 
 
 
+#6. Flatabulous theme
 
-
-# 14. Flatabulous theme
-
-
-Install via script
-
-This theme goes well with the ultra flat orange icons.
 
 https://github.com/anmoljagetia/Flatabulous
 
@@ -387,3 +353,52 @@ https://github.com/anmoljagetia/Flatabulous
 ![Screenshots](http://i.imgur.com/l7uCAZ8.jpg)
 
 
+
+
+#7. Arc theme
+
+https://github.com/horst3180/arc-theme
+
+![Screenshots]()
+
+
+
+#8. Mint-Y-Alu
+
+https://github.com/erikdubois/Mint-Y-Theme-Alu
+
+![Screenshots](http://i.imgur.com/MUu3Uij.jpg)
+
+
+
+#9. Mint-Y-Arc
+
+https://github.com/erikdubois/Mint-Y-Theme-Arc
+
+![Screenshots]()
+
+
+#10. Mint-Y-Arch
+
+https://github.com/erikdubois/Mint-Y-Theme-Arch
+
+![Screenshots]()
+
+#11. Mint-Y-Fire
+
+https://github.com/erikdubois/Mint-Y-Theme-Fire
+
+![Screenshots]()
+
+#12. Mint-Y-Lightning
+
+https://github.com/erikdubois/Mint-Y-Theme-Lightning
+
+
+![Screenshots]()
+
+#13. Mint-Y-Sun
+
+https://github.com/erikdubois/Mint-Y-Theme-Sun
+
+![Screenshots]()

@@ -53,9 +53,20 @@
 #   DO NOT JUST RUN THIS. EXAMINE AND JUDGE. AT YOUR OWN RISK.
 #
 ##################################################################################################################
-sudo add-apt-repository ppa:nitrux-team/nitrux-artwork -y
-sudo apt-get update
-sudo apt-get install compass-icon-theme -y
+
+
+
+wget -O /tmp/compass.tar.gz "https://launchpad.net/~nitrux-team/+archive/ubuntu/nitrux-artwork/+files/compass-icon-theme_1.3.8.tar.gz"
+mkdir /tmp/compass
+tar -zxvf /tmp/compass.tar.gz -C /tmp/compass
+rm /tmp/compass.tar.gz
+
+# if there is no hidden folder then make one
+[ -d $HOME"/.icons" ] || mkdir -p $HOME"/.icons"
+[ -d $HOME"/.icons/Compass" ] || mkdir -p $HOME"/.icons/Compass"
+cp -r /tmp/compass/compass-icon-theme-1.3.8/Compass/* ~/.icons/Compass
+rm -rf /tmp/compass
+
 
 
 

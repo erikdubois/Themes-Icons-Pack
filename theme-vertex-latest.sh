@@ -55,10 +55,9 @@
 ##################################################################################################################
 
 
-
-sudo add-apt-repository ppa:noobslab/icons -y
+sudo add-apt-repository ppa:noobslab/themes -y
 sudo apt-get update
-sudo apt-get install ultra-flat-icons ultra-flat-icons-green ultra-flat-icons-orange
+sudo apt-get install vertex-theme -y
 
 echo "################################################################"
 echo "###################    T H E   E N D      ######################"
