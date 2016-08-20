@@ -54,44 +54,34 @@
 #
 ##################################################################################################################
 
-# echo "# Ultimate-Linux-Mint-18" >> README.md
-# git init
-# git add README.md
-# git commit -m "first commit"
-# git remote add origin https://github.com/erikdubois/Ultimate-Linux-Mint-18-Cinnamon.git
-# git push -u origin master
+#checking if git is installed else install it
 
-# git config --global user.name x
-# git config --global user.email x
-# sudo git config --system core.editor nano
-# git config --global credential.helper cache
-# git config --global credential.helper 'cache --timeout=3600'
+if ! location="$(type -p "git")" || [ -z "git" ]; then
+
+	echo "#################################################"
+	echo "installing git for this script to work"
+	echo "#################################################"
+
+  	sudo apt install git -y
+fi
 
 
-# Force git to overwrite local files on pull - no merge
-
-# git fetch all
-
-# git push --set-upstream origin master
-
-# git reset --hard orgin/master
 
 
-# Below command will backup everything inside the project folder
-git add --all .
+#setting up git
+#https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-config
 
-echo "####################################"
-echo "Write your commit comment!"
-echo "####################################"
-
-read input
-
-# Committing to the local repository with a message containing the time details and commit text
-curtime=$(date)
-git commit -m "Commit comment : $input on $curtime"
-
-# Push the local snapshot to a remote destination
-
-git push -u origin master
+git init
+git config --global user.name "Erik Dubois"
+git config --global user.email "erik.dubois@gmail.com"
+sudo git config --system core.editor nano
+git config --global credential.helper cache
+git config --global credential.helper 'cache --timeout=3600'
+git config --global push.default simple
 
 
+
+#git remote add origin https://github.com/erikdubois/Ultimate-Linux-Mint-18-Cinnamon.git
+
+
+echo " ALL  D O N E !"
