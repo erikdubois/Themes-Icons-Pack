@@ -68,71 +68,77 @@ sudo apt-get install git -y
 
 
 
-# Sardi
+# 1.Sardi
 # from sourceforge 
 
 sh icons-sardi-latest.sh
 
-# Super Ultra Flat Numix Remix
+# 2.Super Ultra Flat Numix Remix
 # from github
 
 sh icons-super-ultra-flat-numix-latest.sh
 
 
-# Numix
+# 3.Numix
 # from ppa
 
 sh icons-numix-circle-latest.sh
 
-# Evopop
+# 4.Evopop
 # from github
 
 sh icons-evopop-latest.sh
 
 
-# FLATTR
+# 5.FLATTR
 
 sh icons-flattr-latest.sh
 
 
-# Super Flat remix
+# 6.Super Flat remix
 # from github
 
 sh icons-super-flat-remix-latest.sh
 
+# 7.Ultra flat
 
-# Flatwoken
+sh icons-ultra-flat-latest.sh
+
+
+# 8.Flatwoken
 # from github
 
 sh icons-flatwoken-latest.sh
 
 
-# Moka
+# 9.Moka
 # from ppa
 
 sh icons-moka-latest.sh
 
 
-# Dalisha
+# 10.Dalisha
 # from github
 
 sh icons-dalisha-latest.sh
 
 
-# Compass
+# 11.Compass
 # from ppa
 
 sh icons-compass-latest.sh
 
+# 12.Pinbadge
+# from ppa
 
-# U N I F O R M
+sh icons-pinbadge-latest.sh
+
+# 13.Uniform
+# from 
 
 sh icons-uniform-latest.sh
 
 
-# U L T R A  F L A T   I C O N S
-
-sh icons-ultra-flat-latest.sh
 
 
 

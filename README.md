@@ -253,7 +253,7 @@ https://github.com/manson9/dalisha-icon-theme
 #11. Compass
 
 
-
+![Screenshots]()
 
 
 
@@ -265,21 +265,10 @@ https://github.com/Pinbadge/pinbadge-linux-theme
 ![Screenshots](http://i.imgur.com/RCVnSFB.jpg)
 
 
-#12. Uniform
+#13. Uniform
 
-Not usable. No script to install.
-
-Nice starting theme. Many icons missing but looks promising. Mentioned because of the promising look.
-
-
-http://0rax0.deviantart.com/art/Uniform-Icon-Theme-453054609
-
-http://www.deviantart.com/download/453054609/uniform_icon_theme_by_0rax0-d7hqj69.zip?token=9a22eb94b89fbc4ad45ff124e008b01a27a456a3&ts=1431882377
-
-Download comes from 
 
 https://github.com/0rAX0/uniform-icon-theme
-
 
 
 ![Screenshots](http://i.imgur.com/QTKQ0x9.png)
