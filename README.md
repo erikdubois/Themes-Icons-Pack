@@ -328,14 +328,14 @@ http://erikdubois.be/how-to-completely-install-all-aspects-of-the-vertex-dark-th
 
 
 
-# 2. Numix Daily Sardi theme
+# 2. Numix Daily theme
 
 
 Installed when you install the numix circle icons.
 
 This theme has been adapted to be softer on the eyes. Background of file-manager is grey.
 
-![Screenshots](http://i.imgur.com/9pyyWta.jpg)
+![Screenshots](http://i.imgur.com/KrGtFk7.png)
 
 
 
@@ -347,7 +347,10 @@ http://www.ravefinity.com/p/download-ambiance-radiance-colors.html
 Beware this ones gives you many choices with minute color changes.
 
 
-![Screenshots](http://i.imgur.com/fGtUpoB.jpg) 
+![Screenshots](http://i.imgur.com/fGtUpoB.jpg)
+
+![Screenshots](http://i.imgur.com/ckr7PBZ.jpg)  
+
 
 
 #4. Ceti 2 Theme
@@ -358,6 +361,8 @@ https://github.com/horst3180/ceti-2-theme
 
 
 ![Screenshots](http://i.imgur.com/qD53UAV.png) 
+
+![Screenshots](http://i.imgur.com/vvey3Cm.jpg) 
 
 
 #5. Arch Frost theme
@@ -377,6 +382,8 @@ Arch Frost GTK Dark
 
 ![Screenshots](http://i.imgur.com/RAi8F5z.jpg)
 
+
+![Screenshots](http://i.imgur.com/GrNV00h.jpg)
 
 
 
@@ -398,7 +405,9 @@ https://github.com/anmoljagetia/Flatabulous
 
 https://github.com/horst3180/arc-theme
 
-![Screenshots]()
+![Screenshots](http://i.imgur.com/2NtD8e9.jpg)
+
+
 
 
 
@@ -410,34 +419,50 @@ https://github.com/erikdubois/Mint-Y-Theme-Alu
 
 
 
+
+
 #9. Mint-Y-Arc
 
 https://github.com/erikdubois/Mint-Y-Theme-Arc
 
-![Screenshots]()
+![Screenshots](http://i.imgur.com/5C2rqSC.jpg)
+
+
+
 
 
 #10. Mint-Y-Arch
 
 https://github.com/erikdubois/Mint-Y-Theme-Arch
 
-![Screenshots]()
+![Screenshots](http://i.imgur.com/ZM0YY5a.jpg)
+
+
+
+
 
 #11. Mint-Y-Fire
 
 https://github.com/erikdubois/Mint-Y-Theme-Fire
 
-![Screenshots]()
+![Screenshots](http://i.imgur.com/bevG7SN.jpg)
+
+
+
+
 
 #12. Mint-Y-Lightning
 
 https://github.com/erikdubois/Mint-Y-Theme-Lightning
 
 
-![Screenshots]()
+![Screenshots](http://i.imgur.com/nDHqnRn.jpg)
+
+
+
 
 #13. Mint-Y-Sun
 
 https://github.com/erikdubois/Mint-Y-Theme-Sun
 
-![Screenshots]()
+![Screenshots](http://i.imgur.com/6YJg0RE.jpg)

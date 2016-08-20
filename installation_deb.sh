@@ -164,8 +164,9 @@ echo "#####################################################"
 sh theme-vertex-latest.sh 
 
 # 2.Numix
-# installed if you installed the icons of numix
+# from ppa
 
+sh thmemes-numix-latest.sh
 
 # 3. Ambiance
 # from ppa
