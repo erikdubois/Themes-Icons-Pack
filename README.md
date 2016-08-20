@@ -146,7 +146,7 @@ https://github.com/daniruiz/Super-Flat-Remix
 
 This icon set among others has been used to arrive at my own icon set : 
 
-	https://github.com/erikdubois/Super-Ultra-Flat-Numix-Remix
+https://github.com/erikdubois/Super-Ultra-Flat-Numix-Remix
 
 Version 1.3.4
 
