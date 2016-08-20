@@ -42,6 +42,7 @@ Remove manually if you have already an older/adapted version.
 
 It is up to you to activate them.
 
+I will preferably use an repository but if it is not available, make a script.
 
 
 
