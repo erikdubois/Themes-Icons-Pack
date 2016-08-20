@@ -14,11 +14,11 @@ Tried on Linux Mint 18 Cinnamon
 
 	2. _archlinux is for Archlinux and all derivatives using pacman and packer (yaourt)
 
-Check if you have git installed else for deb based distro's
+Check if you have git installed. Install git for deb based distro's with this command
 
 	sudo apt-get install git
 
-or on Archlinux
+or on Archlinux install git with this command
 
 	sudo pacman -S git
 
