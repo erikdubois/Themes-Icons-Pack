@@ -111,8 +111,6 @@ Numix is used as a fall-back icon theme for Sardi icon theme. So you should inst
 
 #4. Evopop icons
 
-Install via script.
-
 https://github.com/solus-project/evopop-icon-theme
 
 ![Screenshots](http://i.imgur.com/RQu385l.png) 
@@ -122,7 +120,6 @@ https://github.com/solus-project/evopop-icon-theme
 
 #5. Flattr icons
 
-Install via script
 
 https://github.com/NitruxSA/flattr-icons
 
@@ -132,9 +129,9 @@ https://github.com/NitruxSA/flattr-icons
 
 
 
+
 #6. Superflat remix icons
 
-Install via script
 
 https://github.com/daniruiz/Super-Flat-Remix
 
@@ -146,6 +143,10 @@ https://github.com/daniruiz/Super-Flat-Remix
 
 
 #7. Ultra flat orange icons
+
+This icon set among others has been used to arrive at my own icon set : 
+
+	https://github.com/erikdubois/Super-Ultra-Flat-Numix-Remix
 
 Version 1.3.4
 
