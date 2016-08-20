@@ -76,11 +76,9 @@ to get these sardi icons. 18 icons sets in one.
 ![Screenshots](http://i.imgur.com/lrQ27Xs.jpg)
 
 
-Numix is used as a fall-back icon theme for Sardi icon theme. So you should install it. Whenever an icons is not yet made in Sardi, it will use the icon of Numix if they have made it.
 
 
-
-3. Super Ultra Flat Numix Remix
+2. Super Ultra Flat Numix Remix
 --------------------------------- 
 
 This icon theme is based on an older one i.e. yltra flat also on github.
@@ -99,28 +97,19 @@ Super Ultra Flat Numix Remix will be updated not the Yltra Flat icon set.
 
 
 
-
-
-
-#2. Numix circle icons
+#3. Numix circle icons
 
 https://github.com/numixproject/numix-icon-theme-circle
 
-These can be installed via the terminal or via the script
 
-	sudo add-apt-repository ppa:numix/ppa
-	sudo apt-get update
-	sudo apt-get install numix-icon-theme-circle
+Numix is used as a fall-back icon theme for Sardi icon theme. So you should install it. Whenever an icons is not yet made in Sardi, it will use the icon of Numix if they have made it.
 
 ![Screenshots](http://i.imgur.com/2je4qz2.jpg)  
 
 
 
 
-
-
-
-#3. Evopop icons
+#4. Evopop icons
 
 Install via script.
 
@@ -131,7 +120,7 @@ https://github.com/solus-project/evopop-icon-theme
 
 
 
-#4. Flattr icons
+#5. Flattr icons
 
 Install via script
 
@@ -143,7 +132,7 @@ https://github.com/NitruxSA/flattr-icons
 
 
 
-#5. Superflat remix icons
+#6. Superflat remix icons
 
 Install via script
 
@@ -156,7 +145,7 @@ https://github.com/daniruiz/Super-Flat-Remix
 
 
 
-# 13. Ultra flat orange icons
+#7. Ultra flat orange icons
 
 Version 1.3.4
 
@@ -224,7 +213,7 @@ Green icons
 
 
 
-# 10. Flatwoken icons
+#8. Flatwoken icons
 
 Install via script
 
@@ -238,7 +227,7 @@ git clone https://github.com/alecive/FlatWoken.git
 
 
 
-# 11. Moka 
+#9. Moka 
 
 
 	sudo add-apt-repository ppa:moka/stable
@@ -259,7 +248,7 @@ These can also be installed and will NOT be installed.
 
 
 
-# 12. Dalisha
+#10. Dalisha
 
 Latest can be found on gnome-look.org
 
@@ -275,7 +264,7 @@ https://github.com/manson9/dalisha-icon-theme
 
 
 
-# 16. Pinbadge
+#11. Pinbadge
 
 144 icons only for apps - osx look 
 
@@ -283,7 +272,7 @@ https://github.com/manson9/dalisha-icon-theme
 ![Screenshots](http://i.imgur.com/RCVnSFB.jpg)
 
 
-# Uniform
+#12. Uniform
 
 Not usable. No script to install.
 
@@ -301,9 +290,6 @@ https://github.com/0rAX0/uniform-icon-theme
 
 
 ![Screenshots](http://i.imgur.com/QTKQ0x9.png)
-
-
-
 
 
 
