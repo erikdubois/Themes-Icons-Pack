@@ -235,6 +235,11 @@ git clone https://github.com/alecive/FlatWoken.git
 ![Screenshots](http://i.imgur.com/oDJ3j3f.jpg)
 
 
+![Screenshots](http://i.imgur.com/UUfy3Zs.jpg)
+
+
+
+
 
 #9. Moka and Faba
 
@@ -250,6 +255,9 @@ These can also be installed and will NOT be installed.
 
 
 ![Screenshots](http://i.imgur.com/AjTBLY8.png)
+
+![Screenshots](http://i.imgur.com/ffM4U5G.jpg)
+
 
 
 
@@ -269,10 +277,20 @@ https://github.com/manson9/dalisha-icon-theme
 
 
 
+![Screenshots](http://i.imgur.com/5HFf56j.jpg)
+
+
+
+
 #11. Compass
 
 
-![Screenshots]()
+![Screenshots](http://i.imgur.com/FSjiUN8.jpg)
+
+
+![Screenshots](http://i.imgur.com/5jsohV8.jpg)
+
+
 
 
 #12. Vertex
@@ -280,6 +298,10 @@ https://github.com/manson9/dalisha-icon-theme
 Inherits from Moka !!
 
 https://github.com/horst3180/vertex-icons
+
+![Screenshots](http://i.imgur.com/FSjiUN8.jpg)
+
+
 
 ![Screenshots]()
 
