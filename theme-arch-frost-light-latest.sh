@@ -19,7 +19,7 @@ git clone https://github.com/osendott/arch-frost-gtk /tmp/arch-frost-gtk
 cp -r /tmp/arch-frost-gtk/arch-frost-light/* ~/.themes/arch-frost-gtk
 
 
-
+rm -rf /tmp/arch-frost-gtk
 
 echo "################################################################"
 echo "###################    T H E   E N D      ######################"

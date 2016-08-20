@@ -54,8 +54,8 @@
 #
 ##################################################################################################################
 
-
 rm -rf /tmp/Mint-Y-Theme-Sun
+
 git clone https://github.com/erikdubois/Mint-Y-Theme-Sun /tmp/Mint-Y-Theme-Sun
 
 # if there is no hidden folder then make one
@@ -63,6 +63,8 @@ git clone https://github.com/erikdubois/Mint-Y-Theme-Sun /tmp/Mint-Y-Theme-Sun
 cp -r /tmp/Mint-Y-Theme-Sun/Mint-Y-Sun ~/.themes/
 cp -r /tmp/Mint-Y-Theme-Sun/Mint-Y-Dark-Sun ~/.themes/
 cp -r /tmp/Mint-Y-Theme-Sun/Mint-Y-Darker-Sun ~/.themes/
+
+rm -rf /tmp/Mint-Y-Theme-Sun
 echo "################################################################"
 echo "###################    T H E   E N D      ######################"
 echo "################################################################"

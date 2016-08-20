@@ -64,7 +64,7 @@ rm /tmp/compass.tar.gz
 # if there is no hidden folder then make one
 [ -d $HOME"/.icons" ] || mkdir -p $HOME"/.icons"
 [ -d $HOME"/.icons/Compass" ] || mkdir -p $HOME"/.icons/Compass"
-cp -r /tmp/compass/compass-icon-theme-1.3.8/Compass/* ~/.icons/Compass
+cp -r /tmp/compass/compass-icon-theme-1.3.8/Compass ~/.icons
 rm -rf /tmp/compass
 
 

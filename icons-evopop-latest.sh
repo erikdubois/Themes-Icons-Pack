@@ -64,6 +64,7 @@ sudo apt-get install build-essential autoconf automake -y
 sh autogen.sh
 sudo make install
 
+rm -rf /tmp/evopop-icon-theme
 
 echo "################################################################"
 echo "###################    T H E   E N D      ######################"

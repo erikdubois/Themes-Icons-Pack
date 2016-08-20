@@ -63,6 +63,9 @@ git clone https://github.com/erikdubois/Mint-Y-Theme-Fire /tmp/Mint-Y-Theme-Fire
 cp -r /tmp/Mint-Y-Theme-Fire/Mint-Y-Fire ~/.themes/
 cp -r /tmp/Mint-Y-Theme-Fire/Mint-Y-Dark-Fire ~/.themes/
 cp -r /tmp/Mint-Y-Theme-Fire/Mint-Y-Darker-Fire ~/.themes/
+
+rm -rf /tmp/Mint-Y-Theme-Fire
+
 echo "################################################################"
 echo "###################    T H E   E N D      ######################"
 echo "################################################################"

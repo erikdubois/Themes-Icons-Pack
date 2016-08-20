@@ -14,7 +14,7 @@ But fair warning your icon or theme selection manager will have a LOT of choices
 
 	1. installation_deb is for linux mint, ubuntu, debian, elementary and all derivatives of debian using apt-get
 
-	2. installation_archlinux is for Archlinux and all derivatives using pacman and packer (yaourt)
+	2. installation_archlinux is for Archlinux and all derivatives using pacman and packer (alternative for yaourt)
 
 Check if you have git installed. Install git for deb based distro's with this command
 
@@ -223,10 +223,12 @@ git clone https://github.com/alecive/FlatWoken.git
 
 
 
-#9. Moka 
+#9. Moka and Faba
 
+Moka icon theme inherits from Faba. We will install it also.
 
 These can also be installed and will NOT be installed.
+
 
 
 	sudo apt-get install moka-cinnamon-theme moka-desktop-extras moka-default-settings
@@ -260,9 +262,13 @@ https://github.com/manson9/dalisha-icon-theme
 ![Screenshots]()
 
 
+#12. Vertex
 
+Inherits from Moka !!
 
+https://github.com/horst3180/vertex-icons
 
+![Screenshots]()
 
 
 # THEMES
@@ -308,11 +314,11 @@ Beware this ones gives you many choices with minute color changes.
 ![Screenshots](http://i.imgur.com/fGtUpoB.jpg) 
 
 
-#4. Ceti Theme
+#4. Ceti 2 Theme
 
 http://horst3180.deviantart.com/art/Ceti-445892596
 
-https://github.com/horst3180/Ceti-theme
+https://github.com/horst3180/ceti-2-theme
 
 
 ![Screenshots](http://i.imgur.com/qD53UAV.png) 

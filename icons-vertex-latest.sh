@@ -55,16 +55,14 @@
 ##################################################################################################################
 
 
-rm -rf /tmp/Mint-Y-Theme-Arc
-git clone https://github.com/erikdubois/Mint-Y-Theme-Arc /tmp/Mint-Y-Theme-Arc
+rm -rf /tmp/vertex-icons
+git clone https://github.com/horst3180/vertex-icons.git /tmp/vertex-icons
+mkdir ~/.icons/vertex-icons
+cp -rf /tmp/vertex-icons/* ~/.icons/vertex-icons
 
-# if there is no hidden folder then make one
-[ -d $HOME"/.themes" ] || mkdir -p $HOME"/.themes"
-cp -r /tmp/Mint-Y-Theme-Arc/Mint-Y-Arc ~/.themes/
-cp -r /tmp/Mint-Y-Theme-Arc/Mint-Y-Dark-Arc ~/.themes/
-cp -r /tmp/Mint-Y-Theme-Arc/Mint-Y-Darker-Arc ~/.themes/
 
-rm -rf /tmp/Mint-Y-Theme-Arc
+
+rm -rf /tmp/vertex-icons
 
 echo "################################################################"
 echo "###################    T H E   E N D      ######################"

@@ -57,7 +57,7 @@
 #https://github.com/horst3180/arc-theme
 
 sudo apt-get install build-essential autoconf automake pkg-config libgtk-3.0 libgtk-3-dev -y
-git clone https://github.com/horst3180/arc-theme --depth 1 /tmp/arc-theme && cd arc-theme
+git clone https://github.com/horst3180/arc-theme --depth 1 /tmp/arc-theme && cd /tmp/arc-theme
 ./autogen.sh --prefix=/usr
 sudo make install
 rm -rf /tmp/arc-theme

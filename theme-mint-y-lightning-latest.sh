@@ -63,6 +63,9 @@ git clone https://github.com/erikdubois/Mint-Y-Theme-Lightning /tmp/Mint-Y-Theme
 cp -r /tmp/Mint-Y-Theme-Lightning/Mint-Y-Lightning ~/.themes/
 cp -r /tmp/Mint-Y-Theme-Lightning/Mint-Y-Dark-Lightning ~/.themes/
 cp -r /tmp/Mint-Y-Theme-Lightning/Mint-Y-Darker-Lightning ~/.themes/
+
+rm -rf /tmp/Mint-Y-Theme-Lightning
+
 echo "################################################################"
 echo "###################    T H E   E N D      ######################"
 echo "################################################################"

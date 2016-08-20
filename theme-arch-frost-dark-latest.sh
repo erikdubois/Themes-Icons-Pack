@@ -19,7 +19,7 @@ git clone https://github.com/osendott/arch-frost-gtk-dark /tmp/arch-frost-gtk-da
 
 cp -r /tmp/arch-frost-gtk-dark/arch-frost-dark/* ~/.themes/arch-frost-gtk-dark
 
-
+rm -rf /tmp/arch-frost-gtk-dark
 
 
 echo "################################################################"

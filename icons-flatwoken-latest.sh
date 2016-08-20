@@ -53,7 +53,7 @@
 #   DO NOT JUST RUN THIS. EXAMINE AND JUDGE. AT YOUR OWN RISK.
 #
 ##################################################################################################################
-# F L A T W O K E N
+
 
 rm -rf /tmp/FlatWoken
 
@@ -63,6 +63,7 @@ mkdir ~/.icons/FlatWokenMin
 cp -r /tmp/FlatWoken/FlatWoken/* ~/.icons/FlatWoken
 cp -r /tmp/FlatWoken/FlatWokenMin/* ~/.icons/FlatWokenMin
 
+rm -rf /tmp/FlatWoken
 
 
 echo "################################################################"

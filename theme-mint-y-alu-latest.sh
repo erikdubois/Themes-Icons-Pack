@@ -63,6 +63,8 @@ git clone https://github.com/erikdubois/Mint-Y-Theme-Alu /tmp/Mint-Y-Theme-Alu
 cp -r /tmp/Mint-Y-Theme-Alu/Mint-Y-Alu ~/.themes/
 cp -r /tmp/Mint-Y-Theme-Alu/Mint-Y-Dark-Alu ~/.themes/
 cp -r /tmp/Mint-Y-Theme-Alu/Mint-Y-Darker-Alu ~/.themes/
+
+rm -rf /tmp/Mint-Y-Theme-Alu
 echo "################################################################"
 echo "###################    T H E   E N D      ######################"
 echo "################################################################"

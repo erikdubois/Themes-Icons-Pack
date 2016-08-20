@@ -55,9 +55,7 @@
 ##################################################################################################################
 
 
-echo "Reboot so that all folders in tmp are gone before trying the installation script again"
-echo "alternatively you can clean it manually in /tmp"
-
+echo "THIS WILL UNINSTALL ALL ICONS, THEMES AND REPOSITORIES."
 
 # icons
 
@@ -65,8 +63,7 @@ echo "alternatively you can clean it manually in /tmp"
 rm -rf ~/.icons/*
 
 sudo apt-get remove ultra-flat-icons ultra-flat-icons-green ultra-flat-icons-orange -y
-
-sudo apt-get remove numix-icon-theme numix-icon-theme-circle numix-gtk-theme -y
+sudo apt-get remove numix-icon-theme numix-icon-theme-circle moka-faba-mono-icons faba-icon-theme -y
 
 sudo rm -rf /usr/share/icons/Moka
 sudo rm -rf /usr/share/icons/Dalisha
@@ -83,19 +80,24 @@ sudo rm -rf /usr/share/themes/Ceti-2
 
 sudo rm -rf /usr/share/themes/{Arc,Arc-Darker,Arc-Dark}
 
-sudo apt-get remove ambiance-colors radiance-colors vertex-theme -y
+sudo apt-get remove ambiance-colors radiance-colors vertex-theme numix-gtk-theme -y
+
+sudo apt-get remove moka-gtk-theme dalisha-icons -y
 
 
 # repositories
 
 sudo add-apt-repository --remove ppa:numix/ppa -y
-sudo add-apt-repository --remove ppa:moka/stable -y
+sudo add-apt-repository --remove ppa:moka/daily -y
 sudo add-apt-repository --remove ppa:ravefinity-project/ppa -y
 sudo add-apt-repository --remove ppa:noobslab/themes -y
 sudo add-apt-repository --remove ppa:noobslab/icons -y
 
 
-#sudo apt-get update
+sudo apt-get update
+
+#delete empty link
+sudo rm -rf /usr/share/themes/Numix
 
 echo "################################################################"
 echo "###################    T H E   E N D      ######################"

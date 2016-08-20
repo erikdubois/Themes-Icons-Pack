@@ -58,6 +58,7 @@
 
 rm -rf /tmp/Super-Ultra-Flat-Numix-Remix
 git clone https://github.com/erikdubois/Super-Ultra-Flat-Numix-Remix /tmp/Super-Ultra-Flat-Numix-Remix
+rm /tmp/Super-Ultra-Flat-Numix-Remix/[b,C,g,i,L,l,R]*
 cp -r /tmp/Super-Ultra-Flat-Numix-Remix/* ~/.icons/
 rm -rf /tmp/Super-Ultra-Flat-Numix-Remix
 

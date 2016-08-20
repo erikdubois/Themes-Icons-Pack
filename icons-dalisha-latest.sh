@@ -56,10 +56,9 @@
 
 # D A L I S H A
 
-sudo add-apt-repository ppa:noobslab/icons -y
-sudo apt-get update
-sudo apt-get install dalisha-icons -y
-
+wget -O /tmp/dalisha.deb https://launchpad.net/~noobslab/+archive/ubuntu/icons/+files/dalisha-icons_3.0~trusty~Noobslab.com_all.deb
+sudo dpkg -i /tmp/dalisha.deb
+rm /tmp/dalisha.deb
 
 
 echo "################################################################"

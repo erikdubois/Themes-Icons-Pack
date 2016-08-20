@@ -63,6 +63,9 @@ git clone https://github.com/erikdubois/Mint-Y-Theme-Arch /tmp/Mint-Y-Theme-Arch
 cp -r /tmp/Mint-Y-Theme-Arch/Mint-Y-Arch ~/.themes/
 cp -r /tmp/Mint-Y-Theme-Arch/Mint-Y-Dark-Arch ~/.themes/
 cp -r /tmp/Mint-Y-Theme-Arch/Mint-Y-Darker-Arch ~/.themes/
+
+rm -rf /tmp/Mint-Y-Theme-Arch
+
 echo "################################################################"
 echo "###################    T H E   E N D      ######################"
 echo "################################################################"

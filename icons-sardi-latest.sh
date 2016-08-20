@@ -67,7 +67,7 @@
 wget -O /tmp/sardi.tar.gz "https://sourceforge.net/projects/sardi/files/latest/download?source=files"
 mkdir /tmp/sardi
 tar -zxvf /tmp/sardi.tar.gz -C /tmp/sardi
-rm /tmp/sardi.tar.gz
+rm -rf /tmp/sardi.tar.gz
 
 # if there is no hidden folder then make one
 [ -d $HOME"/.icons" ] || mkdir -p $HOME"/.icons"

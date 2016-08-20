@@ -53,10 +53,12 @@
 #   DO NOT JUST RUN THIS. EXAMINE AND JUDGE. AT YOUR OWN RISK.
 #
 ##################################################################################################################
-# moka
-sudo add-apt-repository ppa:moka/stable -y
+
+
+sudo add-apt-repository ppa:moka/daily -y
 sudo apt-get update
-sudo apt-get install moka-icon-theme -y
+sudo apt-get install faba-icon-theme faba-mono-icons moka-icon-theme -y
+
 
 
 echo "################################################################"

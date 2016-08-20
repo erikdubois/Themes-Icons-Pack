@@ -19,6 +19,7 @@ git clone https://github.com/anmoljagetia/Flatabulous /tmp/Flatabulous
 [ -d $HOME"/.themes/Flatabulous" ] || mkdir -p $HOME"/.themes/Flatabulous"
 cp -r /tmp/Flatabulous/* ~/.themes/Flatabulous
 
+rm -rf /tmp/Flatabulous
 
 echo "################################################################"
 echo "###################    T H E   E N D      ######################"
