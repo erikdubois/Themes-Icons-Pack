@@ -10,7 +10,7 @@ Tried on Linux Mint 18 Cinnamon
 #Two scripts
 
 
-	1. _deb is for ubuntu, linux mint, elementary and all derivatives using apt-get
+	1. _deb is for linux mint, ubuntu, debian, elementary and all derivatives of debian using apt-get
 
 	2. _archlinux is for Archlinux and all derivatives using pacman and packer (yaourt)
 
