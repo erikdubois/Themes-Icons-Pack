@@ -55,35 +55,13 @@ or run this script and <b>delete the sardi icons first!</b>
 	icons-sardi-latest.sh
 
 
-
-![Screenshots](http://i.imgur.com/FOm8gfH.png)
-
-
-![Screenshots](http://i.imgur.com/RwszxLG.png)
+![Screenshots](http://i.imgur.com/T9gN544.jpg)
 
 
-![Screenshots](http://i.imgur.com/k0RXBnB.png)
+![Screenshots](http://i.imgur.com/iS6zFFU.jpg)
 
 
-![Screenshots](http://i.imgur.com/l0Ecx5O.png)  
-
-
-![Screenshots](http://i.imgur.com/pv7bBsW.png)  
-
-
-![Screenshots](http://i.imgur.com/pNDgmJ7.png)  
-
-
-![Screenshots](http://i.imgur.com/g6mccId.png)  
-
-
-![Screenshots](http://i.imgur.com/jtToMq7.png)  
-
-
-![Screenshots](http://i.imgur.com/s5GY5gG.png)  
-
-
-![Screenshots](http://i.imgur.com/KlTeQK7.png)  
+![Screenshots](http://i.imgur.com/IeZFWvs.jpg)
 
 
 ![Screenshots](http://i.imgur.com/lrQ27Xs.jpg)
