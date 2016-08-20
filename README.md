@@ -374,7 +374,6 @@ https://github.com/horst3180/ceti-2-theme
 
 #5. Arch Frost theme
 
-Install via script
 
 http://osendott.github.io/arch-frost/
 
