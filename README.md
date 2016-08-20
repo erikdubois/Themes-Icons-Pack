@@ -7,12 +7,12 @@ Updated   : 20/08/2016
 Tried on Linux Mint 18 Cinnamon
 
 
-#Two scripts
+#Two scripts to install all of these icons and themes at once
 
 
-	1. _deb is for linux mint, ubuntu, debian, elementary and all derivatives of debian using apt-get
+	1. installation_deb is for linux mint, ubuntu, debian, elementary and all derivatives of debian using apt-get
 
-	2. _archlinux is for Archlinux and all derivatives using pacman and packer (yaourt)
+	2. installation_archlinux is for Archlinux and all derivatives using pacman and packer (yaourt)
 
 Check if you have git installed. Install git for deb based distro's with this command
 
