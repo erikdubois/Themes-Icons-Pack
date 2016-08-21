@@ -320,7 +320,7 @@ Also suitable for linux mint cinnamon although KDE is mentioned
 ![Screenshots](http://i.imgur.com/zEHMs1H.jpg)
 
 
-![Screenshots](http://i.imgur.com/oHXPV8f.jpg)
+![Screenshots](http://i.imgur.com/icCgIOi.jpg)
 
 
 ![Screenshots](http://i.imgur.com/oX4KjdJ.jpg)
