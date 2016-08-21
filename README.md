@@ -40,7 +40,7 @@ As a rule of thumb I will install themes from github and other preferably in the
 
 	Beware icons will be copied to ~/.icons
 
-	Beware cursors will be copied to ~/.themes
+	Beware cursors will be copied to ~/.icons
 
 If provided with a deb, tar.gz or a script the installation ends up in 
 
