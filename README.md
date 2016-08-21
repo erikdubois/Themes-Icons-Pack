@@ -323,7 +323,7 @@ Also suitable for linux mint cinnamon although KDE is mentioned
 ![Screenshots](http://i.imgur.com/oHXPV8f.jpg)
 
 
-![Screenshots](http://i.imgur.com/95MqwZQ.jpg)
+![Screenshots](http://i.imgur.com/oX4KjdJ.jpg)
 
 
 ![Screenshots](http://i.imgur.com/nfdwp0y.jpg)
