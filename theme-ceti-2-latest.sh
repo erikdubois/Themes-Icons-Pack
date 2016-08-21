@@ -55,10 +55,7 @@
 ##################################################################################################################
 
 
-
-sudo rm -rf /usr/share/themes/Ceti-2
-rm -rf ~/.local/share/themes/Ceti-2
-rm -rf ~/.themes/Ceti-2
+rm -rf /tmp/Ceti-2-theme
 
 sudo apt-get install autoconf automake pkg-config libgtk-3-dev git
 
