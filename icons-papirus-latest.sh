@@ -56,12 +56,11 @@
 
 
 
-rm -rf /tmp/Super-Ultra-Flat-Numix-Remix
-git clone https://github.com/erikdubois/Super-Ultra-Flat-Numix-Remix /tmp/Super-Ultra-Flat-Numix-Remix
-find /tmp/Super-Ultra-Flat-Numix-Remix -maxdepth 1 -type f -exec rm -rf '{}' \;
-cp -r /tmp/Super-Ultra-Flat-Numix-Remix/* ~/.icons/
-rm -rf /tmp/Super-Ultra-Flat-Numix-Remix
-
+rm -rf /tmp/papirus-icon-theme-kde
+git clone https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-kde /tmp/papirus-icon-theme-kde
+find /tmp/papirus-icon-theme-kde -maxdepth 1 -type f -exec rm -rf '{}' \;
+cp -r /tmp/papirus-icon-theme-kde/* ~/.icons/
+rm -rf /tmp/papirus-icon-theme-kde
 
 
 echo "################################################################"

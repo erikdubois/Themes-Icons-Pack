@@ -144,6 +144,12 @@ sh icons-compass-latest.sh
 sh icons-vertex-latest.sh
 
 
+# 13. Papirus icons
+# from github
+
+sh icons-papirus-latest.sh
+
+
 echo "#####################################################"
 echo "#####################################################"
 echo "#####################################################"

@@ -93,9 +93,7 @@ sudo add-apt-repository --remove ppa:ravefinity-project/ppa -y
 sudo rm /ect/apt/sources.list.d/vertex-theme.list
 
 
-
-
-
+# getting new cache
 sudo apt-get update
 
 #delete empty link

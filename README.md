@@ -311,6 +311,27 @@ https://github.com/horst3180/vertex-icons
 
 
 
+#13. Papirus icons
+
+https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-kde
+
+Also suitable for linux mint cinnamon although KDE is mentioned
+
+![Screenshots]()
+
+
+![Screenshots]()
+
+
+![Screenshots]()
+
+
+![Screenshots]()
+
+
+
+
+
 
 # THEMES
 
