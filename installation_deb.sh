@@ -166,7 +166,7 @@ sh theme-vertex-latest.sh
 # 2.Numix
 # from ppa
 
-sh thmemes-numix-latest.sh
+sh themes-numix-latest.sh
 
 # 3. Ambiance
 # from ppa
