@@ -317,16 +317,16 @@ https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-kde
 
 Also suitable for linux mint cinnamon although KDE is mentioned
 
-![Screenshots]()
+![Screenshots](http://i.imgur.com/zEHMs1H.jpg)
 
 
-![Screenshots]()
+![Screenshots](http://i.imgur.com/oHXPV8f.jpg)
 
 
-![Screenshots]()
+![Screenshots](http://i.imgur.com/95MqwZQ.jpg)
 
 
-![Screenshots]()
+![Screenshots](http://i.imgur.com/7tGSO7S.jpg)
 
 
 
