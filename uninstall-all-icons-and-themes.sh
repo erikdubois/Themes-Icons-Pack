@@ -90,7 +90,7 @@ sudo apt-get remove moka-gtk-theme dalisha-icons -y
 sudo add-apt-repository --remove ppa:numix/ppa -y
 sudo add-apt-repository --remove ppa:moka/daily -y
 sudo add-apt-repository --remove ppa:ravefinity-project/ppa -y
-sudo rm /ect/apt/sources.list.d/vertex-theme.list
+sudo rm /etc/apt/sources.list.d/vertex-theme.list
 
 
 # getting new cache
