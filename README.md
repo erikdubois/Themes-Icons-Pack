@@ -507,10 +507,22 @@ The arc theme is now matching the colours of Sardi Mono Orange.
 
 #15. Arc Faba
 
+Based on the arc theme of horst3180 @ [github](https://github.com/horst3180/arc-theme) I follow this tutorial to change the colour of the accents from blue to any colour I want.
 
+[![Change the colour of the Arc Theme](http://i.imgur.com/WnT6XAH.png)](https://youtu.be/N_3tCp-47YY "Changing the colour of the Arc Theme")
 
+The arc theme is now matching the colours of the faba or moka icon theme.
 
+![Screenshots](http://i.imgur.com/wdRZjyT.jpg)
 
 
 
 #16. Arc Luv
+
+Based on the arc theme of horst3180 @ [github](https://github.com/horst3180/arc-theme) I follow this tutorial to change the colour of the accents from blue to any colour I want.
+
+[![Change the colour of the Arc Theme](http://i.imgur.com/WnT6XAH.png)](https://youtu.be/N_3tCp-47YY "Changing the colour of the Arc Theme")
+
+The arc theme is now matching the colours of the faba or moka icon theme.
+
+![Screenshots](http://i.imgur.com/XRPpcnC.jpg)
