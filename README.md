@@ -22,6 +22,10 @@ For testing purpose I made also a
 
 that will uninstall all icons, themes and repositories.
 
+Because ambiance and radiance themes 'pollute' our theme manager I have added a script to delete them selectively. 
+
+	uninstall-ambiance-and-radiance.be
+
 
 Check if you have git installed. Install git for deb based distro's with this command
 
