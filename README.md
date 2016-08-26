@@ -113,7 +113,9 @@ This is an exercise in changing the directories from scalable/... to 22x22/...
 
 Super Ultra Flat Numix Remix will be updated not the Yltra Flat icon set.
 
+Run this script to have them installed :
 
+	icons-super-ultra-flat-numix-remix-latest.sh
 
 ![Screenshots](http://i.imgur.com/i1FGsR9.jpg)
 
