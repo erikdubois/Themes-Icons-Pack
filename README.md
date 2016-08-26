@@ -54,6 +54,11 @@ Remove manually if you have already an older/adapted version.
 
 It is up to you to activate them.
 
+# Youtube tutorial
+
+[![Installing and uninstalling the icons and themes the easy way](http://i.imgur.com/QIUaBXz.png)](https://youtu.be/zusUcPsf0qQ "Installing and uninstalling the icons and themes the easy way")
+
+
 
 
 # ICONS
