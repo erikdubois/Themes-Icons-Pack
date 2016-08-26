@@ -2,7 +2,7 @@
 
 The idea is to gather all great icon themes and desktop themes that work on a Linux Mint system but often also work on other systems.
 
-Updated   : 20/08/2016
+Updated   : 26/08/2016
 
 Tried on Linux Mint 18 Cinnamon
 
