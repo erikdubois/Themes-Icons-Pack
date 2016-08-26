@@ -503,6 +503,7 @@ Based on the arc theme of horst3180 @ [github](https://github.com/horst3180/arc-
 
 The arc theme is now matching the colours of Sardi Mono Orange.
 
+![Screenshots](http://i.imgur.com/M6MLiij.jpg)
 
 #15. Arc Faba
 
