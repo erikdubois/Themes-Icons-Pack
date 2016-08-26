@@ -12,9 +12,16 @@ Tried on Linux Mint 18 Cinnamon
 But fair warning your icon or theme selection manager will have a LOT of choices then.
 
 
-	1. installation_deb is for linux mint, ubuntu, debian, elementary and all derivatives of debian using apt-get
 
-	2.  BETA : installation_archlinux is for Archlinux and all derivatives using pacman and packer (alternative for yaourt)
+#installation_deb.sh
+
+is for linux mint, ubuntu, debian, elementary and all derivatives of debian using apt-get
+
+
+
+#installation_archlinux.sh (beta folder)
+
+is for Archlinux and all derivatives using pacman and packer (alternative for yaourt)
 
 For testing purpose I made also a 
 
