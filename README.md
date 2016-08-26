@@ -13,13 +13,13 @@ But fair warning your icon or theme selection manager will have a LOT of choices
 
 
 
-#installation_deb.sh
+###installation_deb.sh
 
 is for linux mint, ubuntu, debian, elementary and all derivatives of debian using apt-get
 
 
 
-#installation_archlinux.sh (beta folder)
+###installation_archlinux.sh (beta folder)
 
 is for Archlinux and all derivatives using pacman and packer (alternative for yaourt)
 
