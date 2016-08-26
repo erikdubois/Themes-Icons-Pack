@@ -497,7 +497,7 @@ https://github.com/erikdubois/Mint-Y-Theme-Sun
 
 #14. Arc Sun
 
-Based on the arc theme of horst3180 @ [github](https://github.com/horst3180/arc-theme) I follow this tutorial to change the colour of the accents from blue to any colour I want.
+Based on the arc theme of horst3180 @ [github](https://github.com/horst3180/arc-theme) I follow the tutorial below to change the colour of the accents from blue to any colour I want.
 
 [![Change the colour of the Arc Theme](http://i.imgur.com/WnT6XAH.png)](https://youtu.be/N_3tCp-47YY "Changing the colour of the Arc Theme")
 
@@ -509,7 +509,7 @@ Source of this theme : https://github.com/erikdubois/arc-theme-sun
 
 #15. Arc Faba
 
-Based on the arc theme of horst3180 @ [github](https://github.com/horst3180/arc-theme) I follow this tutorial to change the colour of the accents from blue to any colour I want.
+Based on the arc theme of horst3180 @ [github](https://github.com/horst3180/arc-theme) I follow the tutorial below to change the colour of the accents from blue to any colour I want.
 
 [![Change the colour of the Arc Theme](http://i.imgur.com/WnT6XAH.png)](https://youtu.be/N_3tCp-47YY "Changing the colour of the Arc Theme")
 
@@ -521,7 +521,7 @@ Source of this theme : https://github.com/erikdubois/arc-theme-sun
 
 #16. Arc Luv
 
-Based on the arc theme of horst3180 @ [github](https://github.com/horst3180/arc-theme) I follow this tutorial to change the colour of the accents from blue to any colour I want.
+Based on the arc theme of horst3180 @ [github](https://github.com/horst3180/arc-theme) I follow the tutorial below to change the colour of the accents from blue to any colour I want.
 
 [![Change the colour of the Arc Theme](http://i.imgur.com/WnT6XAH.png)](https://youtu.be/N_3tCp-47YY "Changing the colour of the Arc Theme")
 
