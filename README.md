@@ -493,3 +493,23 @@ https://github.com/erikdubois/Mint-Y-Theme-Lightning
 https://github.com/erikdubois/Mint-Y-Theme-Sun
 
 ![Screenshots](http://i.imgur.com/6YJg0RE.jpg)
+
+
+#14. Arc Sun
+
+Based on the arc theme of horst3180 @ [github](https://github.com/horst3180/arc-theme) I follow this tutorial to change the colour of the accents from blue to any colour I want.
+
+[![Change the colour of the Arc Theme](http://i.imgur.com/WnT6XAH.png)](https://youtu.be/N_3tCp-47YY "Changing the colour of the Arc Theme")
+
+The arc theme is now matching the colours of Sardi Mono Orange.
+
+
+#15. Arc Faba
+
+
+
+
+
+
+
+#16. Arc Luv

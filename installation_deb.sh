@@ -86,7 +86,7 @@ sh icons-sardi-latest.sh
 # 2.Super Ultra Flat Numix Remix
 # from github
 
-sh icons-super-ultra-flat-numix-latest.sh
+sh icons-super-ultra-flat-numix-remix-latest.sh
 
 
 # 3.Numix
@@ -240,6 +240,11 @@ sh theme-mint-y-lightning-latest.sh
 # from github
 
 sh theme-mint-y-sun-latest.sh
+
+#14. Arc-theme-sun
+# from github
+
+sh theme-arc-theme-sun-latest.sh
 
 
 echo "################################################################"
