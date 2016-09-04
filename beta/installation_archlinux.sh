@@ -111,7 +111,7 @@ packer vertex-themes --noedit
 
 
 # 2 Numix 
-sudo pacman -S numix-themes --noedit
+sudo pacman -S numix-themes --noconfirm
 packer numix-themes-archblue --noedit
 
 
