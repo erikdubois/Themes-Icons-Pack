@@ -149,6 +149,11 @@ sh icons-vertex-latest.sh
 
 sh icons-papirus-latest.sh
 
+# 14. La Capitaine
+# from github
+
+sh icons-lacapitaine-latest.sh
+
 
 echo "#####################################################"
 echo "#####################################################"
