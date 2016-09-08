@@ -82,6 +82,7 @@ echo "#####################################################"
 # from sourceforge 
 
 sh icons-sardi-latest.sh
+sh icons-sardi-extra-latest.sh
 
 # 2.Super Ultra Flat Numix Remix
 # from github
