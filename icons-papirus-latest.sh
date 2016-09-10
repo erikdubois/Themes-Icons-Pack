@@ -63,6 +63,13 @@ cp -r /tmp/papirus-icon-theme-kde/* ~/.icons/
 rm -rf /tmp/papirus-icon-theme-kde
 
 
+rm -rf /tmp/papirus-icon-theme-gtk
+git clone https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk /tmp/papirus-icon-theme-gtk
+find /tmp/papirus-icon-theme-gtk -maxdepth 1 -type f -exec rm -rf '{}' \;
+cp -r /tmp/papirus-icon-theme-gtk/* ~/.icons/
+rm -rf /tmp/papirus-icon-theme-gtk
+
+
 echo "################################################################"
 echo "###################    T H E   E N D      ######################"
 echo "################################################################"
