@@ -352,7 +352,7 @@ Also suitable for linux mint cinnamon although KDE is mentioned
 ![Screenshots](http://i.imgur.com/nfdwp0y.jpg)
 
 
-Papirus Dark Gtk
+#Papirus Dark Gtk
 
 
 ![Screenshots](http://i.imgur.com/So6QnE2.jpg)
