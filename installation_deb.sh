@@ -252,6 +252,10 @@ sh theme-mint-y-sun-latest.sh
 
 sh theme-arc-theme-sun-latest.sh
 
+#15. Mint-Y-Endeavour
+# from github
+
+sh theme-mint-y-endeavour-latest.sh
 
 echo "################################################################"
 echo "####     END OF INSTALLATION OF ICONS AND THEMES      ##########"
