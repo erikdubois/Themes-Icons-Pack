@@ -2,7 +2,7 @@
 
 The idea is to gather all great icon themes and desktop themes that work on a Linux Mint system but often also work on other systems.
 
-Updated   : 26/08/2016
+Updated   : 10/09/2016
 
 Tried on Linux Mint 18 Cinnamon
 
@@ -333,6 +333,11 @@ https://github.com/horst3180/vertex-icons
 
 https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-kde
 
+and
+
+https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk
+
+
 Also suitable for linux mint cinnamon although KDE is mentioned
 
 ![Screenshots](http://i.imgur.com/zEHMs1H.jpg)
@@ -345,6 +350,15 @@ Also suitable for linux mint cinnamon although KDE is mentioned
 
 
 ![Screenshots](http://i.imgur.com/nfdwp0y.jpg)
+
+
+#Papirus Dark Gtk
+
+
+![Screenshots](http://i.imgur.com/So6QnE2.jpg)
+
+
+![Screenshots](http://i.imgur.com/40aWd2U.jpg)
 
 
 #14. La Captaine
