@@ -62,99 +62,6 @@ sudo apt-get install git -y
 
 
 
-########################################
-########        I C O N S      #########
-########################################
-
-
-echo "#####################################################"
-echo "#####################################################"
-echo "#####################################################"
-echo "#####################################################"
-echo "############       ICONS            #################"
-echo "#####################################################"
-echo "#####################################################"
-echo "#####################################################"
-echo "#####################################################"
-
-
-# 1.Sardi
-# from sourceforge 
-
-sh icons-sardi-latest.sh
-sh icons-sardi-extra-latest.sh
-
-# 2.Super Ultra Flat Numix Remix
-# from github
-
-sh icons-super-ultra-flat-numix-remix-latest.sh
-
-
-# 3.Numix
-# from ppa
-
-sh icons-numix-circle-latest.sh
-
-# 4.Evopop
-# from github
-
-sh icons-evopop-latest.sh
-
-
-# 5.FLATTR
-
-sh icons-flattr-latest.sh
-
-
-# 6.Super Flat remix
-# from github
-
-sh icons-super-flat-remix-latest.sh
-
-# 7.Ultra flat
-
-sh icons-ultra-flat-latest.sh
-
-
-# 8.Flatwoken
-# from github
-
-sh icons-flatwoken-latest.sh
-
-
-# 9.Moka
-# from ppa
-
-sh icons-moka-latest.sh
-
-
-# 10.Dalisha
-# from ppa
-
-sh icons-dalisha-latest.sh
-
-
-# 11.Compass
-# from ppa
-
-sh icons-compass-latest.sh
-
-# 12. vertex icons
-# from github
-
-sh icons-vertex-latest.sh
-
-
-# 13. Papirus icons
-# from github
-
-sh icons-papirus-latest.sh
-
-# 14. La Capitaine
-# from github
-
-sh icons-lacapitaine-latest.sh
-
 
 echo "#####################################################"
 echo "#####################################################"
@@ -183,7 +90,8 @@ sh themes-numix-latest.sh
 # 3. Ambiance
 # from ppa
 
-sh theme-ambiance-latest.sh
+# omitted it because of too many themes in one
+#sh theme-ambiance-latest.sh
 
 # 4. Ceti 2
 
