@@ -55,14 +55,20 @@
 ##################################################################################################################
 
 
+#https://github.com/mclmza/arc-theme-Red
 
-rm -rf /tmp/arc-theme-sun
-git clone https://github.com/erikdubois/arc-theme-sun /tmp/arc-theme-sun
-#find /tmp/arc-theme-sun -maxdepth 1 -type f -exec rm -rf '{}' \;
-cp -r /tmp/arc-theme-sun/themes/* ~/.themes/
-rm -rf /tmp/arc-theme-sun
+rm -rf /tmp/arc-theme-Red
 
+sudo apt-get install -y autoconf automake pkg-config libgtk-3-dev git
 
+git clone https://github.com/mclmza/arc-theme-Red --depth 1 /tmp/arc-theme-Red
+cd /tmp/arc-theme-Red
+./autogen.sh --prefix=/usr
+sudo make install
+#sudo make uninstall
+
+# cleanup
+rm -rf /tmp/arc-theme-Red
 
 echo "################################################################"
 echo "###################    T H E   E N D      ######################"
