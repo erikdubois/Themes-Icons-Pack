@@ -113,7 +113,7 @@ This icon theme is based on an older one i.e. yltra flat also on github.
 
 This is an exercise in changing the directories from scalable/... to 22x22/...
 
-Surfn (old name Super Ultra Flat Numix Remix) will be updated not the Yltra Flat icon set.
+**Surfn**(old name Super Ultra Flat Numix Remix) will be updated not the Yltra Flat icon set.
 
 Run this script to have them installed :
 
