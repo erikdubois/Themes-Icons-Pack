@@ -79,7 +79,7 @@ sudo rm -rf /usr/share/themes/Ceti-2
 sudo rm -rf /usr/share/themes/{Arc,Arc-Darker,Arc-Dark}
 sudo apt-get remove -y ambiance-colors
 sudo apt-get remove -y radiance-colors
-sudo apt-get remove -y vertex-theme
+sudo rm -rf /usr/share/themes/{Vertex,Vertex-Light,Vertex-Dark}
 
 
 sudo apt-get remove -y numix-gtk-theme
