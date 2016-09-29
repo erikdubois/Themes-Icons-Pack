@@ -85,7 +85,7 @@ sh icons-sardi-extra-latest.sh
 
 sh icons-sardi-extra-latest.sh
 
-sh icons-super-ultra-flat-numix-remix-latest.sh
+sh icons-surfn-latest.sh
 
 
 

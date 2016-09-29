@@ -106,18 +106,18 @@ Run this script to install the latest version
 
 
 
-# Super Ultra Flat Numix Remix
+# Surfn
 --------------------------------- 
 
 This icon theme is based on an older one i.e. yltra flat also on github.
 
 This is an exercise in changing the directories from scalable/... to 22x22/...
 
-Super Ultra Flat Numix Remix will be updated not the Yltra Flat icon set.
+Super Ultra Flat Numix Remix (old name) or Surfn, as I call it now, will be updated not the Yltra Flat icon set.
 
 Run this script to have them installed :
 
-	icons-super-ultra-flat-numix-remix-latest.sh
+	icons-surfn-latest.sh
 
 
 ![Screenshots](http://i.imgur.com/i1FGsR9.jpg)
@@ -176,13 +176,15 @@ Mint-Y : http://erikdubois.be/
 
 ![Screenshots](http://i.imgur.com/6FcWAzP.jpg)
 
+##Arc Sun
+
+![Screenshots](http://i.imgur.com/QnFBXN7.jpg)
+
 ## Arc Tomato
 
 ![Screenshots](http://i.imgur.com/jhuHWu8.png)
 
-##Arc Sun
 
-![Screenshots](http://i.imgur.com/QnFBXN7.jpg)
 
 
 

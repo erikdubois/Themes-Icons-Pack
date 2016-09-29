@@ -43,7 +43,7 @@
 #
 # Super Ultra Flat Numix Remix
 # Colourfull and playfull icons
-# https://github.com/erikdubois/Super-Ultra-Flat-Numix-Remix
+# https://github.com/erikdubois/Surfn
 #
 # Check out the github - many more scripts for automatic installation of Linux Systems.
 #
@@ -56,11 +56,11 @@
 
 
 
-rm -rf /tmp/Super-Ultra-Flat-Numix-Remix
-git clone https://github.com/erikdubois/Super-Ultra-Flat-Numix-Remix /tmp/Super-Ultra-Flat-Numix-Remix
-find /tmp/Super-Ultra-Flat-Numix-Remix -maxdepth 1 -type f -exec rm -rf '{}' \;
-cp -r /tmp/Super-Ultra-Flat-Numix-Remix/* ~/.icons/
-rm -rf /tmp/Super-Ultra-Flat-Numix-Remix
+rm -rf /tmp/Surfn
+git clone https://github.com/erikdubois/Surfn /tmp/Surfn
+find /tmp/Surfn -maxdepth 1 -type f -exec rm -rf '{}' \;
+cp -r /tmp/Surfn/* ~/.icons/
+rm -rf /tmp/Surfn
 
 
 
