@@ -372,6 +372,26 @@ Some specific mint icons are missing. Go to the index.theme and change the inher
 
 
 
+#15. Oranchelo
+
+We will get the latest icons from github
+
+https://github.com/OrancheloTeam/oranchelo-icon-theme
+
+![Screenshots](http://i.imgur.com/xAhJZRQ.jpg)
+
+
+
+#16. Paper
+
+We will get the latest icons from github
+
+https://github.com/snwh/paper-icon-theme
+
+![Screenshots](http://i.imgur.com/h3Jo2K1.jpg)
+
+
+
 
 # THEMES
 

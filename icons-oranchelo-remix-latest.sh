@@ -43,7 +43,7 @@
 #
 # Super Ultra Flat Numix Remix
 # Colourfull and playfull icons
-# https://github.com/erikdubois/Super-Ultra-Flat-Numix-Remix
+# https://github.com/erikdubois/oranchelo-icon-theme
 #
 # Check out the github - many more scripts for automatic installation of Linux Systems.
 #
@@ -55,20 +55,14 @@
 ##################################################################################################################
 
 
-#https://github.com/mclmza/arc-theme-Red
 
-rm -rf /tmp/arc-theme-Red
+rm -rf /tmp/oranchelo-icon-theme
+git clone https://github.com/OrancheloTeam/oranchelo-icon-theme /tmp/oranchelo-icon-theme
+find /tmp/oranchelo-icon-theme -maxdepth 1 -type f -exec rm -rf '{}' \;
+cp -r /tmp/oranchelo-icon-theme/* ~/.icons/
+rm -rf /tmp/oranchelo-icon-theme
 
-sudo apt-get install -y autoconf automake pkg-config libgtk-3-dev git
 
-git clone https://github.com/mclmza/arc-theme-Red --depth 1 /tmp/arc-theme-Red
-cd /tmp/arc-theme-Red
-./autogen.sh --prefix=/usr
-sudo make install
-#sudo make uninstall
-
-# cleanup
-rm -rf /tmp/arc-theme-Red
 
 echo "################################################################"
 echo "###################    T H E   E N D      ######################"

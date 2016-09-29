@@ -56,115 +56,17 @@
 
 
 
-# needed to download files
+rm -rf /tmp/paper-icon-theme
+git clone https://github.com/snwh/paper-icon-theme /tmp/paper-icon-theme
+cd  /tmp/paper-icon-theme
+sudo apt-get install autotools-dev -y
+./autogen.sh 
+make
+sudo make install 
 
-sudo apt-get install git -y
+#rm -rf /tmp/papirus-icon-theme-gtk
 
-
-
-
-echo "#####################################################"
-echo "#####################################################"
-echo "#####################################################"
-echo "#####################################################"
-echo "############        THEMES          #################"
-echo "#####################################################"
-echo "#####################################################"
-echo "#####################################################"
-echo "#####################################################"
-
-########################################
-########        T H E M E S    #########
-########################################
-
-# 1.Vertex
-# from ppa
-
-sh theme-vertex-latest.sh 
-
-# 2.Numix
-# from ppa
-
-sh themes-numix-latest.sh
-
-# 3. Ambiance
-# from ppa
-
-# omitted it because of too many themes in one
-#sh theme-ambiance-latest.sh
-
-# 4. Ceti 2
-
-sh theme-ceti-2-latest.sh
-
-
-# 5. Arch frost dark
-# from github
-
-sh theme-arch-frost-dark-latest.sh
-
-
-
-# 5. Arch frost light
-# from github
-
-sh theme-arch-frost-light-latest.sh
-
-
-# 6. Flatabulous
-# from github
-
-sh theme-flatabulous-latest.sh
-
-# 7. Arc
-# from github
-
-sh theme-arc-latest.sh
-
-
-
-#8. Mint-Y-Alu
-# from github
-
-sh theme-mint-y-alu-latest.sh
-
-
-#9. Mint-Y-Arc
-# from github
-
-sh theme-mint-y-arc-latest.sh
-
-#10. Mint-Y-Arch
-# from github
-
-sh theme-mint-y-arch-latest.sh
-
-#11. Mint-Y-Fire
-# from github
-
-sh theme-mint-y-fire-latest.sh
-
-#12. Mint-Y-Lightning
-# from github
-
-sh theme-mint-y-lightning-latest.sh
-
-
-#13. Mint-Y-Sun
-# from github
-
-sh theme-mint-y-sun-latest.sh
-
-#14. Arc-theme-colora
-# from github
-
-sh theme-arc-colora-latest.sh
-
-#15. Mint-Y-Endeavour
-# from github
-
-sh theme-mint-y-endeavour-latest.sh
 
 echo "################################################################"
-echo "####     END OF INSTALLATION OF ICONS AND THEMES      ##########"
+echo "###################    T H E   E N D      ######################"
 echo "################################################################"
