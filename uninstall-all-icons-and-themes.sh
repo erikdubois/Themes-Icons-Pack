@@ -71,19 +71,19 @@ sudo rm -rf /usr/share/icons/EvoPop
 sudo rm -rf /usr/share/icons/Faba
 sudo rm -rf /usr/share/icons/Paper
 
-
-
 # themes
 
 rm -rf ~/.themes/*
 
 sudo rm -rf /usr/share/themes/Ceti-2
-
 sudo rm -rf /usr/share/themes/{Arc,Arc-Darker,Arc-Dark}
+sudo apt-get remove -y ambiance-colors
+sudo apt-get remove -y radiance-colors
+sudo apt-get remove -y vertex-theme
 
-sudo apt-get remove ambiance-colors radiance-colors vertex-theme numix-gtk-theme -y
 
-sudo apt-get remove  dalisha-icons -y
+sudo apt-get remove -y numix-gtk-theme
+sudo apt-get remove -y dalisha-icons
 
 
 # repositories
