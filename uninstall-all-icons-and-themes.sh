@@ -69,6 +69,7 @@ sudo rm -rf /usr/share/icons/Moka
 sudo rm -rf /usr/share/icons/Dalisha
 sudo rm -rf /usr/share/icons/EvoPop
 sudo rm -rf /usr/share/icons/Faba
+sudo rm -rf /usr/share/icons/Paper
 
 
 
@@ -82,7 +83,7 @@ sudo rm -rf /usr/share/themes/{Arc,Arc-Darker,Arc-Dark}
 
 sudo apt-get remove ambiance-colors radiance-colors vertex-theme numix-gtk-theme -y
 
-sudo apt-get remove moka-gtk-theme dalisha-icons -y
+sudo apt-get remove  dalisha-icons -y
 
 
 # repositories
@@ -93,11 +94,12 @@ sudo add-apt-repository --remove ppa:ravefinity-project/ppa -y
 sudo rm /etc/apt/sources.list.d/vertex-theme.list
 
 
-# getting new cache
-sudo apt-get update
-
 #delete empty link
 sudo rm -rf /usr/share/themes/Numix
+
+# getting new cache
+#sudo apt-get update
+
 
 echo "################################################################"
 echo "###################    ALL UNINSTALLED    ######################"

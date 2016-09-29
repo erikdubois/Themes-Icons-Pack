@@ -9,19 +9,14 @@ The idea is to gather all great icon themes and desktop themes that work on a **
 But **fair warning** your icon or theme selection manager will have a LOT of choices then.
 
 
+	all-in-once-installation_deb_icons.sh
 
-###installation_deb.sh
+	all-in-once-installation_deb_themes.sh
 
 is for linux mint, ubuntu, debian, elementary and all derivatives of debian using apt-get and other commands.
 
 
-
-###installation_archlinux.sh (beta folder)
-
-is for Archlinux and all derivatives using pacman and packer (alternative for yaourt)
-
-
-#Uninstall all the themes and icons
+#One script to uninstall all the themes and icons
 
 Uninstalling can be as important as installing, I made also a 
 
