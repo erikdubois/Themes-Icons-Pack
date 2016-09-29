@@ -1,10 +1,10 @@
 # Themes Icons Pack
 
-The idea is to gather all great icon themes and desktop themes that work on a Linux Mint 18 Cinnamon system but often also work on other systems.
+The idea is to gather all great icon themes and desktop themes that work on a **Linux Mint 18 Cinnamon** system but often also work on other systems.
 
 
 
-#Two scripts to install all of these icons and themes at once
+#Two scripts to install all icons and themes
 
 But **fair warning** your icon or theme selection manager will have a LOT of choices then.
 
