@@ -1,21 +1,18 @@
 # Themes Icons Pack
 
-The idea is to gather all great icon themes and desktop themes that work on a Linux Mint system but often also work on other systems.
+The idea is to gather all great icon themes and desktop themes that work on a Linux Mint 18 Cinnamon system but often also work on other systems.
 
-Updated   : 10/09/2016
-
-Tried on Linux Mint 18 Cinnamon
 
 
 #Two scripts to install all of these icons and themes at once
 
-But fair warning your icon or theme selection manager will have a LOT of choices then.
+But **fair warning** your icon or theme selection manager will have a LOT of choices then.
 
 
 
 ###installation_deb.sh
 
-is for linux mint, ubuntu, debian, elementary and all derivatives of debian using apt-get
+is for linux mint, ubuntu, debian, elementary and all derivatives of debian using apt-get and other commands.
 
 
 
@@ -23,27 +20,23 @@ is for linux mint, ubuntu, debian, elementary and all derivatives of debian usin
 
 is for Archlinux and all derivatives using pacman and packer (alternative for yaourt)
 
-For testing purpose I made also a 
+
+#Uninstall all the themes and icons
+
+Uninstalling can be as important as installing, I made also a 
 
 	uninstall-all-icons-and-themes.sh
 
 that will uninstall all icons, themes and repositories.
 
-Because ambiance and radiance themes 'pollute' our theme manager I have added a script to delete them selectively. 
 
-	uninstall-ambiance-and-radiance.be
+# Note
 
+Because ambiance and radiance themes 'pollute' our theme manager I have added a script to install/delete them selectively. 
 
-Check if you have git installed. Install git for deb based distro's with this command
+	install-ambiance-and-radiance.be
+	uninstall-ambiance-and-radiance.sh
 
-	sudo apt-get install git
-
-or on Archlinux install git with this command
-
-	sudo pacman -S git
-
-
-Now you can use the command git clone in the terminal and run scripts.
 
 As a rule of thumb I will install themes from github and other preferably in the home folder.
 
@@ -53,7 +46,7 @@ As a rule of thumb I will install themes from github and other preferably in the
 
 	Beware cursors will be copied to ~/.icons
 
-If provided with a deb, tar.gz or a script the installation ends up in 
+If provided with a deb, tar.gz or a script the installation ends up (most likely) in 
 
 	/usr/share/themes
 
@@ -63,11 +56,7 @@ If provided with a deb, tar.gz or a script the installation ends up in
 Remove manually if you have already an older/adapted version.
 
 
-It is up to you to activate them.
-
-# Youtube tutorial
-
-[![Installing and uninstalling the icons and themes the easy way](http://i.imgur.com/QIUaBXz.png)](https://youtu.be/zusUcPsf0qQ "Installing and uninstalling the icons and themes the easy way")
+It is up to you to activate them with your theme/icon manager.
 
 
 
@@ -75,20 +64,18 @@ It is up to you to activate them.
 # ICONS HOMEBREW
 
 
-#1. Sardi icon theme
+# Sardi icon theme
 
-Sardi has its origins in Ardis but has evolved in a new icon set.
+Sardi has its origins in Ardis but has evolved in a new icon set of 18 variations with 5 core sets.
 
-http://sourceforge.net/projects/sardi/
+Download at http://sourceforge.net/projects/sardi/
 
+Read more at http://erikdubois.be/category/sardi-icons/
 
-<b>Download, unzip and put in .icons folder</b>
-
-or run this script and <b>delete the sardi icons first!</b>
+Run this script to install the latest version
 
 	icons-sardi-latest.sh
 
-to get these sardi icons. 18 icons sets in one.
 
 ![Screenshots](http://i.imgur.com/T9gN544.jpg)
 
@@ -102,7 +89,11 @@ to get these sardi icons. 18 icons sets in one.
 ![Screenshots](http://i.imgur.com/lrQ27Xs.jpg)
 
 
+
+
 # 2. Sardi Extra
+
+Sardi totals up to 54 Sardi variations including Sardi and Sardi Extra.
 
 These are all runs of the colour changing scripts. All icon themes in Sardi with the name COLORA have scripts to change the colours the way YOU want.
 
@@ -110,8 +101,13 @@ These are all runs of the colour changing scripts. All icon themes in Sardi with
 
 These icons are the result of perfecting the scripts.
 
-
 https://github.com/erikdubois/Sardi-Extra
+
+
+Run this script to install the latest version
+
+	icons-sardi-extra-latest.sh
+
 
 
 
@@ -128,11 +124,12 @@ Run this script to have them installed :
 
 	icons-super-ultra-flat-numix-remix-latest.sh
 
+
 ![Screenshots](http://i.imgur.com/i1FGsR9.jpg)
 
 
-
 ![Screenshots](http://i.imgur.com/EocrQ70.png)
+
 
 
 
