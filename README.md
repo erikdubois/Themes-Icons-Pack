@@ -132,6 +132,136 @@ Run this script to have them installed :
 
 
 
+# THEMES HOMEBREW
+
+These themes have been altered with scripts to change the colour accents. 
+
+More info on these githubs and on http://erikdubois.be
+
+Arc : https://github.com/erikdubois/arc-theme-colora
+Arc : http://erikdubois.be/change-colour-arc-theme-horst3180/
+
+Mint-Y : https://github.com/erikdubois/Mint-Y-Colora-Theme
+Mint-Y : http://erikdubois.be/
+
+
+
+# Arc based themes
+
+
+##Arc Breeze
+
+![Screenshots](http://i.imgur.com/M90Lv19.jpg)
+
+##Arc Evopop
+
+![Screenshots](http://i.imgur.com/0t8HtAP.jpg)
+
+##Arc Faba
+
+![Screenshots](http://i.imgur.com/wdRZjyT.jpg)
+
+## Arc Luv
+
+![Screenshots](http://i.imgur.com/c3OTQLZ.jpg)
+
+## Arc Numix
+
+![Screenshots](http://i.imgur.com/vuZ9N2j.jpg)
+
+## Arc Paper
+
+![Screenshots](http://i.imgur.com/uB4WWNW.jpg)
+
+## Arc Polo
+
+![Screenshots](http://i.imgur.com/PBHyYrC.jpg)
+
+## Arc Red
+
+![Screenshots](http://i.imgur.com/6FcWAzP.jpg)
+
+## Arc Tomato
+
+![Screenshots](http://i.imgur.com/jhuHWu8.png)
+
+##Arc Sun
+
+![Screenshots](http://i.imgur.com/QnFBXN7.jpg)
+
+
+
+
+
+# Mint-Y based themes
+
+These themes have been altered with scripts to change the colour accents. 
+
+More info on these githubs and on http://erikdubois.be
+
+Mint-Y : https://github.com/erikdubois/Mint-Y-Colora-Theme
+Mint-Y : http://erikdubois.be
+
+All themes are sorted alphabetically.
+
+## Mint-Y-Alu
+
+https://github.com/erikdubois/Mint-Y-Colora-Theme
+
+![Screenshots](http://i.imgur.com/MUu3Uij.jpg)
+
+## Mint-Y-Arc
+
+https://github.com/erikdubois/Mint-Y-Colora-Theme
+
+![Screenshots](http://i.imgur.com/5C2rqSC.jpg)
+
+## Mint-Y-Arch
+
+https://github.com/erikdubois/Mint-Y-Colora-Theme
+
+![Screenshots](http://i.imgur.com/ZM0YY5a.jpg)
+
+## Mint-Y-Dark-Faba
+
+![Screenshots](http://i.imgur.com/lQs3os3.jpg)
+
+##Mint-Y-Fire
+
+https://github.com/erikdubois/Mint-Y-Colora-Theme
+
+![Screenshots](http://i.imgur.com/bevG7SN.jpg)
+
+## Mint-Y-Lightning
+
+https://github.com/erikdubois/Mint-Y-Colora-Theme
+
+![Screenshots](http://i.imgur.com/nDHqnRn.jpg)
+
+## Mint-Y-Paper
+
+https://github.com/erikdubois/Mint-Y-Colora-Theme
+
+![Screenshots](http://i.imgur.com/0sUmwY7.jpg)
+
+## Mint-Y-Polo
+
+https://github.com/erikdubois/Mint-Y-Colora-Theme
+
+![Screenshots](http://i.imgur.com/fHOkfbJ.jpg)
+
+## Mint-Y-Sun
+
+https://github.com/erikdubois/Mint-Y-Colora-Theme
+
+![Screenshots](http://i.imgur.com/6YJg0RE.jpg)
+
+
+
+
+
+
+
 
 # ICONS THIRD PARTIES
 
@@ -316,132 +446,6 @@ https://github.com/snwh/paper-icon-theme
 
 
 
-
-
-
-# THEMES HOME BREW
-
-These themes have been altered with scripts to change the colour accents. 
-
-More info on these githubs and on http://erikdubois.be
-
-Arc : https://github.com/erikdubois/arc-theme-colora
-Arc : http://erikdubois.be/change-colour-arc-theme-horst3180/
-
-Mint-Y : https://github.com/erikdubois/Mint-Y-Colora-Theme
-Mint-Y : http://erikdubois.be/
-
-
-
-# Arc based themes
-
-
-##Arc Breeze
-
-![Screenshots](http://i.imgur.com/M90Lv19.jpg)
-
-##Arc Evopop
-
-![Screenshots](http://i.imgur.com/0t8HtAP.jpg)
-
-##Arc Faba
-
-![Screenshots](http://i.imgur.com/wdRZjyT.jpg)
-
-## Arc Luv
-
-![Screenshots](http://i.imgur.com/c3OTQLZ.jpg)
-
-## Arc Numix
-
-![Screenshots](http://i.imgur.com/vuZ9N2j.jpg)
-
-## Arc Paper
-
-![Screenshots](http://i.imgur.com/uB4WWNW.jpg)
-
-## Arc Polo
-
-![Screenshots](http://i.imgur.com/PBHyYrC.jpg)
-
-## Arc Red
-
-![Screenshots](http://i.imgur.com/6FcWAzP.jpg)
-
-## Arc Tomato
-
-![Screenshots](http://i.imgur.com/jhuHWu8.png)
-
-##Arc Sun
-
-![Screenshots](http://i.imgur.com/QnFBXN7.jpg)
-
-
-
-
-
-# Mint-Y based themes
-
-These themes have been altered with scripts to change the colour accents. 
-
-More info on these githubs and on http://erikdubois.be
-
-Mint-Y : https://github.com/erikdubois/Mint-Y-Colora-Theme
-Mint-Y : http://erikdubois.be
-
-All themes are sorted alphabetically.
-
-## Mint-Y-Alu
-
-https://github.com/erikdubois/Mint-Y-Colora-Theme
-
-![Screenshots](http://i.imgur.com/MUu3Uij.jpg)
-
-## Mint-Y-Arc
-
-https://github.com/erikdubois/Mint-Y-Colora-Theme
-
-![Screenshots](http://i.imgur.com/5C2rqSC.jpg)
-
-## Mint-Y-Arch
-
-https://github.com/erikdubois/Mint-Y-Colora-Theme
-
-![Screenshots](http://i.imgur.com/ZM0YY5a.jpg)
-
-## Mint-Y-Dark-Faba
-
-![Screenshots](http://i.imgur.com/lQs3os3.jpg)
-
-##Mint-Y-Fire
-
-https://github.com/erikdubois/Mint-Y-Colora-Theme
-
-![Screenshots](http://i.imgur.com/bevG7SN.jpg)
-
-## Mint-Y-Lightning
-
-https://github.com/erikdubois/Mint-Y-Colora-Theme
-
-![Screenshots](http://i.imgur.com/nDHqnRn.jpg)
-
-## Mint-Y-Paper
-
-https://github.com/erikdubois/Mint-Y-Colora-Theme
-
-![Screenshots](http://i.imgur.com/0sUmwY7.jpg)
-
-## Mint-Y-Polo
-
-https://github.com/erikdubois/Mint-Y-Colora-Theme
-
-![Screenshots](http://i.imgur.com/fHOkfbJ.jpg)
-
-## Mint-Y-Sun
-
-https://github.com/erikdubois/Mint-Y-Colora-Theme
-
-![Screenshots](http://i.imgur.com/6YJg0RE.jpg)
 
 
 
