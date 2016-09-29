@@ -102,9 +102,20 @@ to get these sardi icons. 18 icons sets in one.
 ![Screenshots](http://i.imgur.com/lrQ27Xs.jpg)
 
 
+# 2. Sardi Extra
+
+These are all runs of the colour changing scripts. All icon themes in Sardi with the name COLORA have scripts to change the colours the way YOU want.
+
+16 million colours = 16 million choices
+
+These icons are the result of perfecting the scripts.
 
 
-2. Super Ultra Flat Numix Remix
+https://github.com/erikdubois/Sardi-Extra
+
+
+
+# 3. Super Ultra Flat Numix Remix
 --------------------------------- 
 
 This icon theme is based on an older one i.e. yltra flat also on github.
@@ -134,10 +145,9 @@ Run this script to have them installed :
 https://github.com/numixproject/numix-icon-theme-circle
 
 
-Numix is used as a fall-back icon theme for Sardi icon theme. So you should install it. Whenever an icons is not yet made in Sardi, it will use the icon of Numix if they have made it.
+Numix is used as a fall-back icon theme for Sardi icon theme. So you should install it. Whenever an icon is not yet made in Sardi, it will use the icon of Numix if they have made it.
 
 ![Screenshots](http://i.imgur.com/2je4qz2.jpg)  
-
 
 
 
@@ -146,7 +156,6 @@ Numix is used as a fall-back icon theme for Sardi icon theme. So you should inst
 https://github.com/solus-project/evopop-icon-theme
 
 ![Screenshots](http://i.imgur.com/RQu385l.png) 
-
 
 
 
@@ -159,11 +168,6 @@ https://github.com/NitruxSA/flattr-icons
 
 ![Screenshots](http://i.imgur.com/U48ytG3.jpg) 
 
-![Screenshots](http://i.imgur.com/uMmEWxo.png)
-
-![Screenshots](http://i.imgur.com/fVPpMDo.jpg)
-
-
 
 
 # Superflat remix icons
@@ -172,13 +176,7 @@ https://github.com/NitruxSA/flattr-icons
 https://github.com/daniruiz/Super-Flat-Remix
 
 
-![Screenshots](http://i.imgur.com/2aMjF19.jpg)
-
-
 ![Screenshots](http://i.imgur.com/3b0T4om.jpg)
-
-
-![Screenshots](http://i.imgur.com/wd7JnGW.png)
 
 
 
@@ -189,69 +187,7 @@ blue, green, orange and orange bright
 
 ![Screenshots](http://i.imgur.com/9M2gce8.jpg)
 
-
-This icon set among others has been used to arrive at my own icon set : 
-
-https://github.com/erikdubois/Super-Ultra-Flat-Numix-Remix
-
-Version 1.3.4
-
-https://www.dropbox.com/s/35k1ckffe17ba8r/ultra-flat-icons-1.3.4.tar.gz
-
-I think this is the latest version - from november 2015 found on http://gnome-look.org/content/show.php/Ultra-Flat?content=167473
-
-https://www.dropbox.com/s/bx42h8a1o48w7e0/Ultra-Flat-Theme.tar.gz
-
-
 ![Screenshots](http://i.imgur.com/xrEc2gA.jpg)
-
-
-I like this icon set so much I wanted the missing icons to be fixed. 
-
-In the meantime I made 5 tutorial movies so you know how to change any icon theme if there are icons missing you like to have.
-
-This is the playlist link on youtube.
-
-Contents of movie
-
-<b>A playlist of 5 tutorials to tell you how to fix icons in Linux Mint 17.3 that do not follow the icon theme.  Ultra Flat Icons Orange as example.</b>
-
-1. change file in /usr/share/applications
-
-2. make a link
-
-3. get a icon from another iconset
-
-
-Icons that get fixed are:
-
-1. mintbackup
-
-2. driver manager
-
-3. software manager
-
-4. usb and kazam
-
-[![Ultra flat icon orange](http://i.imgur.com/xYpIZCD.png)](https://www.youtube.com/watch?v=0N6VqDADUWM&list=PLlloYVGq5pS7embS68zCwQZ-lvbz2GZOJ "Ultra flat icon orange - Click to Watch!")
-
-https://www.youtube.com/playlist?list=PLlloYVGq5pS7embS68zCwQZ-lvbz2GZOJ
-
-In the movie one icon was not yet replaced.
-Paste this in the terminal in the folder. It is for the grey Input Method icon (almost in the middle).
-
-	/usr/share/icons/Ultra-Flat-Orange/apps/scalable
-
-	sudo ln -s input-keyboard.svg cs-input-method.png
-
-
-
-![Screenshots](http://i.imgur.com/COOx3Hd.jpg)
-
-Green icons
-
-![Screenshots](http://i.imgur.com/jOKdca9.jpg)
-
 
 
 
@@ -276,11 +212,6 @@ Moka icon theme inherits from Faba. We will install it also.
 
 These can also be installed and will NOT be installed.
 
-
-
-	sudo apt-get install moka-cinnamon-theme moka-desktop-extras moka-default-settings
-
-	sudo apt-get install moka-gnome-shell-theme moka-desktop moka-gtk-theme
 
 
 ![Screenshots](http://i.imgur.com/AjTBLY8.png)
@@ -335,16 +266,9 @@ https://github.com/horst3180/vertex-icons
 
 # Papirus icons
 
-https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-kde
-
-and
-
-https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-gtk
 
 
 Also suitable for linux mint cinnamon although KDE is mentioned
-
-![Screenshots](http://i.imgur.com/zEHMs1H.jpg)
 
 
 ![Screenshots](http://i.imgur.com/icCgIOi.jpg)
@@ -353,7 +277,6 @@ Also suitable for linux mint cinnamon although KDE is mentioned
 ![Screenshots](http://i.imgur.com/oX4KjdJ.jpg)
 
 
-![Screenshots](http://i.imgur.com/nfdwp0y.jpg)
 
 
 # Papirus Dark Gtk
@@ -362,7 +285,6 @@ Also suitable for linux mint cinnamon although KDE is mentioned
 ![Screenshots](http://i.imgur.com/So6QnE2.jpg)
 
 
-![Screenshots](http://i.imgur.com/40aWd2U.jpg)
 
 
 # La Captaine
