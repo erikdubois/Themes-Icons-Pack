@@ -382,6 +382,13 @@ Mint-Y : http://erikdubois.be/
 
 # Mint-Y based themes
 
+These themes have been altered with scripts to change the colour accents. 
+
+More info on these githubs and on http://erikdubois.be
+
+Mint-Y : https://github.com/erikdubois/Mint-Y-Colora-Theme
+Mint-Y : http://erikdubois.be
+
 All themes are sorted alphabetically.
 
 ## Mint-Y-Alu
