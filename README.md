@@ -91,7 +91,7 @@ Run this script to install the latest version
 
 
 
-# 2. Sardi Extra
+# Sardi Extra
 
 Sardi totals up to 54 Sardi variations including Sardi and Sardi Extra.
 
@@ -111,7 +111,7 @@ Run this script to install the latest version
 
 
 
-# 3. Super Ultra Flat Numix Remix
+# Super Ultra Flat Numix Remix
 --------------------------------- 
 
 This icon theme is based on an older one i.e. yltra flat also on github.
