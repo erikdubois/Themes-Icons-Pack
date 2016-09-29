@@ -454,36 +454,6 @@ https://github.com/snwh/paper-icon-theme
 
 
 
-
-
-#Vertex theme (dark and light)
-
-https://github.com/horst3180/Vertex-theme
-
-This theme can be dark and light.
-
-
-![Screenshots](http://i.imgur.com/KlTeQK7.png)
-
-![Screenshots](http://i.imgur.com/efDJTp1.jpg)
-
-I have made an article to explain the complete installation also browsers for vertex here : 
-
-http://erikdubois.be/how-to-completely-install-all-aspects-of-the-vertex-dark-theme-on-linux-mint-17-3/
-
-
-
-#Numix Daily theme
-
-
-Installed when you install the numix circle icons.
-
-This theme has been adapted to be softer on the eyes. Background of file-manager is grey.
-
-![Screenshots](http://i.imgur.com/KrGtFk7.png)
-
-
-
 #Ambiance Theme and Radiance colors
 
 http://www.ravefinity.com/p/download-ambiance-radiance-colors.html
@@ -495,23 +465,21 @@ Since this one includes so many variations, it is NOT installed in the
 script. You can install via a separate script.
 
 
-
 ![Screenshots](http://i.imgur.com/fGtUpoB.jpg)
 
 ![Screenshots](http://i.imgur.com/ckr7PBZ.jpg)  
 
 
 
-#Ceti 2 Theme
 
-http://horst3180.deviantart.com/art/Ceti-445892596
+#Arc theme
 
-https://github.com/horst3180/ceti-2-theme
+https://github.com/horst3180/arc-theme
+
+![Screenshots](http://i.imgur.com/2NtD8e9.jpg)
 
 
-![Screenshots](http://i.imgur.com/qD53UAV.png) 
 
-![Screenshots](http://i.imgur.com/vvey3Cm.jpg) 
 
 
 #Arch Frost theme
@@ -535,6 +503,20 @@ http://osendott.github.io/arch-frost/
 
 
 
+
+#Ceti 2 Theme
+
+http://horst3180.deviantart.com/art/Ceti-445892596
+
+https://github.com/horst3180/ceti-2-theme
+
+
+![Screenshots](http://i.imgur.com/qD53UAV.png) 
+
+![Screenshots](http://i.imgur.com/vvey3Cm.jpg) 
+
+
+
 #Flatabulous theme
 
 
@@ -548,13 +530,29 @@ https://github.com/anmoljagetia/Flatabulous
 
 
 
-
-#Arc theme
-
-https://github.com/horst3180/arc-theme
-
-![Screenshots](http://i.imgur.com/2NtD8e9.jpg)
+#Numix Daily theme
 
 
+Installed when you install the numix circle icons.
 
+This theme has been adapted to be softer on the eyes. Background of file-manager is grey.
+
+![Screenshots](http://i.imgur.com/KrGtFk7.png)
+
+
+
+#Vertex theme (dark and light)
+
+https://github.com/horst3180/Vertex-theme
+
+This theme can be dark and light.
+
+
+![Screenshots](http://i.imgur.com/KlTeQK7.png)
+
+![Screenshots](http://i.imgur.com/efDJTp1.jpg)
+
+I have made an article to explain the complete installation also browsers for vertex here : 
+
+http://erikdubois.be/how-to-completely-install-all-aspects-of-the-vertex-dark-theme-on-linux-mint-17-3/
 

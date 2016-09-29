@@ -77,81 +77,45 @@ echo "#####################################################"
 ########        T H E M E S    #########
 ########################################
 
-# 1.Vertex
-# from ppa
 
-sh theme-vertex-latest.sh 
-
-# 2.Numix
-# from ppa
-
-sh themes-numix-latest.sh
-
-# 3. Ambiance
-# from ppa
-
-# omitted it because of too many themes in one
-#sh theme-ambiance-latest.sh
-
-# 4. Ceti 2
-
-sh theme-ceti-2-latest.sh
-
-
-# 5. Arch frost dark
-# from github
-
-sh theme-arch-frost-dark-latest.sh
-
-
-
-# 5. Arch frost light
-# from github
-
-sh theme-arch-frost-light-latest.sh
-
-
-# 6. Flatabulous
-# from github
-
-sh theme-flatabulous-latest.sh
-
-# 7. Arc
-# from github
-
-sh theme-arc-latest.sh
-
-
-#8. Mint-Y-Alu
-# from github
-
-#9. Mint-Y-Arc
-# from github
-
-#10. Mint-Y-Arch
-# from github
-
-#11. Mint-Y-Fire
-# from github
-
-#12. Mint-Y-Lightning
-# from github
-
-#13. Mint-Y-Sun
-# from github
-
-#14. Mint-Y-Endeavour
-# from github
+# HOMEBREW
 
 sh theme-mint-y-colora-latest.sh
 
-#15. Arc-theme-colora
-# from github
 
 sh theme-arc-colora-latest.sh
 
 
 
+# THIRD PARTY
+
+# Ambiance radiance
+# omitted it because of too many themes in one
+# it has its own script
+
+
+sh theme-arc-latest.sh
+
+
+
+sh theme-arch-frost-dark-latest.sh
+sh theme-arch-frost-light-latest.sh
+
+
+
+sh theme-ceti-2-latest.sh
+
+
+sh theme-flatabulous-latest.sh
+
+
+sh themes-numix-latest.sh
+
+
+sh theme-vertex-latest.sh 
+
+
+
 echo "################################################################"
-echo "####     END OF INSTALLATION OF ICONS AND THEMES      ##########"
+echo "##############     END OF INSTALLATION OF THEMES      ##########"
 echo "################################################################"
