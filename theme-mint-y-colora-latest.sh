@@ -55,16 +55,14 @@
 ##################################################################################################################
 
 
-rm -rf /tmp/Mint-Y-Theme-Arc
-git clone https://github.com/erikdubois/Mint-Y-Theme-Arc /tmp/Mint-Y-Theme-Arc
 
-# if there is no hidden folder then make one
-[ -d $HOME"/.themes" ] || mkdir -p $HOME"/.themes"
-cp -r /tmp/Mint-Y-Theme-Arc/Mint-Y-Arc ~/.themes/
-cp -r /tmp/Mint-Y-Theme-Arc/Mint-Y-Dark-Arc ~/.themes/
-cp -r /tmp/Mint-Y-Theme-Arc/Mint-Y-Darker-Arc ~/.themes/
+rm -rf /tmp/Mint-Y-Colora-Theme
+git clone https://github.com/erikdubois/Mint-Y-Colora-Theme /tmp/Mint-Y-Colora-Theme
+#find /tmp/Mint-Y-Colora-Theme -maxdepth 1 -type f -exec rm -rf '{}' \;
+cp -r /tmp/Mint-Y-Colora-Theme/themes/* ~/.themes/
+rm -rf /tmp/Mint-Y-Colora-Theme
 
-rm -rf /tmp/Mint-Y-Theme-Arc
+
 
 echo "################################################################"
 echo "###################    T H E   E N D      ######################"

@@ -72,7 +72,7 @@ It is up to you to activate them.
 
 
 
-# ICONS
+# ICONS HOMEBREW
 
 
 #1. Sardi icon theme
@@ -125,7 +125,11 @@ Run this script to have them installed :
 
 
 
-#3. Numix circle icons
+# ICONS THIRD PARTIES
+
+
+
+# Numix circle icons
 
 https://github.com/numixproject/numix-icon-theme-circle
 
@@ -137,7 +141,7 @@ Numix is used as a fall-back icon theme for Sardi icon theme. So you should inst
 
 
 
-#4. Evopop icons
+# Evopop icons
 
 https://github.com/solus-project/evopop-icon-theme
 
@@ -146,7 +150,7 @@ https://github.com/solus-project/evopop-icon-theme
 
 
 
-#5. Flattr icons
+# Flattr icons
 
 renamed to Lüv and Lüv Dark
 
@@ -162,7 +166,7 @@ https://github.com/NitruxSA/flattr-icons
 
 
 
-#6. Superflat remix icons
+# Superflat remix icons
 
 
 https://github.com/daniruiz/Super-Flat-Remix
@@ -179,7 +183,7 @@ https://github.com/daniruiz/Super-Flat-Remix
 
 
 
-#7. Ultra flat icons
+# Ultra flat icons
 
 blue, green, orange and orange bright
 
@@ -252,7 +256,7 @@ Green icons
 
 
 
-#8. Flatwoken icons
+# Flatwoken icons
 
 
 git clone https://github.com/alecive/FlatWoken.git
@@ -266,7 +270,7 @@ git clone https://github.com/alecive/FlatWoken.git
 
 
 
-#9. Moka and Faba
+# Moka and Faba
 
 Moka icon theme inherits from Faba. We will install it also.
 
@@ -287,7 +291,7 @@ These can also be installed and will NOT be installed.
 
 
 
-#10. Dalisha
+# Dalisha
 
 Latest can be found on gnome-look.org
 
@@ -307,7 +311,7 @@ https://github.com/manson9/dalisha-icon-theme
 
 
 
-#11. Compass
+# Compass
 
 
 ![Screenshots](http://i.imgur.com/FSjiUN8.jpg)
@@ -318,7 +322,7 @@ https://github.com/manson9/dalisha-icon-theme
 
 
 
-#12. Vertex
+# Vertex
 
 Inherits from Moka !!
 
@@ -329,7 +333,7 @@ https://github.com/horst3180/vertex-icons
 
 
 
-#13. Papirus icons
+# Papirus icons
 
 https://github.com/PapirusDevelopmentTeam/papirus-icon-theme-kde
 
@@ -352,7 +356,7 @@ Also suitable for linux mint cinnamon although KDE is mentioned
 ![Screenshots](http://i.imgur.com/nfdwp0y.jpg)
 
 
-#Papirus Dark Gtk
+# Papirus Dark Gtk
 
 
 ![Screenshots](http://i.imgur.com/So6QnE2.jpg)
@@ -361,7 +365,7 @@ Also suitable for linux mint cinnamon although KDE is mentioned
 ![Screenshots](http://i.imgur.com/40aWd2U.jpg)
 
 
-#14. La Captaine
+# La Captaine
 
 https://github.com/keeferrourke/la-capitaine-icon-theme.git
 
@@ -372,7 +376,7 @@ Some specific mint icons are missing. Go to the index.theme and change the inher
 
 
 
-#15. Oranchelo
+# Oranchelo
 
 We will get the latest icons from github
 
@@ -382,7 +386,7 @@ https://github.com/OrancheloTeam/oranchelo-icon-theme
 
 
 
-#16. Paper
+# Paper
 
 We will get the latest icons from github
 
@@ -393,7 +397,130 @@ https://github.com/snwh/paper-icon-theme
 
 
 
-# THEMES
+
+
+
+# THEMES HOME BREW
+
+These themes have been altered with scripts to change the colour accents. 
+
+More info on these githubs and on http://erikdubois.be
+
+Arc : https://github.com/erikdubois/arc-theme-colora
+Arc : http://erikdubois.be/change-colour-arc-theme-horst3180/
+
+Mint-Y : https://github.com/erikdubois/Mint-Y-Colora-Theme
+Mint-Y : http://erikdubois.be/
+
+
+
+# Arc based themes
+
+
+##Arc Breeze
+
+![Screenshots](http://i.imgur.com/M90Lv19.jpg)
+
+##Arc Evopop
+
+![Screenshots](http://i.imgur.com/0t8HtAP.jpg)
+
+##Arc Faba
+
+![Screenshots](http://i.imgur.com/wdRZjyT.jpg)
+
+## Arc Luv
+
+![Screenshots](http://i.imgur.com/c3OTQLZ.jpg)
+
+## Arc Numix
+
+![Screenshots](http://i.imgur.com/vuZ9N2j.jpg)
+
+## Arc Paper
+
+![Screenshots](http://i.imgur.com/uB4WWNW.jpg)
+
+## Arc Polo
+
+![Screenshots](http://i.imgur.com/PBHyYrC.jpg)
+
+## Arc Red
+
+![Screenshots](http://i.imgur.com/6FcWAzP.jpg)
+
+## Arc Tomato
+
+![Screenshots](http://i.imgur.com/jhuHWu8.png)
+
+##Arc Sun
+
+![Screenshots](http://i.imgur.com/QnFBXN7.jpg)
+
+
+
+
+
+# Mint-Y based themes
+
+All themes are sorted alphabetically.
+
+## Mint-Y-Alu
+
+https://github.com/erikdubois/Mint-Y-Colora-Theme
+
+![Screenshots](http://i.imgur.com/MUu3Uij.jpg)
+
+## Mint-Y-Arc
+
+https://github.com/erikdubois/Mint-Y-Colora-Theme
+
+![Screenshots](http://i.imgur.com/5C2rqSC.jpg)
+
+## Mint-Y-Arch
+
+https://github.com/erikdubois/Mint-Y-Colora-Theme
+
+![Screenshots](http://i.imgur.com/ZM0YY5a.jpg)
+
+## Mint-Y-Dark-Faba
+
+![Screenshots](http://i.imgur.com/lQs3os3.jpg)
+
+##Mint-Y-Fire
+
+https://github.com/erikdubois/Mint-Y-Colora-Theme
+
+![Screenshots](http://i.imgur.com/bevG7SN.jpg)
+
+## Mint-Y-Lightning
+
+https://github.com/erikdubois/Mint-Y-Colora-Theme
+
+![Screenshots](http://i.imgur.com/nDHqnRn.jpg)
+
+## Mint-Y-Paper
+
+https://github.com/erikdubois/Mint-Y-Colora-Theme
+
+![Screenshots](http://i.imgur.com/0sUmwY7.jpg)
+
+## Mint-Y-Polo
+
+https://github.com/erikdubois/Mint-Y-Colora-Theme
+
+![Screenshots](http://i.imgur.com/fHOkfbJ.jpg)
+
+## Mint-Y-Sun
+
+https://github.com/erikdubois/Mint-Y-Colora-Theme
+
+![Screenshots](http://i.imgur.com/6YJg0RE.jpg)
+
+
+
+
+# THEMES THIRD PARTY
 
 
 
@@ -431,8 +558,12 @@ This theme has been adapted to be softer on the eyes. Background of file-manager
 
 http://www.ravefinity.com/p/download-ambiance-radiance-colors.html
 
+Since this one includes so many variations, it is NOT installed in the 
 
-Beware this ones gives you many choices with minute color changes.
+	installation_deb_themes.sh
+
+script. You can install via a separate script.
+
 
 
 ![Screenshots](http://i.imgur.com/fGtUpoB.jpg)
@@ -497,96 +628,3 @@ https://github.com/horst3180/arc-theme
 
 
 
-
-#8. Mint-Y-Alu
-
-https://github.com/erikdubois/Mint-Y-Theme-Alu
-
-![Screenshots](http://i.imgur.com/MUu3Uij.jpg)
-
-
-
-
-
-#9. Mint-Y-Arc
-
-https://github.com/erikdubois/Mint-Y-Theme-Arc
-
-![Screenshots](http://i.imgur.com/5C2rqSC.jpg)
-
-
-
-
-
-#10. Mint-Y-Arch
-
-https://github.com/erikdubois/Mint-Y-Theme-Arch
-
-![Screenshots](http://i.imgur.com/ZM0YY5a.jpg)
-
-
-
-
-
-#11. Mint-Y-Fire
-
-https://github.com/erikdubois/Mint-Y-Theme-Fire
-
-![Screenshots](http://i.imgur.com/bevG7SN.jpg)
-
-
-
-
-
-#12. Mint-Y-Lightning
-
-https://github.com/erikdubois/Mint-Y-Theme-Lightning
-
-
-![Screenshots](http://i.imgur.com/nDHqnRn.jpg)
-
-
-
-
-#13. Mint-Y-Sun
-
-https://github.com/erikdubois/Mint-Y-Theme-Sun
-
-![Screenshots](http://i.imgur.com/6YJg0RE.jpg)
-
-
-#14. Arc Sun
-
-Based on the arc theme of horst3180 @ [github](https://github.com/horst3180/arc-theme) I follow the tutorial below to change the colour of the accents from blue to any colour I want.
-
-[![Change the colour of the Arc Theme](http://i.imgur.com/WnT6XAH.png)](https://youtu.be/N_3tCp-47YY "Changing the colour of the Arc Theme")
-
-The arc theme is now matching the colours of Sardi Mono Orange.
-
-![Screenshots](http://i.imgur.com/M6MLiij.jpg)
-
-Source of this theme : https://github.com/erikdubois/arc-theme-sun
-
-#15. Arc Faba
-
-Based on the arc theme of horst3180 @ [github](https://github.com/horst3180/arc-theme) I follow the tutorial below to change the colour of the accents from blue to any colour I want.
-
-[![Change the colour of the Arc Theme](http://i.imgur.com/WnT6XAH.png)](https://youtu.be/N_3tCp-47YY "Changing the colour of the Arc Theme")
-
-The arc theme is now matching the colours of the faba or moka icon theme.
-
-![Screenshots](http://i.imgur.com/wdRZjyT.jpg)
-
-Source of this theme : https://github.com/erikdubois/arc-theme-sun
-
-#16. Arc Luv
-
-Based on the arc theme of horst3180 @ [github](https://github.com/horst3180/arc-theme) I follow the tutorial below to change the colour of the accents from blue to any colour I want.
-
-[![Change the colour of the Arc Theme](http://i.imgur.com/WnT6XAH.png)](https://youtu.be/N_3tCp-47YY "Changing the colour of the Arc Theme")
-
-The arc theme is now matching the colours of the lüv icon theme.
-
-![Screenshots](http://i.imgur.com/XRPpcnC.jpg)
-
-Source of this theme : https://github.com/erikdubois/arc-theme-sun

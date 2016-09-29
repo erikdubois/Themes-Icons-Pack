@@ -43,7 +43,7 @@
 #
 # Super Ultra Flat Numix Remix
 # Colourfull and playfull icons
-# https://github.com/erikdubois/Super-Ultra-Flat-Numix-Remix
+# https://github.com/erikdubois/oranchelo-icon-theme
 #
 # Check out the github - many more scripts for automatic installation of Linux Systems.
 #
@@ -54,17 +54,28 @@
 #
 ##################################################################################################################
 
-rm -rf /tmp/Mint-Y-Theme-Endeavour
 
-git clone https://github.com/erikdubois/Mint-Y-Theme-Sun /tmp/Mint-Y-Theme-Endeavour
+
+rm -rf /tmp/oranchelo-icon-theme
+git clone https://github.com/OrancheloTeam/oranchelo-icon-theme /tmp/oranchelo-icon-theme
+find /tmp/oranchelo-icon-theme -maxdepth 1 -type f -exec rm -rf '{}' \;
+cp -r /tmp/oranchelo-icon-theme/* ~/.icons/
+rm -rf /tmp/oranchelo-icon-theme
+
+
+echo "Making sure the that Super Ultra Flat Numix Remix is added to the inherit line in index.theme"
+echo "You should manually install the theme Super Ultra Flat Numix Remix as a fall-back"
+echo "All the missing icons will come from this theme."
 
 # if there is no hidden folder then make one
-[ -d $HOME"/.themes" ] || mkdir -p $HOME"/.themes"
-cp -r /tmp/Mint-Y-Theme-Endeavour/Mint-Y-Endeavour ~/.themes/
-cp -r /tmp/Mint-Y-Theme-Endeavour/Mint-Y-Dark-Endeavour ~/.themes/
-cp -r /tmp/Mint-Y-Theme-Endeavour/Mint-Y-Darker-Endeavour ~/.themes/
+[ -d $HOME"/.icons" ] || mkdir -p $HOME"/.icons"
 
-rm -rf /tmp/Mint-Y-Theme-Endeavour
+
+echo "################################################################" 
+echo "Renaming the content of the index.theme"
+find $HOME"/.icons/Oranchelo" -name "index.theme" -type f -exec sed -i 's/'Inherits=gnome'/'Inherits=Super-Ultra-Flat-Numix-Remix,gnome'/g' {}  \;
+
+
 echo "################################################################"
 echo "###################    T H E   E N D      ######################"
 echo "################################################################"
