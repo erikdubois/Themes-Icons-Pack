@@ -452,7 +452,7 @@ https://github.com/erikdubois/Mint-Y-Colora-Theme
 
 
 
-#1. Vertex theme (dark and light)
+#Vertex theme (dark and light)
 
 https://github.com/horst3180/Vertex-theme
 
@@ -469,7 +469,7 @@ http://erikdubois.be/how-to-completely-install-all-aspects-of-the-vertex-dark-th
 
 
 
-# 2. Numix Daily theme
+#Numix Daily theme
 
 
 Installed when you install the numix circle icons.
@@ -480,7 +480,7 @@ This theme has been adapted to be softer on the eyes. Background of file-manager
 
 
 
-#3. Ambiance Theme and Radiance colors
+#Ambiance Theme and Radiance colors
 
 http://www.ravefinity.com/p/download-ambiance-radiance-colors.html
 
@@ -498,7 +498,7 @@ script. You can install via a separate script.
 
 
 
-#4. Ceti 2 Theme
+#Ceti 2 Theme
 
 http://horst3180.deviantart.com/art/Ceti-445892596
 
@@ -510,19 +510,19 @@ https://github.com/horst3180/ceti-2-theme
 ![Screenshots](http://i.imgur.com/vvey3Cm.jpg) 
 
 
-#5. Arch Frost theme
+#Arch Frost theme
 
 
 http://osendott.github.io/arch-frost/
 
 
-Arch Frost GTK
+##Arch Frost GTK
 
 ![Screenshots](http://i.imgur.com/dpKjhQ2.jpg)
 
 ![Screenshots](http://i.imgur.com/Md8hgZi.png) 
 
-Arch Frost GTK Dark
+##Arch Frost GTK Dark
 
 ![Screenshots](http://i.imgur.com/RAi8F5z.jpg)
 
@@ -531,7 +531,7 @@ Arch Frost GTK Dark
 
 
 
-#6. Flatabulous theme
+#Flatabulous theme
 
 
 https://github.com/anmoljagetia/Flatabulous
@@ -545,7 +545,7 @@ https://github.com/anmoljagetia/Flatabulous
 
 
 
-#7. Arc theme
+#Arc theme
 
 https://github.com/horst3180/arc-theme
 
