@@ -73,7 +73,7 @@ echo "All the missing icons will come from this theme."
 
 echo "################################################################" 
 echo "Renaming the content of the index.theme"
-find $HOME"/.icons/Oranchelo" -name "index.theme" -type f -exec sed -i 's/'Inherits=gnome'/'Inherits=Super-Ultra-Flat-Numix-Remix,gnome'/g' {}  \;
+find $HOME"/.icons/Oranchelo" -name "index.theme" -type f -exec sed -i 's/'Inherits=gnome'/'Inherits=Surfn,gnome,hicolor'/g' {}  \;
 
 
 echo "################################################################"
