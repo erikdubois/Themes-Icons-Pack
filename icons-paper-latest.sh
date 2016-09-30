@@ -55,6 +55,18 @@
 ##################################################################################################################
 
 
+echo "There are still a 10+ icons missing for Linux Mint."
+echo "The solution for now is to install a fallback theme."
+echo "May I suggest to use Surfn as a fallback."
+echo "The inherits line will be changed in this way."
+echo "If Surfn is not installed then it will not be used."
+echo "Paper will use the next icon theme in the inherits line."
+
+read -rsp $'Press any key to continue...\n' -n1 key
+
+# if there is no hidden folder then make one
+[ -d $HOME"/.icons" ] || mkdir -p $HOME"/.icons"
+
 
 rm -rf /tmp/paper-icon-theme
 git clone https://github.com/snwh/paper-icon-theme /tmp/paper-icon-theme
@@ -65,6 +77,10 @@ make
 sudo make install 
 
 #rm -rf /tmp/papirus-icon-theme-gtk
+
+echo "################################################################" 
+echo "Renaming the content of the index.theme"
+sudo find /usr/share/icons/Paper -name "index.theme" -type f -exec sed -i 's/'Inherits=Adwaita,gnome,hicolor'/'Inherits=Surfn,Adwaita,gnome,hicolor'/g' {}  \;
 
 
 echo "################################################################"

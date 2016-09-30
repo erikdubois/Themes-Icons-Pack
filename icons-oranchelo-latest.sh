@@ -54,21 +54,24 @@
 #
 ##################################################################################################################
 
+echo "There are still a 10+ icons missing for Linux Mint."
+echo "The solution for now is to install a fallback theme."
+echo "May I suggest to use Surfn as a fallback."
+echo "The inherits line will be changed in this way."
+echo "If Surfn is not installed then it will not be used."
+echo "Oranchelo will use the next icon theme in the inherits line."
 
+read -rsp $'Press any key to continue...\n' -n1 key
+
+
+# if there is no hidden folder then make one
+[ -d $HOME"/.icons" ] || mkdir -p $HOME"/.icons"
 
 rm -rf /tmp/oranchelo-icon-theme
 git clone https://github.com/OrancheloTeam/oranchelo-icon-theme /tmp/oranchelo-icon-theme
 find /tmp/oranchelo-icon-theme -maxdepth 1 -type f -exec rm -rf '{}' \;
 cp -r /tmp/oranchelo-icon-theme/* ~/.icons/
 rm -rf /tmp/oranchelo-icon-theme
-
-
-echo "Making sure the that Super Ultra Flat Numix Remix is added to the inherit line in index.theme"
-echo "You should manually install the theme Super Ultra Flat Numix Remix as a fall-back"
-echo "All the missing icons will come from this theme."
-
-# if there is no hidden folder then make one
-[ -d $HOME"/.icons" ] || mkdir -p $HOME"/.icons"
 
 
 echo "################################################################" 
