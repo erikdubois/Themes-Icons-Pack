@@ -66,6 +66,12 @@ sudo make install
 
 rm -rf /tmp/evopop-icon-theme
 
+
+echo "################################################################" 
+echo "Renaming the content of the index.theme"
+sudo find /usr/share/icons/EvoPop -name "index.theme" -type f -exec sed -i 's/'Inherits=gnome,hicolor'/'Inherits=Surfn,gnome,hicolor'/g' {}  \;
+
+
 echo "################################################################"
 echo "###################    T H E   E N D      ######################"
 echo "################################################################"

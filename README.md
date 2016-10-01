@@ -279,6 +279,15 @@ Numix is used as a fall-back icon theme for Sardi icon theme. So you should inst
 
 https://github.com/solus-project/evopop-icon-theme
 
+Since not all icons are available or we see an icon from Mint-Y icon theme, we take the SURFN icon theme as a fallback icon theme to fill in the gaps.
+The following lines have been added to the script to change the inherits line in order to get the missing icons : 
+
+
+		echo "################################################################" 
+		echo "Renaming the content of the index.theme"
+		sudo find /usr/share/icons/EvoPop -name "index.theme" -type f -exec sed -i 's/'Inherits=gnome,hicolor'/'Inherits=Surfn,gnome,hicolor'/g' {}  \;
+
+
 ![Screenshots](http://i.imgur.com/RQu385l.png) 
 
 
