@@ -424,7 +424,17 @@ Some specific mint icons are missing. Go to the index.theme and change the inher
 
 # Oranchelo
 
-We will get the latest icons from github
+We will get the latest icons from github. 
+
+Since not all icons are available or we see an icon from Mint-Y icon theme, we take the SURFN icon theme as a fallback icon theme to fill in the gaps.
+The following lines have been added to the script to change the inherits line in order to get the missing icons : 
+
+
+		echo "################################################################" 
+		echo "Renaming the content of the index.theme"
+		find $HOME"/.icons/Oranchelo" -name "index.theme" -type f -exec sed -i 's/'Inherits=gnome'/'Inherits=Surfn,gnome,hicolor'/g' {}  \;
+
+
 
 https://github.com/OrancheloTeam/oranchelo-icon-theme
 
@@ -434,7 +444,16 @@ https://github.com/OrancheloTeam/oranchelo-icon-theme
 
 # Paper
 
-We will get the latest icons from github
+We will get the latest icons from github.
+
+Since not all icons are available or we see an icon from Mint-Y icon theme, we take the SURFN icon theme as a fallback icon theme to fill in the gaps.
+The following lines have been added to the script to change the inherits line in order to get the missing icons : 
+
+
+		echo "################################################################" 
+		echo "Renaming the content of the index.theme"
+		sudo find /usr/share/icons/Paper -name "index.theme" -type f -exec sed -i 's/'Inherits=Adwaita,gnome,hicolor'/'Inherits=Surfn,Adwaita,gnome,hicolor'/g' {}  \;
+
 
 https://github.com/snwh/paper-icon-theme
 
