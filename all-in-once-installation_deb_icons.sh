@@ -83,8 +83,6 @@ echo "#####################################################"
 sh icons-sardi-latest.sh
 sh icons-sardi-extra-latest.sh
 
-sh icons-sardi-extra-latest.sh
-
 sh icons-surfn-latest.sh
 
 
