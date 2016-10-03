@@ -134,5 +134,5 @@ sh icons-paper-latest.sh
 
 
 echo "################################################################"
-echo "####     END OF INSTALLATION OF ICONS AND THEMES      ##########"
+echo "####     END OF INSTALLATION OF ICONS                 ##########"
 echo "################################################################"
