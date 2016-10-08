@@ -53,7 +53,20 @@
 #   DO NOT JUST RUN THIS. EXAMINE AND JUDGE. AT YOUR OWN RISK.
 #
 ##################################################################################################################
-# F L A T T R
+
+
+echo "There are still a 10+ icons missing for Linux Mint."
+echo "The solution for now is to install a fallback theme."
+echo "May I suggest to use Surfn as a fallback."
+echo "The inherits line will be changed in this way."
+echo "If Surfn is not installed then it will not be used."
+echo "Luv will use the next icon theme in the inherits line."
+
+read -rsp $'Press any key to continue...\n' -n1 key
+
+# if there is no hidden folder then make one
+[ -d $HOME"/.icons" ] || mkdir -p $HOME"/.icons"
+
 
 rm -rf /tmp/flattr-icons
 
@@ -63,8 +76,15 @@ mkdir ~/.icons/Lüv\ Dark
 cp -r /tmp/flattr-icons/Lüv/* ~/.icons/Lüv
 cp -r /tmp/flattr-icons/Lüv\ Dark/* ~/.icons/Lüv\ Dark
 
-
 rm -rf /tmp/flattr-icons
+
+
+echo "################################################################" 
+echo "Renaming the content of the index.theme"
+sudo find ~/.icons/Lüv -name "index.theme" -type f -exec sed -i 's/'Inherits=hicolor'/'Inherits=Surfn,Adwaita,gnome,hicolor'/g' {}  \;
+sudo find ~/.icons/Lüv\ Dark -name "index.theme" -type f -exec sed -i 's/'Inherits=hicolor'/'Inherits=Surfn,Adwaita,gnome,hicolor'/g' {}  \;
+
+
 
 echo "################################################################"
 echo "###################    T H E   E N D      ######################"

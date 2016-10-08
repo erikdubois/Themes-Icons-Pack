@@ -76,7 +76,7 @@ sudo apt-get install autotools-dev -y
 make
 sudo make install 
 
-#rm -rf /tmp/papirus-icon-theme-gtk
+rm -rf /tmp/paper-icon-theme
 
 echo "################################################################" 
 echo "Renaming the content of the index.theme"
