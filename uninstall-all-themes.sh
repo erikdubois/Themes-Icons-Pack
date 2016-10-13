@@ -55,21 +55,8 @@
 ##################################################################################################################
 
 
-echo "THIS WILL UNINSTALL ALL ICONS, THEMES AND REPOSITORIES."
+echo "THIS WILL UNINSTALL ALL THEMES AND REPOSITORIES."
 
-# icons
-
-
-rm -rf ~/.icons/*
-
-sudo apt-get remove ultra-flat-icons ultra-flat-icons-green ultra-flat-icons-orange -y
-sudo apt-get remove numix-icon-theme numix-icon-theme-circle moka-icon-theme faba-mono-icons faba-icon-theme -y
-
-sudo rm -rf /usr/share/icons/Moka
-sudo rm -rf /usr/share/icons/Dalisha
-sudo rm -rf /usr/share/icons/EvoPop
-sudo rm -rf /usr/share/icons/Faba
-sudo rm -rf /usr/share/icons/Paper
 
 # themes
 
@@ -80,16 +67,11 @@ sudo rm -rf /usr/share/themes/{Arc,Arc-Darker,Arc-Dark}
 sudo apt-get remove -y ambiance-colors
 sudo apt-get remove -y radiance-colors
 sudo rm -rf /usr/share/themes/{Vertex,Vertex-Light,Vertex-Dark}
-
-
 sudo apt-get remove -y numix-gtk-theme
-sudo apt-get remove -y dalisha-icons
-
 
 # repositories
 
 sudo add-apt-repository --remove ppa:numix/ppa -y
-sudo add-apt-repository --remove ppa:moka/daily -y
 sudo add-apt-repository --remove ppa:ravefinity-project/ppa -y
 sudo rm /etc/apt/sources.list.d/vertex-theme.list
 
