@@ -256,7 +256,18 @@ https://github.com/erikdubois/Mint-Y-Colora-Theme
 
 
 
+# Minty Transparent Colora
 
+A script is included to change this transparent theme to follow your colour choice.
+
+
+![Screenshots](http://i.imgur.com/w81ltGi.jpg)
+
+
+![Screenshots](http://i.imgur.com/W25pPsT.jpg)
+
+
+![Screenshots](http://i.imgur.com/ie5mYZS.jpg)
 
 
 
