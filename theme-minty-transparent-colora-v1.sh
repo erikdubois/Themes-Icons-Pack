@@ -60,6 +60,8 @@
 rm -rf /tmp/Ultimate-Linux-Mint-18-Cinnamon
 git clone https://github.com/erikdubois/Ultimate-Linux-Mint-18-Cinnamon /tmp/Ultimate-Linux-Mint-18-Cinnamon
 #find /tmp/Ultimate-Linux-Mint-18-Cinnamon -maxdepth 1 -type f -exec rm -rf '{}' \;
+mkdir ~/.themes/Minty-Transparent-Colora
+cp -r /tmp/Ultimate-Linux-Mint-18-Cinnamon/Theming/Cinnamon\ Theming/Minty-Transparent-Colora/Minty-Transparent-Colora/* ~/.themes/Minty-Transparent-Colora
 cp -r /tmp/Ultimate-Linux-Mint-18-Cinnamon/Theming/Cinnamon\ Theming/Minty-Transparent-Colora/Variations/* ~/.themes/
 rm -rf /tmp/Ultimate-Linux-Mint-18-Cinnamon
 

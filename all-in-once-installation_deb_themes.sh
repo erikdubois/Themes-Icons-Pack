@@ -115,6 +115,8 @@ sh themes-numix-latest.sh
 sh theme-vertex-latest.sh 
 
 
+sh theme-minty-transparent-colora-v1.sh
+
 
 echo "################################################################"
 echo "##############     END OF INSTALLATION OF THEMES      ##########"
