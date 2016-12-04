@@ -80,10 +80,27 @@ echo "#####################################################"
 
 # HOMEBREW
 
-sh theme-mint-y-colora-latest.sh
 
+CIN_VERSION="$(cinnamon --version)"
+#echo $CIN_VERSION
+# last two are cut off
+# cinamon 3.2.2
+CIN_VERSION=${CIN_VERSION::-2}
+#echo $CIN_VERSION
 
-sh theme-arc-colora-latest.sh
+if [ "$CIN_VERSION" = "Cinnamon 3.2" ]; then
+
+	echo "Installing for Cinnamon 3.2"
+	sh theme-mint-y-colora-collection-3.2-v1.sh
+	sh theme-arc-colora-collection-3.2-v1.sh
+
+else
+
+	echo "Installing for Cinnamon 3.0"
+	sh theme-mint-y-colora-collection-3.0-v1.sh
+	sh theme-arc-colora-collection-3.0-v1.sh
+fi
+
 
 
 
