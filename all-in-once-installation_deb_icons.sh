@@ -80,10 +80,10 @@ echo "#####################################################"
 
 # HOMEBREW
 
-sh icons-sardi-latest.sh
-sh icons-sardi-extra-latest.sh
+sh icons-sardi-v2.sh
+sh icons-sardi-extra-v2.sh
 
-sh icons-surfn-latest.sh
+sh icons-surfn-v1.sh
 
 
 
