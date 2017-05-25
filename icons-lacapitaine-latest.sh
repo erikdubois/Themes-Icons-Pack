@@ -58,11 +58,7 @@
 
 rm -rf /tmp/la-captaine
 
-git clone https://github.com/keeferrourke/la-capitaine-icon-theme.git /tmp/la-captaine
-mkdir ~/.icons/la-captaine
-cp -r /tmp/la-captaine/* ~/.icons/la-captaine
-
-rm -rf /tmp/la-captaine
+git clone https://github.com/keeferrourke/la-capitaine-icon-theme ~/.icons/la-capitaine
 
 echo "################################################################"
 echo "###################    T H E   E N D      ######################"

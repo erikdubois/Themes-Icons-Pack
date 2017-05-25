@@ -438,8 +438,6 @@ https://github.com/keeferrourke/la-capitaine-icon-theme.git
 
 ![Screenshots](http://i.imgur.com/RqP8Jcd.png)
 
-Some specific mint icons are missing. Go to the index.theme and change the inherits line to add another theme that will fill in the missing icons.
-
 
 
 # Oranchelo
